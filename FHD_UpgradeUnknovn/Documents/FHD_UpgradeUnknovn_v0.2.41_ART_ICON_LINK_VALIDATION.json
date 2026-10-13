@@ -1,0 +1,46 @@
+{
+  "build": "v0.2.41 ART ICON LINK",
+  "base": "v0.2.39 SAVE_REPAIR",
+  "meta": [
+    {
+      "variant": "NORMAL",
+      "main_seed": 324508639,
+      "lang_seed": 324508639,
+      "cache_seed": 324508639
+    },
+    {
+      "variant": "100_PERCENT_INSTANT",
+      "main_seed": 324508639,
+      "lang_seed": 324508639,
+      "cache_seed": 324508639
+    }
+  ],
+  "checks": {
+    "normal": {
+      "main_art_emblem": true,
+      "main_equipment_emblem_preserved": true,
+      "cache_art_root": true,
+      "cache_equipment_root_preserved": true,
+      "no_bm_items_aliases": true,
+      "finalize_art_owner_none": true,
+      "finalize_equipment_unchanged": true,
+      "boot_migrates_art": true,
+      "art_png_same_bytes": true,
+      "art_gi_same_bytes": true,
+      "dialog_unchanged": true
+    },
+    "instant": {
+      "main_art_emblem": true,
+      "main_equipment_emblem_preserved": true,
+      "cache_art_root": true,
+      "cache_equipment_root_preserved": true,
+      "no_bm_items_aliases": true,
+      "finalize_art_owner_none": true,
+      "finalize_equipment_unchanged": true,
+      "boot_migrates_art": true,
+      "art_png_same_bytes": true,
+      "art_gi_same_bytes": true,
+      "dialog_unchanged": true
+    }
+  }
+}

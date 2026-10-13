@@ -1,0 +1,44 @@
+{
+  "mod": "FHD_UpgradeUnknovn_v0.2.43_ART_COMPAT_DUAL",
+  "xenomodkit": "0.10.4",
+  "variants": ["NORMAL", "100_PERCENT_INSTANT"],
+  "zip_integrity": {
+    "normal": true,
+    "instant": true
+  },
+  "native_validation": {
+    "normal": {"valid": true, "plugins": 1, "enabled": 1, "errors": 0, "warnings": 0},
+    "instant": {"valid": true, "plugins": 1, "enabled": 1, "errors": 0, "warnings": 0},
+    "plugin": "FHDUUArtCompat.XenoPlugin.dll",
+    "architecture": "x86 PE32",
+    "exports": ["XenoPlugin_Initialize", "XenoPlugin_Query"],
+    "sha256": "f48ea86a023549ff5598c13008509bbd5e39fb8f45179b068b665f7157efd074"
+  },
+  "dat_structure_validation_with_xenomodkit_0_10_4": {
+    "Main.dat": {"valid": true, "issues": 0},
+    "CacheData.dat": {"valid": true, "issues": 0},
+    "Lang.dat": {"valid": true, "warnings": 7, "errors": 0},
+    "notes": "Main/Lang were decoded with the exact codec family used by the mod; legacy CacheData was decoded with the legacy CacheData algorithm used by FHD_UpgradeUnknovn. The decoded BlockPar trees were then validated by XenoModKit 0.10.4. Direct DAT audit through BlockParEditor 2.1 cannot run in this Linux environment because XenoModKit's Windows executable/version/legacy-manifest path is Windows-only."
+  },
+  "script_registration": {
+    "main": "Data/Script/FHDUU_Dialog=1,Script.FHDUU_Dialog",
+    "cache": "Script/FHDUU_Dialog=Mods\\FHD_MODS\\FHD_UpgradeUnknovn\\DATA\\Script\\FHDUU_Dialog.scr",
+    "registered": true
+  },
+  "real_warnings": [
+    "ModuleInfo.txt: U+00A0 non-breaking spaces in SmallDescription/FullDescription (2 warnings).",
+    "Lang.dat: U+2014 em dash in seven display-text/script-string locations (7 warnings). These are display-font compatibility warnings, not structural/runtime errors."
+  ],
+  "environment_only_audit_errors": [
+    "dat-invalid/main-dat-invalid/cachedata-load/script-dialog-lang-dat-invalid because BlockParEditor is a Windows executable and cannot be executed by this Linux validation environment.",
+    "scr-unregistered is a cascading false result from Main.dat not being decoded by the direct audit; independent decode confirms registration."
+  ],
+  "variant_consistency": {
+    "same_file_set": true,
+    "same_main_dat": true,
+    "same_cachedata_dat": true,
+    "same_native_plugin": true,
+    "expected_differences": ["CFG/Rus/Lang.dat", "ModuleInfo.txt", "README_FHD_UpgradeUnknovn.txt"]
+  },
+  "result": "No functional ART_COMPAT defect found by XenoModKit 0.10.4 static/native/decoded-BlockPar validation. Remaining real findings are font-glyph warnings only. Full official DAT CLI validation still requires running XenoModKit 0.10.4 + BlockParEditor 2.1 on Windows."
+}

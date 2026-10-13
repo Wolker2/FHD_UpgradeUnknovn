@@ -1,0 +1,43 @@
+{
+  "schema": "fhd-scr-native-recovery-validation-v1",
+  "mod": "FHD_UpgradeUnknovn",
+  "script": "FHDUU_Dialog.scr",
+  "original_sha256": "fc392d68d9197408f455ccc3445f58a3f5562c27daa92b805670a02ceb9d8d7b",
+  "rebuilt_sha256": "fc392d68d9197408f455ccc3445f58a3f5562c27daa92b805670a02ceb9d8d7b",
+  "scr_version": 6,
+  "original_bytes": 1913,
+  "rebuilt_bytes": 1913,
+  "entire_file_parsed": true,
+  "exact_binary_match": true,
+  "build_from_text_files_only": true,
+  "independent_parser_roundtrip": true,
+  "changed_length_code_roundtrip": true,
+  "unicode_code_roundtrip": true,
+  "in_game_tested": false,
+  "rson_restored": false,
+  "record_counts": {
+    "globalvars": 0,
+    "localvars": 5,
+    "stars": 1,
+    "places": 0,
+    "items": 0,
+    "groups": 1,
+    "states": 1,
+    "dialogs": 2,
+    "dialog_msgs": 2,
+    "dialog_answers": 2
+  },
+  "independent_parser": {
+    "repository": "https://github.com/murgesku/scird",
+    "commit": "2c19513c2912dd3c29bd596b07588dcb2695746b",
+    "note": "Enabled SCR 8 for these records; both readers confirm exact roundtrip"
+  },
+  "format_reference": {
+    "repository": "https://github.com/pakompom/SpaceRangersHD_decomp",
+    "commit": "63a579bb2fea4754951d9fb572b8c4b3b33b8f42",
+    "files": [
+      "source/script/aScript.pas",
+      "source/script/EC_Expression.pas"
+    ]
+  }
+}

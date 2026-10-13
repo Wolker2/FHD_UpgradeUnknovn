@@ -1,0 +1,4 @@
+LIBRARY FHDUUMMIcons.XenoPlugin.dll
+EXPORTS
+ XenoPlugin_Query=XenoPlugin_Query
+ XenoPlugin_Initialize=XenoPlugin_Initialize

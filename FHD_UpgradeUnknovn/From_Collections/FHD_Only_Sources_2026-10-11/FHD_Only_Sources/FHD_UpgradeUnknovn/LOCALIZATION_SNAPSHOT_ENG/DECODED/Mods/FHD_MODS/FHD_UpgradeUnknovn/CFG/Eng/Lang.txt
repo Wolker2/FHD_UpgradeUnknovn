@@ -1,0 +1,1617 @@
+MicroModuls ^{
+    FHDUU_AmmoApplied ^{
+        CustomTag=FHDUU_AmmoApplied
+        Equipments=Any
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_ArtPropertyMark ^{
+        CustomTag=FHDUU_ArtPropertyMark
+        Equipments=Any
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AttemptMark ^{
+        CustomTag=FHDUU_AttemptMark
+        Equipments=Any
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost10 ^{
+        CostPercent=90
+        CustomTag=FHDUU_AuxCost10
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost11 ^{
+        CostPercent=89
+        CustomTag=FHDUU_AuxCost11
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost12 ^{
+        CostPercent=88
+        CustomTag=FHDUU_AuxCost12
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost13 ^{
+        CostPercent=87
+        CustomTag=FHDUU_AuxCost13
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost14 ^{
+        CostPercent=86
+        CustomTag=FHDUU_AuxCost14
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost15 ^{
+        CostPercent=85
+        CustomTag=FHDUU_AuxCost15
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost16 ^{
+        CostPercent=84
+        CustomTag=FHDUU_AuxCost16
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost17 ^{
+        CostPercent=83
+        CustomTag=FHDUU_AuxCost17
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost18 ^{
+        CostPercent=82
+        CustomTag=FHDUU_AuxCost18
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost19 ^{
+        CostPercent=81
+        CustomTag=FHDUU_AuxCost19
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost20 ^{
+        CostPercent=80
+        CustomTag=FHDUU_AuxCost20
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost21 ^{
+        CostPercent=79
+        CustomTag=FHDUU_AuxCost21
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost22 ^{
+        CostPercent=78
+        CustomTag=FHDUU_AuxCost22
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost23 ^{
+        CostPercent=77
+        CustomTag=FHDUU_AuxCost23
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost24 ^{
+        CostPercent=76
+        CustomTag=FHDUU_AuxCost24
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost25 ^{
+        CostPercent=75
+        CustomTag=FHDUU_AuxCost25
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost26 ^{
+        CostPercent=74
+        CustomTag=FHDUU_AuxCost26
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost27 ^{
+        CostPercent=73
+        CustomTag=FHDUU_AuxCost27
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost5 ^{
+        CostPercent=95
+        CustomTag=FHDUU_AuxCost5
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost6 ^{
+        CostPercent=94
+        CustomTag=FHDUU_AuxCost6
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost7 ^{
+        CostPercent=93
+        CustomTag=FHDUU_AuxCost7
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost8 ^{
+        CostPercent=92
+        CustomTag=FHDUU_AuxCost8
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxCost9 ^{
+        CostPercent=91
+        CustomTag=FHDUU_AuxCost9
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability10 ^{
+        CustomTag=FHDUU_AuxReliability10
+        Equipments=Any
+        FragilityPercent=91
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability11 ^{
+        CustomTag=FHDUU_AuxReliability11
+        Equipments=Any
+        FragilityPercent=90
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability12 ^{
+        CustomTag=FHDUU_AuxReliability12
+        Equipments=Any
+        FragilityPercent=89
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability13 ^{
+        CustomTag=FHDUU_AuxReliability13
+        Equipments=Any
+        FragilityPercent=88
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability14 ^{
+        CustomTag=FHDUU_AuxReliability14
+        Equipments=Any
+        FragilityPercent=88
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability15 ^{
+        CustomTag=FHDUU_AuxReliability15
+        Equipments=Any
+        FragilityPercent=87
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability16 ^{
+        CustomTag=FHDUU_AuxReliability16
+        Equipments=Any
+        FragilityPercent=86
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability17 ^{
+        CustomTag=FHDUU_AuxReliability17
+        Equipments=Any
+        FragilityPercent=85
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability18 ^{
+        CustomTag=FHDUU_AuxReliability18
+        Equipments=Any
+        FragilityPercent=85
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability19 ^{
+        CustomTag=FHDUU_AuxReliability19
+        Equipments=Any
+        FragilityPercent=84
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability20 ^{
+        CustomTag=FHDUU_AuxReliability20
+        Equipments=Any
+        FragilityPercent=83
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability21 ^{
+        CustomTag=FHDUU_AuxReliability21
+        Equipments=Any
+        FragilityPercent=83
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability22 ^{
+        CustomTag=FHDUU_AuxReliability22
+        Equipments=Any
+        FragilityPercent=82
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability23 ^{
+        CustomTag=FHDUU_AuxReliability23
+        Equipments=Any
+        FragilityPercent=81
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability24 ^{
+        CustomTag=FHDUU_AuxReliability24
+        Equipments=Any
+        FragilityPercent=81
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability25 ^{
+        CustomTag=FHDUU_AuxReliability25
+        Equipments=Any
+        FragilityPercent=80
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability26 ^{
+        CustomTag=FHDUU_AuxReliability26
+        Equipments=Any
+        FragilityPercent=79
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability27 ^{
+        CustomTag=FHDUU_AuxReliability27
+        Equipments=Any
+        FragilityPercent=79
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability28 ^{
+        CustomTag=FHDUU_AuxReliability28
+        Equipments=Any
+        FragilityPercent=78
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability5 ^{
+        CustomTag=FHDUU_AuxReliability5
+        Equipments=Any
+        FragilityPercent=95
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability6 ^{
+        CustomTag=FHDUU_AuxReliability6
+        Equipments=Any
+        FragilityPercent=94
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability7 ^{
+        CustomTag=FHDUU_AuxReliability7
+        Equipments=Any
+        FragilityPercent=93
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability8 ^{
+        CustomTag=FHDUU_AuxReliability8
+        Equipments=Any
+        FragilityPercent=93
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxReliability9 ^{
+        CustomTag=FHDUU_AuxReliability9
+        Equipments=Any
+        FragilityPercent=92
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_AuxSize10 ^{
+        CustomTag=FHDUU_AuxSize10
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=90
+        Special=1
+    }
+    FHDUU_AuxSize11 ^{
+        CustomTag=FHDUU_AuxSize11
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=89
+        Special=1
+    }
+    FHDUU_AuxSize12 ^{
+        CustomTag=FHDUU_AuxSize12
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=88
+        Special=1
+    }
+    FHDUU_AuxSize13 ^{
+        CustomTag=FHDUU_AuxSize13
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=87
+        Special=1
+    }
+    FHDUU_AuxSize14 ^{
+        CustomTag=FHDUU_AuxSize14
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=86
+        Special=1
+    }
+    FHDUU_AuxSize15 ^{
+        CustomTag=FHDUU_AuxSize15
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=85
+        Special=1
+    }
+    FHDUU_AuxSize16 ^{
+        CustomTag=FHDUU_AuxSize16
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=84
+        Special=1
+    }
+    FHDUU_AuxSize17 ^{
+        CustomTag=FHDUU_AuxSize17
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=83
+        Special=1
+    }
+    FHDUU_AuxSize18 ^{
+        CustomTag=FHDUU_AuxSize18
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=82
+        Special=1
+    }
+    FHDUU_AuxSize19 ^{
+        CustomTag=FHDUU_AuxSize19
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=81
+        Special=1
+    }
+    FHDUU_AuxSize20 ^{
+        CustomTag=FHDUU_AuxSize20
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=80
+        Special=1
+    }
+    FHDUU_AuxSize3 ^{
+        CustomTag=FHDUU_AuxSize3
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=97
+        Special=1
+    }
+    FHDUU_AuxSize4 ^{
+        CustomTag=FHDUU_AuxSize4
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=96
+        Special=1
+    }
+    FHDUU_AuxSize5 ^{
+        CustomTag=FHDUU_AuxSize5
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=95
+        Special=1
+    }
+    FHDUU_AuxSize6 ^{
+        CustomTag=FHDUU_AuxSize6
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=94
+        Special=1
+    }
+    FHDUU_AuxSize7 ^{
+        CustomTag=FHDUU_AuxSize7
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=93
+        Special=1
+    }
+    FHDUU_AuxSize8 ^{
+        CustomTag=FHDUU_AuxSize8
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=92
+        Special=1
+    }
+    FHDUU_AuxSize9 ^{
+        CustomTag=FHDUU_AuxSize9
+        Equipments=Any
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        SizePercent=91
+        Special=1
+    }
+    FHDUU_DiscoveredHeader ^{
+        CustomTag=FHDUU_DiscoveredHeader
+        Equipments=Any
+        ExText=<color=255,100,0>Hidden black-hole equipment bonus discovered.</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_FuelCapacityApplied ^{
+        CustomTag=FHDUU_FuelCapacityApplied
+        Equipments=FuelTank
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_FuelNativeApplied ^{
+        CustomTag=FHDUU_FuelNativeApplied
+        Equipments=FuelTank
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_NoRepeatMark ^{
+        CustomTag=FHDUU_NoRepeatMark
+        Equipments=Any
+        ExText=<color=80,220,120>Allows installing 2 micromodules simultaneously</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_Property_Ammo ^{
+        CustomTag=FHDUU_Property_Ammo
+        Equipments=WMissile
+        ExText=<color=255,170,40>Property: Number of volleys</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> volleys</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_Property_Cost ^{
+        CustomTag=FHDUU_Property_Cost
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Maintenance cost</color>
+        ExText=<color=210,210,210>Grants: -<ExCount>% cost</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_Property_Def ^{
+        CustomTag=FHDUU_Property_Def
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Shield generator</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonDef=1
+    }
+    FHDUU_Property_Droid ^{
+        CustomTag=FHDUU_Property_Droid
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Droid efficiency</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonDroid=1
+    }
+    FHDUU_Property_Fuel ^{
+        CustomTag=FHDUU_Property_Fuel
+        Equipments=FuelTank
+        ExText=<color=255,170,40>Property: Fuel tank capacity</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonFuel=1
+    }
+    FHDUU_Property_Hook ^{
+        CustomTag=FHDUU_Property_Hook
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Cargo hook power</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonHook=1
+    }
+    FHDUU_Property_HookMaxSpeed ^{
+        CustomTag=FHDUU_Property_HookMaxSpeed
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Maximum cargo hook speed</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonHookMaxSpeed=1
+    }
+    FHDUU_Property_HookMinSpeed ^{
+        CustomTag=FHDUU_Property_HookMinSpeed
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Minimum cargo hook speed</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonHookMinSpeed=1
+    }
+    FHDUU_Property_HookRadius ^{
+        CustomTag=FHDUU_Property_HookRadius
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Cargo hook range</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonHookRadius=1
+    }
+    FHDUU_Property_Hull ^{
+        CustomTag=FHDUU_Property_Hull
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Hull armor</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonHull=1
+    }
+    FHDUU_Property_Jump ^{
+        CustomTag=FHDUU_Property_Jump
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Jump range</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pc</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonJump=1
+    }
+    FHDUU_Property_Mass ^{
+        CustomTag=FHDUU_Property_Mass
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Ship mass reduction</color>
+        ExText=<color=210,210,210>Grants: -<ExCount>% mass</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonMass=-1
+    }
+    FHDUU_Property_MissileSpeed ^{
+        CustomTag=FHDUU_Property_MissileSpeed
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Missile speed</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_Property_Radar ^{
+        CustomTag=FHDUU_Property_Radar
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Radar range</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> million km</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonRadar=1
+    }
+    FHDUU_Property_Reliability ^{
+        CustomTag=FHDUU_Property_Reliability
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Equipment reliability</color>
+        ExText=<color=210,210,210>Grants: +<ExCount>% effective durability</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_Property_ResistAsteroid ^{
+        CustomTag=FHDUU_Property_ResistAsteroid
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Asteroid damage resistance</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonResistAsteroid=1
+    }
+    FHDUU_Property_Scan ^{
+        CustomTag=FHDUU_Property_Scan
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Scanner power</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonScan=1
+    }
+    FHDUU_Property_ShotSpeed ^{
+        CustomTag=FHDUU_Property_ShotSpeed
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Weapon rate of fire</color>
+        ExText=<color=210,210,210>Grants: +<ExCount>%</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_Property_Size ^{
+        CustomTag=FHDUU_Property_Size
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Equipment size</color>
+        ExText=<color=210,210,210>Grants: -<ExCount>% size</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_Property_Speed ^{
+        CustomTag=FHDUU_Property_Speed
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Engine speed</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonSpeed=1
+    }
+    FHDUU_Property_WEnergy ^{
+        CustomTag=FHDUU_Property_WEnergy
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Energy weapon power</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonWEnergy=1
+    }
+    FHDUU_Property_WMissile ^{
+        CustomTag=FHDUU_Property_WMissile
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Missile weapon power</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonWMissile=1
+    }
+    FHDUU_Property_WRadius ^{
+        CustomTag=FHDUU_Property_WRadius
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Weapon range</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonWRadius=1
+    }
+    FHDUU_Property_WSplinter ^{
+        CustomTag=FHDUU_Property_WSplinter
+        Equipments=Any
+        ExText=<color=255,170,40>Property: Fragmentation weapon power</color>
+        ExText=<color=210,210,210>Grants: +<ExCount> pts</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonWSplinter=1
+    }
+    FHDUU_QualityMM1 ^{
+        CustomTag=FHDUU_QualityMM1
+        Equipments=Any
+        ExText=<color=180,80,255>HB I</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_QualityMM1Full ^{
+        CustomTag=FHDUU_QualityMM1Full
+        Equipments=Any
+        ExText=<color=170,105,55>HB I</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_QualityMM2 ^{
+        CustomTag=FHDUU_QualityMM2
+        Equipments=Any
+        ExText=<color=60,150,255>HB II</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_QualityMM3 ^{
+        CustomTag=FHDUU_QualityMM3
+        Equipments=Any
+        ExText=<color=80,220,120>HB III</color>
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_ResearchedMark ^{
+        CustomTag=FHDUU_ResearchedMark
+        Equipments=Any
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_RuntimeEffectMark ^{
+        CustomTag=FHDUU_RuntimeEffectMark
+        Equipments=Any
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_SalvosNativeApplied ^{
+        CustomTag=FHDUU_SalvosNativeApplied
+        Equipments=WMissile
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+    }
+    FHDUU_ShotSpeedApplied ^{
+        CustomTag=FHDUU_ShotSpeedApplied
+        Equipments=Any
+        LockedAcryn=3
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonShotSpeed=1
+    }
+    FHDUU_Unit_Def ^{
+        CustomTag=FHDUU_Unit_Def
+        Equipments=DefGenerator
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonDef=1
+    }
+    FHDUU_Unit_Droid ^{
+        CustomTag=FHDUU_Unit_Droid
+        Equipments=Droid
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonDroid=1
+    }
+    FHDUU_Unit_Fuel ^{
+        CustomTag=FHDUU_Unit_Fuel
+        Equipments=FuelTank
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonFuel=1
+    }
+    FHDUU_Unit_Hook ^{
+        CustomTag=FHDUU_Unit_Hook
+        Equipments=Hook
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonHook=1
+    }
+    FHDUU_Unit_HookMaxSpeed ^{
+        CustomTag=FHDUU_Unit_HookMaxSpeed
+        Equipments=Hook
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonHookMaxSpeed=1
+    }
+    FHDUU_Unit_HookMinSpeed ^{
+        CustomTag=FHDUU_Unit_HookMinSpeed
+        Equipments=Hook
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonHookMinSpeed=1
+    }
+    FHDUU_Unit_HookRadius ^{
+        CustomTag=FHDUU_Unit_HookRadius
+        Equipments=Hook
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonHookRadius=1
+    }
+    FHDUU_Unit_Hull ^{
+        CustomTag=FHDUU_Unit_Hull
+        Equipments=Hull
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonHull=1
+    }
+    FHDUU_Unit_Jump ^{
+        CustomTag=FHDUU_Unit_Jump
+        Equipments=Engine
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonJump=1
+    }
+    FHDUU_Unit_Radar ^{
+        CustomTag=FHDUU_Unit_Radar
+        Equipments=Radar
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonRadar=1
+    }
+    FHDUU_Unit_ResistAsteroid ^{
+        CustomTag=FHDUU_Unit_ResistAsteroid
+        Equipments=Hull
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonResistAsteroid=1
+    }
+    FHDUU_Unit_Scan ^{
+        CustomTag=FHDUU_Unit_Scan
+        Equipments=Scaner
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonScan=1
+    }
+    FHDUU_Unit_Speed ^{
+        CustomTag=FHDUU_Unit_Speed
+        Equipments=Engine
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonSpeed=1
+    }
+    FHDUU_Unit_WEnergy ^{
+        CustomTag=FHDUU_Unit_WEnergy
+        Equipments=WEnergy
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonWEnergy=1
+    }
+    FHDUU_Unit_WMissile ^{
+        CustomTag=FHDUU_Unit_WMissile
+        Equipments=WMissile
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonWMissile=1
+    }
+    FHDUU_Unit_WRadius ^{
+        CustomTag=FHDUU_Unit_WRadius
+        Equipments=WEnergy,WSplinter,WMissile
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonWRadius=1
+    }
+    FHDUU_Unit_WSplinter ^{
+        CustomTag=FHDUU_Unit_WSplinter
+        Equipments=WSplinter
+        LockedAcryn=3
+        Name=
+        NonSearchable=1
+        Priority=0
+        Special=1
+        bonWSplinter=1
+    }
+}
+Script ^{
+    FHD_UpgradeUnknovn ^{
+        AddSelectedEffect ^{
+            001=int p=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',b,'result');int v=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.RollSBValue'),'b',b,'tier',tier,'result');if(p>=0 && v>0 && ItemExtraSpecialsCountByType(item,p)==0)ItemExtraSpecialsAddByType(item,p,v);
+            002=if(v>0 && (b==1 || b==31))ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyTypeLockedNativeEffect'),'item',item,'b',b);
+            003=if(v>0 && b==41)ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyAuxEffect'),'item',item,'b',b,'v',v);
+        }
+        ApplyArtDef ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',8,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusC',2);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonDef,ShipSpecialBonuses(Player(),bonDef)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusC',2,desired);
+        }
+        ApplyArtDroid ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',6,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusB',3);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonDroid,ShipSpecialBonuses(Player(),bonDroid)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusB',3,desired);
+        }
+        ApplyArtFuel ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',1,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusF',2);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonFuel,ShipSpecialBonuses(Player(),bonFuel)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusF',2,desired);
+        }
+        ApplyArtHook ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',7,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusC',1);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonHook,ShipSpecialBonuses(Player(),bonHook)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusC',1,desired);
+        }
+        ApplyArtHookMaxSpeed ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',35,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusE',2);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonHookMaxSpeed,ShipSpecialBonuses(Player(),bonHookMaxSpeed)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusE',2,desired);
+        }
+        ApplyArtHookMinSpeed ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',36,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusE',3);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonHookMinSpeed,ShipSpecialBonuses(Player(),bonHookMinSpeed)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusE',3,desired);
+        }
+        ApplyArtHookRadius ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',21,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusE',1);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonHookRadius,ShipSpecialBonuses(Player(),bonHookRadius)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusE',1,desired);
+        }
+        ApplyArtHull ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',0,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusA',1);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonHull,ShipSpecialBonuses(Player(),bonHull)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusA',1,desired);
+        }
+        ApplyArtJump ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',3,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusA',3);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonJump,ShipSpecialBonuses(Player(),bonJump)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusA',3,desired);
+        }
+        ApplyArtRadar ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',4,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusB',1);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonRadar,ShipSpecialBonuses(Player(),bonRadar)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusB',1,desired);
+        }
+        ApplyArtResistAsteroid ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',40,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusF',1);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonResistAsteroid,ShipSpecialBonuses(Player(),bonResistAsteroid)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusF',1,desired);
+        }
+        ApplyArtScan ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',5,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusB',2);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonScan,ShipSpecialBonuses(Player(),bonScan)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusB',2,desired);
+        }
+        ApplyArtSpeed ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',2,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusA',2);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonSpeed,ShipSpecialBonuses(Player(),bonSpeed)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusA',2,desired);
+        }
+        ApplyArtWEnergy ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',9,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusC',3);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonWEnergy,ShipSpecialBonuses(Player(),bonWEnergy)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusC',3,desired);
+        }
+        ApplyArtWMissile ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',11,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusD',2);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonWMissile,ShipSpecialBonuses(Player(),bonWMissile)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusD',2,desired);
+        }
+        ApplyArtWRadius ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',12,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusD',3);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonWRadius,ShipSpecialBonuses(Player(),bonWRadius)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusD',3,desired);
+        }
+        ApplyArtWSplinter ^{
+            001=if(!Player())exit;int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',10,'result');
+            002=desired=desired;
+            003=int prev=ShipCustomShipInfoData(Player(),'FHDUU_BonusD',1);if(prev==desired)exit;ShipSpecialBonuses(Player(),bonWSplinter,ShipSpecialBonuses(Player(),bonWSplinter)-prev+desired);ShipCustomShipInfoData(Player(),'FHDUU_BonusD',1,desired);
+        }
+        ApplyArtifactBonuses ^{
+            001=if(!Player())exit;int legacy=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ClearLegacyShipBonuses'),'result');int copied=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ClearNativeTargetUnits'),'result');if(legacy+copied>0)ShipCalcParam(Player());
+        }
+        ApplyArtifactSet1 ^{
+            001=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtHull'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtSpeed'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtJump'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtRadar'));
+        }
+        ApplyArtifactSet2 ^{
+            001=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtScan'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtDroid'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtHook'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtDef'));
+        }
+        ApplyArtifactSet3 ^{
+            001=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtWEnergy'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtWSplinter'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtWMissile'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtWRadius'));
+        }
+        ApplyArtifactSet4 ^{
+            001=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtHookRadius'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtHookMaxSpeed'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtHookMinSpeed'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtResistAsteroid'));
+        }
+        ApplyArtifactSet5 ^{
+            001=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtFuel'));
+        }
+        ApplyAuxEffect ^{
+            001=if(b==41){int old=ItemSize(item);int ns=(old*(100-v)+50)/100;if(ns<1)ns=1;if(ns<old)ItemSize(item,ns);exit;}
+            002=if(b!=42)exit;str tag='FHDUU_AuxReliability'+v;int e=FindBonusByCustomTag(tag);if(e>=0 && ItemExtraSpecialsCountByType(item,e)==0)ItemExtraSpecialsAddByType(item,e,1);
+        }
+        ApplyExactNativeUnit ^{
+            001=int result=0;if(!item || unit<0)exit;if(value<0)value=0;int old=ItemExtraSpecialsCountByType(item,unit);if(old==value)exit;if(old>0)ItemExtraSpecialsDeleteByType(item,unit,old);if(value>0)ItemExtraSpecialsAddByType(item,unit,value);result=1;
+        }
+        ApplyNativeUnit ^{
+            001=int result=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyExactNativeUnit'),'item',item,'unit',unit,'value',value,'result');
+        }
+        ApplyTypeLockedNativeEffect ^{
+            001=if(!item)exit;if(b==1){if(ItemType(item)!=t_FuelTanks)exit;int p_f=FindBonusByCustomTag('FHDUU_Property_Fuel');int m_f=FindBonusByCustomTag('FHDUU_FuelNativeApplied');if(p_f<0 || m_f<0)exit;int want_f=ItemExtraSpecialsCountByType(item,p_f);int old_f=ItemExtraSpecialsCountByType(item,m_f);if(want_f==old_f)exit;int cap_f=GetEquipmentStats(item,0)-old_f;if(cap_f<1)cap_f=1;int fuel_f=GetEquipmentStats(item,1);int was_full_f=0;if(fuel_f>=cap_f+old_f)was_full_f=1;int add_f=want_f;if(cap_f+add_f>255)add_f=255-cap_f;if(add_f<0)add_f=0;int new_f=cap_f+add_f;SetEquipmentStats(item,new_f,0);if(fuel_f>new_f)SetEquipmentStats(item,new_f,1);else if(was_full_f)SetEquipmentStats(item,new_f,1);if(old_f>0)ItemExtraSpecialsDeleteByType(item,m_f,old_f);if(add_f>0)ItemExtraSpecialsAddByType(item,m_f,add_f);exit;}
+            002=if(b!=31)exit;int t_s=ItemType(item);if(t_s<=t_DefGenerator || t_s>t_CustomWeapon)exit;if(GetEquipmentStats(item,3)!=2)exit;int p_s=FindBonusByCustomTag('FHDUU_Property_Ammo');int m_s=FindBonusByCustomTag('FHDUU_SalvosNativeApplied');if(p_s<0 || m_s<0)exit;int want_s=ItemExtraSpecialsCountByType(item,p_s);int old_s=ItemExtraSpecialsCountByType(item,m_s);if(want_s==old_s)exit;int max_s=WeaponMaxAmmunition(item)-old_s;if(max_s<0)max_s=0;if(max_s<=0)exit;int ammo_s=WeaponAmmunition(item);int was_full_s=0;if(ammo_s>=max_s+old_s)was_full_s=1;int new_s=max_s+want_s;WeaponMaxAmmunition(item,new_s);if(ammo_s>new_s)WeaponAmmunition(item,new_s);else if(was_full_s)WeaponAmmunition(item,new_s);if(old_s>0)ItemExtraSpecialsDeleteByType(item,m_s,old_s);if(want_s>0)ItemExtraSpecialsAddByType(item,m_s,want_s);
+        }
+        ApplyWeaponNativeUnit ^{
+            001=int result=0;if(!item || unit<0)exit;int old=ItemExtraSpecialsCountByType(item,unit);int want=0;if(value>0 && (old>0 || MayAddBonusToEq(unit,item)))want=value;if(old==want)exit;if(old>0)ItemExtraSpecialsDeleteByType(item,unit,old);if(want>0)ItemExtraSpecialsAddByType(item,unit,want);result=1;
+        }
+        Boot ^{
+            001=if(!Player())exit;ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.Ensure'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.RefreshPropertyText'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyArtifactBonuses'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.SyncWeaponBonuses'));
+        }
+        CalcActiveBonus ^{
+            001=int result=0;if(!Player())exit;int mark=FindBonusByCustomTag('FHDUU_ResearchedMark');int store=FindBonusByCustomTag('FHDUU_ArtPropertyMark');int rt=FindBonusByCustomTag('FHDUU_RuntimeEffectMark');int prop=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',b,'result');if(mark<0 || prop<0)exit;
+            002=for(int i=0;i<ShipArts(Player());i=i+1){dword a=ShipArts(Player(),i);if(!a)continue;if(ItemIsInUse(a)<=0)continue;if(ItemExtraSpecialsCountByType(a,mark)<=0)continue;if(rt>=0 && ItemExtraSpecialsCountByType(a,rt)>0){result=result+ItemExtraSpecialsCountByType(a,prop);continue;}if(store>=0){int c=ItemExtraSpecialsCountByType(a,store);if(c>0){int m=c-1;result=result+BonusValue(m,b);}}}
+            003=for(int j=0;j<ShipItems(Player());j=j+1){dword e=ShipItems(Player(),j);if(!e)continue;if(ItemIsInUse(e)<=0)continue;if(ItemExtraSpecialsCountByType(e,mark)<=0)continue;if(rt<0 || ItemExtraSpecialsCountByType(e,rt)<=0)continue;result=result+ItemExtraSpecialsCountByType(e,prop);}
+        }
+        CheckResearchNotification ^{
+            001=if(!Player())exit;if(!ShipCustomShipInfoData(Player(),'FHDUU_State',1))exit;int finish=ShipCustomShipInfoData(Player(),'FHDUU_State',2);if(finish<=0 || CurTurn()<finish)exit;if(ShipCustomShipInfoData(Player(),'FHDUU_Notify',1)>0)exit;str nm=ShipCustomShipInfoTextData(Player(),'FHDUU_State',1);str id='FHDUU_READY_'+finish;ShipCustomShipInfoData(Player(),'FHDUU_Notify',1,1);Sound('Sound.NewMsg');CustomEther('Tips',7,id,'Research into hidden black-hole properties is complete.<br>Return to the nearest science station.<br>Item: '+nm);
+        }
+        CleanupLegacyTypeLocked ^{
+            001=if(!item)exit;int t_l=ItemType(item);if(t_l==t_FuelTanks){int mk_lf=FindBonusByCustomTag('FHDUU_FuelCapacityApplied');if(mk_lf>=0){int old_lf=ItemExtraSpecialsCountByType(item,mk_lf);if(old_lf>0){int cap_lf=GetEquipmentStats(item,0)-old_lf;if(cap_lf<1)cap_lf=1;int fuel_lf=GetEquipmentStats(item,1);SetEquipmentStats(item,cap_lf,0);if(fuel_lf>cap_lf)SetEquipmentStats(item,cap_lf,1);ItemExtraSpecialsDeleteByType(item,mk_lf,old_lf);}}}
+            002=if(t_l<=t_DefGenerator || t_l>t_CustomWeapon)exit;int mk_la=FindBonusByCustomTag('FHDUU_AmmoApplied');if(mk_la<0)exit;int old_la=ItemExtraSpecialsCountByType(item,mk_la);if(old_la<=0)exit;int max_la=WeaponMaxAmmunition(item)-old_la;if(max_la<0)max_la=0;if(max_la>0)WeaponMaxAmmunition(item,max_la);int ammo_la=WeaponAmmunition(item);if(ammo_la>max_la && max_la>0)WeaponAmmunition(item,max_la);ItemExtraSpecialsDeleteByType(item,mk_la,old_la);
+        }
+        ClearLegacyShipBonuses ^{
+            001=int result=0;int c=0;int x1=ShipCustomShipInfoData(Player(),'FHDUU_BonusA',1);if(x1>0){c=ShipSpecialBonuses(Player(),bonHull)-x1;if(c<0)c=0;ShipSpecialBonuses(Player(),bonHull,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusA',1,0);result=1;}int x2=ShipCustomShipInfoData(Player(),'FHDUU_BonusF',2);if(x2>0){c=ShipSpecialBonuses(Player(),bonFuel)-x2;if(c<0)c=0;ShipSpecialBonuses(Player(),bonFuel,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusF',2,0);result=1;}int x3=ShipCustomShipInfoData(Player(),'FHDUU_BonusA',2);if(x3>0){c=ShipSpecialBonuses(Player(),bonSpeed)-x3;if(c<0)c=0;ShipSpecialBonuses(Player(),bonSpeed,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusA',2,0);result=1;}int x4=ShipCustomShipInfoData(Player(),'FHDUU_BonusA',3);if(x4>0){c=ShipSpecialBonuses(Player(),bonJump)-x4;if(c<0)c=0;ShipSpecialBonuses(Player(),bonJump,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusA',3,0);result=1;}int x5=ShipCustomShipInfoData(Player(),'FHDUU_BonusB',1);if(x5>0){c=ShipSpecialBonuses(Player(),bonRadar)-x5;if(c<0)c=0;ShipSpecialBonuses(Player(),bonRadar,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusB',1,0);result=1;}int x6=ShipCustomShipInfoData(Player(),'FHDUU_BonusB',2);if(x6>0){c=ShipSpecialBonuses(Player(),bonScan)-x6;if(c<0)c=0;ShipSpecialBonuses(Player(),bonScan,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusB',2,0);result=1;}int x7=ShipCustomShipInfoData(Player(),'FHDUU_BonusB',3);if(x7>0){c=ShipSpecialBonuses(Player(),bonDroid)-x7;if(c<0)c=0;ShipSpecialBonuses(Player(),bonDroid,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusB',3,0);result=1;}int x8=ShipCustomShipInfoData(Player(),'FHDUU_BonusC',1);if(x8>0){c=ShipSpecialBonuses(Player(),bonHook)-x8;if(c<0)c=0;ShipSpecialBonuses(Player(),bonHook,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusC',1,0);result=1;}int x9=ShipCustomShipInfoData(Player(),'FHDUU_BonusC',2);if(x9>0){c=ShipSpecialBonuses(Player(),bonDef)-x9;if(c<0)c=0;ShipSpecialBonuses(Player(),bonDef,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusC',2,0);result=1;}
+            002=int x10=ShipCustomShipInfoData(Player(),'FHDUU_BonusC',3);if(x10>0){c=ShipSpecialBonuses(Player(),bonWEnergy)-x10;if(c<0)c=0;ShipSpecialBonuses(Player(),bonWEnergy,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusC',3,0);result=1;}int x11=ShipCustomShipInfoData(Player(),'FHDUU_BonusD',1);if(x11>0){c=ShipSpecialBonuses(Player(),bonWSplinter)-x11;if(c<0)c=0;ShipSpecialBonuses(Player(),bonWSplinter,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusD',1,0);result=1;}int x12=ShipCustomShipInfoData(Player(),'FHDUU_BonusD',2);if(x12>0){c=ShipSpecialBonuses(Player(),bonWMissile)-x12;if(c<0)c=0;ShipSpecialBonuses(Player(),bonWMissile,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusD',2,0);result=1;}int x13=ShipCustomShipInfoData(Player(),'FHDUU_BonusD',3);if(x13>0){c=ShipSpecialBonuses(Player(),bonWRadius)-x13;if(c<0)c=0;ShipSpecialBonuses(Player(),bonWRadius,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusD',3,0);result=1;}int x14=ShipCustomShipInfoData(Player(),'FHDUU_BonusE',1);if(x14>0){c=ShipSpecialBonuses(Player(),bonHookRadius)-x14;if(c<0)c=0;ShipSpecialBonuses(Player(),bonHookRadius,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusE',1,0);result=1;}int x15=ShipCustomShipInfoData(Player(),'FHDUU_BonusE',2);if(x15>0){c=ShipSpecialBonuses(Player(),bonHookMaxSpeed)-x15;if(c<0)c=0;ShipSpecialBonuses(Player(),bonHookMaxSpeed,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusE',2,0);result=1;}int x16=ShipCustomShipInfoData(Player(),'FHDUU_BonusE',3);if(x16>0){c=ShipSpecialBonuses(Player(),bonHookMinSpeed)-x16;if(c<0)c=0;ShipSpecialBonuses(Player(),bonHookMinSpeed,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusE',3,0);result=1;}int x17=ShipCustomShipInfoData(Player(),'FHDUU_BonusF',1);if(x17>0){c=ShipSpecialBonuses(Player(),bonResistAsteroid)-x17;if(c<0)c=0;ShipSpecialBonuses(Player(),bonResistAsteroid,c);ShipCustomShipInfoData(Player(),'FHDUU_BonusF',1,0);result=1;}
+        }
+        ClearNativeTargetUnits ^{
+            001=int result=0;int u0=FindBonusByCustomTag('FHDUU_Unit_Hull');int u1=FindBonusByCustomTag('FHDUU_Unit_Fuel');int u2=FindBonusByCustomTag('FHDUU_Unit_Speed');int u3=FindBonusByCustomTag('FHDUU_Unit_Jump');int u4=FindBonusByCustomTag('FHDUU_Unit_Radar');int u5=FindBonusByCustomTag('FHDUU_Unit_Scan');int u6=FindBonusByCustomTag('FHDUU_Unit_Droid');int u7=FindBonusByCustomTag('FHDUU_Unit_Hook');int u8=FindBonusByCustomTag('FHDUU_Unit_Def');
+            002=int u9=FindBonusByCustomTag('FHDUU_Unit_WEnergy');int u10=FindBonusByCustomTag('FHDUU_Unit_WSplinter');int u11=FindBonusByCustomTag('FHDUU_Unit_WMissile');int u12=FindBonusByCustomTag('FHDUU_Unit_WRadius');int u21=FindBonusByCustomTag('FHDUU_Unit_HookRadius');int u35=FindBonusByCustomTag('FHDUU_Unit_HookMaxSpeed');int u36=FindBonusByCustomTag('FHDUU_Unit_HookMinSpeed');int u40=FindBonusByCustomTag('FHDUU_Unit_ResistAsteroid');
+            003=for(int i=0;i<ShipItems(Player());i=i+1){dword x=ShipItems(Player(),i);if(!x)continue;int c0=0;if(u0>=0){c0=ItemExtraSpecialsCountByType(x,u0);if(c0>0){ItemExtraSpecialsDeleteByType(x,u0,c0);result=1;}}if(u1>=0){c0=ItemExtraSpecialsCountByType(x,u1);if(c0>0){ItemExtraSpecialsDeleteByType(x,u1,c0);result=1;}}if(u2>=0){c0=ItemExtraSpecialsCountByType(x,u2);if(c0>0){ItemExtraSpecialsDeleteByType(x,u2,c0);result=1;}}if(u3>=0){c0=ItemExtraSpecialsCountByType(x,u3);if(c0>0){ItemExtraSpecialsDeleteByType(x,u3,c0);result=1;}}if(u4>=0){c0=ItemExtraSpecialsCountByType(x,u4);if(c0>0){ItemExtraSpecialsDeleteByType(x,u4,c0);result=1;}}if(u5>=0){c0=ItemExtraSpecialsCountByType(x,u5);if(c0>0){ItemExtraSpecialsDeleteByType(x,u5,c0);result=1;}}
+            004=if(u6>=0){c0=ItemExtraSpecialsCountByType(x,u6);if(c0>0){ItemExtraSpecialsDeleteByType(x,u6,c0);result=1;}}if(u7>=0){c0=ItemExtraSpecialsCountByType(x,u7);if(c0>0){ItemExtraSpecialsDeleteByType(x,u7,c0);result=1;}}if(u8>=0){c0=ItemExtraSpecialsCountByType(x,u8);if(c0>0){ItemExtraSpecialsDeleteByType(x,u8,c0);result=1;}}if(u9>=0){c0=ItemExtraSpecialsCountByType(x,u9);if(c0>0){ItemExtraSpecialsDeleteByType(x,u9,c0);result=1;}}if(u10>=0){c0=ItemExtraSpecialsCountByType(x,u10);if(c0>0){ItemExtraSpecialsDeleteByType(x,u10,c0);result=1;}}if(u11>=0){c0=ItemExtraSpecialsCountByType(x,u11);if(c0>0){ItemExtraSpecialsDeleteByType(x,u11,c0);result=1;}}
+            005=if(u12>=0){c0=ItemExtraSpecialsCountByType(x,u12);if(c0>0){ItemExtraSpecialsDeleteByType(x,u12,c0);result=1;}}if(u21>=0){c0=ItemExtraSpecialsCountByType(x,u21);if(c0>0){ItemExtraSpecialsDeleteByType(x,u21,c0);result=1;}}if(u35>=0){c0=ItemExtraSpecialsCountByType(x,u35);if(c0>0){ItemExtraSpecialsDeleteByType(x,u35,c0);result=1;}}if(u36>=0){c0=ItemExtraSpecialsCountByType(x,u36);if(c0>0){ItemExtraSpecialsDeleteByType(x,u36,c0);result=1;}}if(u40>=0){c0=ItemExtraSpecialsCountByType(x,u40);if(c0>0){ItemExtraSpecialsDeleteByType(x,u40,c0);result=1;}}}
+        }
+        CountMMEffects ^{
+            001=int result=0;
+        }
+        CountSelectedEffects ^{
+            001=int result=0;for(int b=0;b<=12;b=b+1){int p=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',b,'result');if(p>=0 && ItemExtraSpecialsCountByType(item,p)>0)result=result+1;}
+            002=unknown extra=newarray(1);ArrayDelete(extra,0);ArrayAdd(extra,21);ArrayAdd(extra,28);ArrayAdd(extra,31);ArrayAdd(extra,33);ArrayAdd(extra,34);ArrayAdd(extra,35);ArrayAdd(extra,36);ArrayAdd(extra,41);ArrayAdd(extra,42);ArrayAdd(extra,43);for(int i=0;i<ArrayDim(extra);i=i+1){int p2=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',extra[i],'result');if(p2>=0 && ItemExtraSpecialsCountByType(item,p2)>0)result=result+1;}
+        }
+        DialogEntry=<color=255,125,0>Research hidden properties of black-hole equipment</color>
+        Ensure ^{
+            001=if(!Player())exit;ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.EnsureA'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.EnsureB'));
+        }
+        EnsureA ^{
+            001=if(!Player())exit;if(ShipFindCustomShipInfoByType(Player(),'FHDUU_Runtime')<0)ShipAddCustomShipInfo(Player(),'FHDUU_Runtime','NoShow',0,0,0);if(ShipFindCustomShipInfoByType(Player(),'FHDUU_State')<0)ShipAddCustomShipInfo(Player(),'FHDUU_State','NoShow',0,0,0);
+            002=if(ShipFindCustomShipInfoByType(Player(),'FHDUU_BonusA')<0)ShipAddCustomShipInfo(Player(),'FHDUU_BonusA','NoShow',0,0,0);if(ShipFindCustomShipInfoByType(Player(),'FHDUU_BonusB')<0)ShipAddCustomShipInfo(Player(),'FHDUU_BonusB','NoShow',0,0,0);
+            003=if(ShipFindCustomShipInfoByType(Player(),'FHDUU_Notify')<0)ShipAddCustomShipInfo(Player(),'FHDUU_Notify','NoShow',0,0,0);
+        }
+        EnsureB ^{
+            001=if(ShipFindCustomShipInfoByType(Player(),'FHDUU_BonusC')<0)ShipAddCustomShipInfo(Player(),'FHDUU_BonusC','NoShow',0,0,0);if(ShipFindCustomShipInfoByType(Player(),'FHDUU_BonusD')<0)ShipAddCustomShipInfo(Player(),'FHDUU_BonusD','NoShow',0,0,0);
+            002=if(ShipFindCustomShipInfoByType(Player(),'FHDUU_BonusE')<0)ShipAddCustomShipInfo(Player(),'FHDUU_BonusE','NoShow',0,0,0);if(ShipFindCustomShipInfoByType(Player(),'FHDUU_BonusF')<0)ShipAddCustomShipInfo(Player(),'FHDUU_BonusF','NoShow',0,0,0);if(ShipFindCustomShipInfoByType(Player(),'FHDUU_BonusG')<0)ShipAddCustomShipInfo(Player(),'FHDUU_BonusG','NoShow',0,0,0);
+        }
+        FinalizeSuccess ^{
+            001=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.StoreResearchResult'),'item',item,'is_art',is_art,'tier',tier);
+            002=str originalImage=EquipmentImageName(item);if(originalImage=='W01Stellar2')originalImage='';int ri_t=ItemType(item);if(ri_t>t_DefGenerator && ri_t<t_CustomWeapon){int ri_w=ri_t-t_DefGenerator;str ri_key='W';if(ri_w<10)ri_key=ri_key+'0';ri_key=ri_key+ri_w;int ri_lv=ItemLevel(item)-1;if(ri_lv<0)ri_lv=0;if(originalImage==ri_key+ri_lv || originalImage==ri_key+ri_lv+'s' || originalImage==ri_key+'s')originalImage=ri_key;}else if(ri_t==t_CustomWeapon){int ri_cl=ItemLevel(item)-1;if(ri_cl<0)ri_cl=0;if(originalImage=='CustomWeapon'+ri_cl || originalImage=='CustomWeapon'+ri_cl+'s')originalImage='';}if(originalImage=='')ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ResolveDefaultImage'),'item',item,'result');ItemOwner(item,Kling);EqCustomFaction(item,'FHDUU_Researched');if(originalImage!='')EquipmentImageName(item,originalImage);AddItemToShip(Player(),item);ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ResetState'));
+            003=int ec=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CountSelectedEffects'),'item',item,'result');int fm=FindBonusByCustomTag('FHDUU_QualityMM1Full');int rare=0;if(fm>=0 && ItemExtraSpecialsCountByType(item,fm)>0)rare=1;str fx='';int pp=-1;int vv=0;
+            004=pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',0,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Hull armor: +'+vv+' pts\n';}pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',28,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Ship mass: -'+vv+'%.\n';}pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',1,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Fuel tank capacity: +'+vv+' pts\n';}
+            005=pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',2,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Engine speed: +'+vv+' pts\n';}pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',3,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Jump range: +'+vv+' pc\n';}pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',4,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Radar range: +'+vv+' million km\n';}pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',5,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Scanner power: +'+vv+' pts\n';}
+            006=pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',6,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Droid efficiency: +'+vv+' pts\n';}pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',7,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Cargo hook power: +'+vv+' pts\n';}pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',8,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Shield generator: +'+vv+' pts\n';}
+            007=pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',9,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Energy weapon power: +'+vv+' pts\n';}pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',10,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Fragmentation weapon power: +'+vv+' pts\n';}pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',11,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Missile weapon power: +'+vv+' pts\n';}pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',12,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Weapon range: +'+vv+' pts\n';}
+            008=pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',21,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Cargo hook range: +'+vv+' pts\n';}pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',31,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Number of volleys: +'+vv+'\n';}pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',33,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Missile speed: +'+vv+' pts\n';}
+            008a=pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',34,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Weapon rate of fire: +'+vv+'%.\n';}pp=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.GetPropertyMarker'),'b',41,'result');if(pp>=0){vv=ItemExtraSpecialsCountByType(item,pp);if(vv>0)fx=fx+'Equipment size: -'+vv+'%.\n';}
+            009=str sb='<color=80,220,120>HB III</color>';if(tier==2)sb='<color=60,150,255>HB II</color>';else if(tier==1)sb='<color=180,80,255>HB I</color>';if(rare)sb='<color=170,105,55>HB I</color>';str extra='';if(rare)extra='\nRare result: the 5% hidden-bonus chance succeeded, granting 4–5 different properties.';MessageBox('Research completed successfully.\n\nHidden bonus: '+sb+'.\nProperties added: '+ec+'.'+extra+'\n\nItem gains:\n'+fx+'\nCompatibility with ordinary micromodules is preserved.\nThese properties apply while the researched item is equipped.');
+        }
+        GetPropertyMarker ^{
+            001=int result=-1;if(b==0)result=FindBonusByCustomTag('FHDUU_Property_Hull');else if(b==1)result=FindBonusByCustomTag('FHDUU_Property_Fuel');else if(b==2)result=FindBonusByCustomTag('FHDUU_Property_Speed');else if(b==3)result=FindBonusByCustomTag('FHDUU_Property_Jump');else if(b==4)result=FindBonusByCustomTag('FHDUU_Property_Radar');else if(b==5)result=FindBonusByCustomTag('FHDUU_Property_Scan');else if(b==6)result=FindBonusByCustomTag('FHDUU_Property_Droid');else if(b==7)result=FindBonusByCustomTag('FHDUU_Property_Hook');else if(b==8)result=FindBonusByCustomTag('FHDUU_Property_Def');else if(b==9)result=FindBonusByCustomTag('FHDUU_Property_WEnergy');else if(b==10)result=FindBonusByCustomTag('FHDUU_Property_WSplinter');else if(b==11)result=FindBonusByCustomTag('FHDUU_Property_WMissile');else if(b==12)result=FindBonusByCustomTag('FHDUU_Property_WRadius');else if(b==21)result=FindBonusByCustomTag('FHDUU_Property_HookRadius');else if(b==28)result=FindBonusByCustomTag('FHDUU_Property_Mass');else if(b==31)result=FindBonusByCustomTag('FHDUU_Property_Ammo');else if(b==33)result=FindBonusByCustomTag('FHDUU_Property_MissileSpeed');else if(b==34)result=FindBonusByCustomTag('FHDUU_Property_ShotSpeed');else if(b==35)result=FindBonusByCustomTag('FHDUU_Property_HookMaxSpeed');else if(b==36)result=FindBonusByCustomTag('FHDUU_Property_HookMinSpeed');else if(b==40)result=FindBonusByCustomTag('FHDUU_Property_ResistAsteroid');else if(b==41)result=FindBonusByCustomTag('FHDUU_Property_Size');else if(b==42)result=FindBonusByCustomTag('FHDUU_Property_Reliability');else if(b==43)result=FindBonusByCustomTag('FHDUU_Property_Cost');
+        }
+        IntroContinue=Continue research.
+        IntroDecline=Decline. Better leave this mystery unsolved for now.
+        IntroQuestion=What do you say, Ranger?
+        IntroText=Ranger, you have brought us a very intriguing specimen. Equipment that has passed through a black hole sometimes exhibits properties that standard diagnostics cannot detect. Our specialists believe such devices may retain unstable structural changes — a technological imprint of the black hole. We can conduct an in-depth investigation and try to identify a hidden bonus. The procedure takes <color=255,0,0>1 day</color>, during which the specimen will remain in our laboratory. Please note that success is not guaranteed. We may find nothing, and repeated attempts carry a growing risk of permanent damage. Scientific progress also requires funding, especially when it may explode on the laboratory table. Our scientists have additionally discovered that this equipment can hold a second micromodule, bypassing the usual single-module restriction.
+        IsApplicableMM ^{
+            001=int result=0;if(!item || mm<0)exit;if(!ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.IsSafeMM'),'mm',mm,'result'))exit;
+            002=if(is_art){if(BonusValue(mm,bonFuel)!=0)exit;result=1;exit;}if(MayAddBonusToEq(mm,item))result=1;
+        }
+        IsSafeMM ^{
+            001=int result=0;if(mm<0)exit;int any=0;for(int b=0;b<=12;b=b+1){int v=BonusValue(mm,b);if(v<0)exit;if(v>0)any=1;}
+            002=for(int b2=13;b2<=20;b2=b2+1)if(BonusValue(mm,b2)!=0)exit;int v21=BonusValue(mm,21);if(v21<0)exit;if(v21>0)any=1;
+            003=for(int b3=22;b3<=34;b3=b3+1)if(BonusValue(mm,b3)!=0)exit;for(int b4=35;b4<=36;b4=b4+1){int v2=BonusValue(mm,b4);if(v2<0)exit;if(v2>0)any=1;}for(int b5=37;b5<=39;b5=b5+1)if(BonusValue(mm,b5)!=0)exit;int v40=BonusValue(mm,40);if(v40<0)exit;if(v40>0)any=1;if(!any)exit;result=1;
+        }
+        PickMM ^{
+            001=int result=-1;
+        }
+        PickMMRange ^{
+            001=int result=-1;
+        }
+        PrepareResearch ^{
+            001=int am=FindBonusByCustomTag('FHDUU_AttemptMark');int oldtries=0;if(am>=0)oldtries=ItemExtraSpecialsCountByType(item,am);int attempt=oldtries+1;int base=GalaxyMoney(3);int part=ItemCost(item)/5;if(part>base)base=part;int price=base*(attempt+1)/2;
+            002=int destroy=(attempt+1)*10;if(destroy>50)destroy=50;int nothing=60-destroy;str warn='Item: '+ItemFullName(item)+'\nResearch duration: 1 day\nCost: '+price+' cr.\n\nChance to discover a property: 40%\nNo change: '+nothing+'%\nItem destruction: '+destroy+'%';
+            003=if(!MessageBoxYesNo(warn))exit;if(ShipMoney(Player())<price){MessageBox('Insufficient credits. Required: '+price+' cr.');exit;}ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.StartResearch'),'item',item,'is_art',is_art,'price',price);
+        }
+        RefreshPropertyText ^{
+            001=if(!Player())exit;for(int i=0;i<ShipArts(Player());i=i+1){dword a=ShipArts(Player(),i);if(a)ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.RestorePropertyTextOne'),'item',a);}for(int j=0;j<ShipItems(Player());j=j+1){dword e=ShipItems(Player(),j);if(e)ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.RestorePropertyTextOne'),'item',e);}
+        }
+        ResetState ^{
+            001=if(!Player())exit;ShipCustomShipInfoData(Player(),'FHDUU_State',1,0);ShipCustomShipInfoData(Player(),'FHDUU_State',2,0);ShipCustomShipInfoData(Player(),'FHDUU_State',3,0);ShipCustomShipInfoTextData(Player(),'FHDUU_State',1,'');ShipCustomShipInfoData(Player(),'FHDUU_Notify',1,0);
+        }
+        ResolveDefaultImage ^{
+            001=int result=0;str key='';int t=ItemType(item);int lv=ItemLevel(item)-1;if(lv<0)lv=0;if(t==t_FuelTanks)key='FuelTanks';if(t==t_Engine)key='Engine';if(t==t_Radar)key='Radar';if(t==t_Scaner)key='Scaner';if(t==t_RepairRobot)key='RepairRobot';if(t==t_CargoHook)key='CargoHook';if(t==t_DefGenerator)key='DefGenerator';
+            002=if(t>t_DefGenerator && t<t_CustomWeapon){int w=t-t_DefGenerator;key='W';if(w<10)key=key+'0';key=key+w;}if(t==t_CustomWeapon)key='CustomWeapon';
+            003=
+            004=
+            005=if(t==t_CustomWeapon)exit;if(t>t_DefGenerator && t<t_CustomWeapon){EquipmentImageName(item,key);result=1;exit;}if(key!=''){EquipmentImageName(item,key+lv);result=1;}
+        }
+        ResolveDestroyed ^{
+            001=FreeItem(item);ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ResetState'));MessageBox('The experiment failed catastrophically. The studied item was completely destroyed.');
+        }
+        ResolveResearch ^{
+            001=dword item=GetItemFromVault('FHD_UpgradeUnknovn_Research');if(!item){ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ResetState'));MessageBox('The submitted item was not found. Research state has been reset.');exit;}
+            002=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ResolveResearch2'),'item',item);
+        }
+        ResolveResearch2 ^{
+            001=int is_art=ShipCustomShipInfoData(Player(),'FHDUU_State',3);int am=FindBonusByCustomTag('FHDUU_AttemptMark');int n=0;if(am>=0)n=ItemExtraSpecialsCountByType(item,am);int attempt=n+1;int destroy=(attempt+1)*10;if(destroy>50)destroy=50;int roll=Rnd(1,100);
+            002=if(roll<=40){ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ResolveSuccess'),'item',item,'is_art',is_art,'attempt',attempt);exit;}if(roll<=40+destroy){ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ResolveDestroyed'),'item',item);exit;}
+            003=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ReturnNoChange'),'item',item,'attempt',attempt);
+        }
+        ResolveSuccess ^{
+            001=int q=Rnd(1,100);int tier=3;if(q>55 && q<=85)tier=2;else if(q>85)tier=1;
+            002=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.FinalizeSuccess'),'item',item,'is_art',is_art,'tier',tier);
+        }
+        RestorePropertyTextOne ^{
+            001=if(!item)exit;int sm=FindBonusByCustomTag('FHDUU_ResearchedMark');int pm=FindBonusByCustomTag('FHDUU_ArtPropertyMark');if(sm<0 || pm<0)exit;if(ItemExtraSpecialsCountByType(item,sm)<=0)exit;if(ItemOwner(item)==Kling && EquipmentImageName(item)=='W014')EquipmentImageName(item,'');if(ItemOwner(item)==Kling && EquipmentImageName(item)=='W01Stellar2')EquipmentImageName(item,'');if(ItemOwner(item)==Kling){str rc_image=EquipmentImageName(item);int rc_t=ItemType(item);if(rc_t>t_DefGenerator && rc_t<t_CustomWeapon){int rc_w=rc_t-t_DefGenerator;str rc_key='W';if(rc_w<10)rc_key=rc_key+'0';rc_key=rc_key+rc_w;int rc_lv=ItemLevel(item)-1;if(rc_lv<0)rc_lv=0;if(rc_image==rc_key+rc_lv || rc_image==rc_key+rc_lv+'s' || rc_image==rc_key+'s')rc_image=rc_key;}else if(rc_t==t_CustomWeapon){int rc_cl=ItemLevel(item)-1;if(rc_cl<0)rc_cl=0;if(rc_image=='CustomWeapon'+rc_cl || rc_image=='CustomWeapon'+rc_cl+'s')rc_image='';}if(rc_image!=EquipmentImageName(item))EquipmentImageName(item,rc_image);}if(ItemOwner(item)==Kling && EquipmentImageName(item)=='')ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ResolveDefaultImage'),'item',item,'result');int c=ItemExtraSpecialsCountByType(item,pm);if(c<=0)exit;int mm=c-1;
+            002=int hd=FindBonusByCustomTag('FHDUU_DiscoveredHeader');if(hd>=0 && ItemExtraSpecialsCountByType(item,hd)==0)ItemExtraSpecialsAddByType(item,hd,1);int rt=FindBonusByCustomTag('FHDUU_RuntimeEffectMark');if(rt<0 || ItemExtraSpecialsCountByType(item,rt)<=0)ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.StorePropertyText'),'item',item,'mm',mm);ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CleanupLegacyTypeLocked'),'item',item);ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyTypeLockedNativeEffect'),'item',item,'b',1);ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ApplyTypeLockedNativeEffect'),'item',item,'b',31);int nr=FindBonusByCustomTag('FHDUU_NoRepeatMark');int it=ItemType(item);int ia=(it>=t_Artefact && it<=t_ArtFastRacks);if(nr>=0){int nc=ItemExtraSpecialsCountByType(item,nr);if(ia){if(nc>0)ItemExtraSpecialsDeleteByType(item,nr,nc);}else if(nc==0)ItemExtraSpecialsAddByType(item,nr,1);}
+            003=int q1=FindBonusByCustomTag('FHDUU_QualityMM1');int q2=FindBonusByCustomTag('FHDUU_QualityMM2');int q3=FindBonusByCustomTag('FHDUU_QualityMM3');int qf=FindBonusByCustomTag('FHDUU_QualityMM1Full');int hasq=0;if(q1>=0 && ItemExtraSpecialsCountByType(item,q1)>0)hasq=1;if(q2>=0 && ItemExtraSpecialsCountByType(item,q2)>0)hasq=1;if(q3>=0 && ItemExtraSpecialsCountByType(item,q3)>0)hasq=1;if(qf>=0 && ItemExtraSpecialsCountByType(item,qf)>0)hasq=1;if(!hasq){int ec=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CountSelectedEffects'),'item',item,'result');int qm=q3;if(ec==2)qm=q2;else if(ec==3)qm=q1;else if(ec>=4)qm=qf;if(qm>=0)ItemExtraSpecialsAddByType(item,qm,1);}
+        }
+        ReturnNoChange ^{
+            001=int am=FindBonusByCustomTag('FHDUU_AttemptMark');if(am>=0)ItemExtraSpecialsAddByType(item,am,1);AddItemToShip(Player(),item);ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ResetState'));
+            002=int nd=(attempt+2)*10;if(nd>50)nd=50;MessageBox('Research is complete. No new properties were discovered.\n\nThe item was returned unchanged. You may try again at a higher price. Destruction risk on the next attempt: '+nd+'%.');
+        }
+        RollSBValue ^{
+            001=int result=0;if(tier<1 || tier>3)tier=3;
+            002=if(b==0){if(tier==1)result=Rnd(5,7);else if(tier==2)result=Rnd(3,4);else result=Rnd(1,2);exit;}if(b==40){if(tier==1)result=Rnd(13,20);else if(tier==2)result=Rnd(7,12);else result=Rnd(3,6);exit;}if(b==28){if(tier==1)result=Rnd(8,12);else if(tier==2)result=Rnd(5,7);else result=Rnd(2,4);exit;}
+            003=if(b==1){if(tier==1)result=Rnd(26,40);else if(tier==2)result=Rnd(16,25);else result=Rnd(8,15);exit;}if(b==2){if(tier==1)result=Rnd(110,165);else if(tier==2)result=Rnd(60,105);else result=Rnd(25,55);exit;}if(b==3){if(tier==1)result=Rnd(9,14);else if(tier==2)result=Rnd(5,8);else result=Rnd(2,4);exit;}
+            004=if(b==4){if(tier==1)result=Rnd(950,1400);else if(tier==2)result=Rnd(550,900);else result=Rnd(250,500);exit;}if(b==5){if(tier==1)result=Rnd(8,12);else if(tier==2)result=Rnd(5,7);else result=Rnd(2,4);exit;}if(b==6){if(tier==1)result=Rnd(18,28);else if(tier==2)result=Rnd(11,17);else result=Rnd(6,10);exit;}
+            005=if(b==7){if(tier==1)result=Rnd(36,55);else if(tier==2)result=Rnd(21,35);else result=Rnd(10,20);exit;}if(b==8){if(tier==1)result=Rnd(6,8);else if(tier==2)result=Rnd(4,5);else result=Rnd(2,3);exit;}if(b==21){if(tier==1)result=Rnd(19,28);else if(tier==2)result=Rnd(11,18);else result=Rnd(5,10);exit;}
+            006=if(b==35 || b==36){if(tier==1)result=Rnd(2,3);else if(tier==2)result=Rnd(1,2);else result=1;exit;}if(b==9){if(tier==1)result=Rnd(15,22);else if(tier==2)result=Rnd(9,14);else result=Rnd(4,8);exit;}if(b==10){if(tier==1)result=Rnd(19,30);else if(tier==2)result=Rnd(11,18);else result=Rnd(5,10);exit;}
+            007=if(b==11){if(tier==1)result=Rnd(25,38);else if(tier==2)result=Rnd(15,24);else result=Rnd(7,14);exit;}if(b==12){if(tier==1)result=Rnd(56,90);else if(tier==2)result=Rnd(31,55);else result=Rnd(15,30);exit;}
+            008=if(b==41){if(tier==1)result=Rnd(13,20);else if(tier==2)result=Rnd(7,12);else result=Rnd(3,6);exit;}if(b==42){if(tier==1)result=Rnd(19,28);else if(tier==2)result=Rnd(11,18);else result=Rnd(5,10);exit;}if(b==43){if(tier==1)result=Rnd(18,27);else if(tier==2)result=Rnd(10,17);else result=Rnd(5,9);exit;}
+            009=if(b==31){if(tier==1)result=15;else if(tier==2)result=10;else result=5;exit;}if(b==33){if(tier==1)result=Rnd(190,300);else if(tier==2)result=Rnd(110,180);else result=Rnd(50,100);exit;}if(b==34){if(tier==1)result=Rnd(10,15);else if(tier==2)result=Rnd(6,9);else result=Rnd(3,5);exit;}
+        }
+        SelectArtifact ^{
+            001=int am=FindBonusByCustomTag('FHDUU_AttemptMark');int sm=FindBonusByCustomTag('FHDUU_ResearchedMark');unknown l=newarray(1);unknown r=newarray(1);ArrayDelete(l,0);ArrayDelete(r,0);
+            002=for(int i=0;i<ShipArts(Player());i=i+1){dword a=ShipArts(Player(),i);if(!a)continue;if(ItemInScript(a)==1){if(~EqSpecial(a)){if(!CT('MicroModuls.'+BonusNumInCfg(EqSpecial(a))+'.ScriptItemIgnore'))continue;}else continue;}if(ItemType(a)<t_Artefact || ItemType(a)>t_ArtFastRacks)continue;if(ItemType(a)==t_ArtefactTranclucator)continue;if(ItemOwner(a)!=None)continue;if(EquipmentImageName(a)=='UrineTincture')continue;if(EqCustomFaction(a)!='')continue;if(ItemIsInUse(a))continue;if(sm>=0 && ItemExtraSpecialsCountByType(a,sm)>0)continue;int tr=0;if(am>=0)tr=ItemExtraSpecialsCountByType(a,am);ArrayAdd(l,ItemFullName(a)+' | attempt '+(tr+1));ArrayAdd(r,a);}
+            003=if(ArrayDim(l)<=0){MessageBox('No eligible unequipped black-hole artifacts available for research.');exit;}int p=ListBox('Black-hole artifacts',l);if(p<0)exit;ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.PrepareResearch'),'item',r[p],'is_art',1);
+        }
+        SelectEquipment ^{
+            001=int sm=FindBonusByCustomTag('FHDUU_ResearchedMark');unknown l=newarray(1);unknown r=newarray(1);ArrayDelete(l,0);ArrayDelete(r,0);
+            002=for(int i=0;i<ShipItems(Player());i=i+1){dword e=ShipItems(Player(),i);if(!e)continue;if(ItemInScript(e)==1){if(~EqSpecial(e)){if(!CT('MicroModuls.'+BonusNumInCfg(EqSpecial(e))+'.ScriptItemIgnore'))continue;}else continue;}if(ItemOwner(e)!=None)continue;if(EqCustomFaction(e)!='')continue;if(EquipmentImageName(e)=='Usl_Urine')continue;int t=ItemType(e);if(t<t_FuelTanks || t>t_CustomWeapon)continue;if(ItemIsInUse(e))continue;if(sm>=0 && ItemExtraSpecialsCountByType(e,sm)>0)continue;ArrayAdd(l,ItemFullName(e));ArrayAdd(r,e);}
+            003=if(ArrayDim(l)<=0){MessageBox('No eligible unequipped black-hole equipment.');exit;}int p=ListBox('Black-hole equipment',l);if(p<0)exit;ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.PrepareResearch'),'item',r[p],'is_art',0);
+        }
+        Service ^{
+            001=FHDUU_IntroMode=1;if(!Player())exit;ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.Ensure'));if(ShipCustomShipInfoData(Player(),'FHDUU_State',1)){FHDUU_IntroMode=0;ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ServiceActive'));exit;}
+        }
+        ServiceActive ^{
+            001=int finish=ShipCustomShipInfoData(Player(),'FHDUU_State',2);if(CurTurn()<finish){int left=finish-CurTurn();str nm=ShipCustomShipInfoTextData(Player(),'FHDUU_State',1);MessageBox('Research on "'+nm+'" is still in progress.\n\nTime remaining: '+left+' days.');exit;}
+            002=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CheckResearchNotification'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ResolveResearch'));
+        }
+        ServiceSelect ^{
+            001=unknown o=newarray(1);ArrayDelete(o,0);ArrayAdd(o,'Black-hole artifact');ArrayAdd(o,'Black-hole equipment');int k=ListBox('What would you like to submit for research?',o);if(k<0)exit;if(k==0)ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.SelectArtifact'));else ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.SelectEquipment'));
+        }
+        SetSBQuality ^{
+            001=int qm=-1;if(rare)qm=FindBonusByCustomTag('FHDUU_QualityMM1Full');else if(tier==1)qm=FindBonusByCustomTag('FHDUU_QualityMM1');else if(tier==2)qm=FindBonusByCustomTag('FHDUU_QualityMM2');else qm=FindBonusByCustomTag('FHDUU_QualityMM3');if(qm>=0 && ItemExtraSpecialsCountByType(item,qm)==0)ItemExtraSpecialsAddByType(item,qm,1);
+        }
+        StartResearch ^{
+            001=dword taken=0;if(is_art)taken=GetArtFromShip(Player(),item);else taken=GetItemFromShip(Player(),item);if(!taken){MessageBox('Could not transfer the item to the lab. Unequip it and try again.');exit;}
+            002=ShipMoney(Player(),ShipMoney(Player())-price);PutItemInVault('FHD_UpgradeUnknovn_Research',taken);ShipCustomShipInfoData(Player(),'FHDUU_State',1,1);ShipCustomShipInfoData(Player(),'FHDUU_State',2,CurTurn()+1);ShipCustomShipInfoData(Player(),'FHDUU_State',3,is_art);ShipCustomShipInfoData(Player(),'FHDUU_Notify',1,0);
+            003=ShipCustomShipInfoTextData(Player(),'FHDUU_State',1,ItemFullName(taken));MessageBox('The item has been delivered to the laboratory. Research takes 1 day. You will receive a notification upon completion and can collect the result at any science station.');
+        }
+        StorePropertyText ^{
+            001=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.StorePropertyTextA'),'item',item,'mm',mm);ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.StorePropertyTextB'),'item',item,'mm',mm);ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.StorePropertyTextC'),'item',item,'mm',mm);ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.StorePropertyTextD'),'item',item,'mm',mm);ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.StorePropertyTextE'),'item',item,'mm',mm);ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.StorePropertyTextF'),'item',item,'mm',mm);
+        }
+        StorePropertyTextA ^{
+            001=int m0=FindBonusByCustomTag('FHDUU_Property_Hull');int v0=BonusValue(mm,0);if(m0>=0 && v0>0 && ItemExtraSpecialsCountByType(item,m0)==0)ItemExtraSpecialsAddByType(item,m0,v0);int m1=FindBonusByCustomTag('FHDUU_Property_Fuel');int v1=BonusValue(mm,1);if(m1>=0 && v1>0 && ItemExtraSpecialsCountByType(item,m1)==0)ItemExtraSpecialsAddByType(item,m1,v1);int m2=FindBonusByCustomTag('FHDUU_Property_Speed');int v2=BonusValue(mm,2);if(m2>=0 && v2>0 && ItemExtraSpecialsCountByType(item,m2)==0)ItemExtraSpecialsAddByType(item,m2,v2);
+        }
+        StorePropertyTextB ^{
+            001=int m3=FindBonusByCustomTag('FHDUU_Property_Jump');int v3=BonusValue(mm,3);if(m3>=0 && v3>0 && ItemExtraSpecialsCountByType(item,m3)==0)ItemExtraSpecialsAddByType(item,m3,v3);int m4=FindBonusByCustomTag('FHDUU_Property_Radar');int v4=BonusValue(mm,4);if(m4>=0 && v4>0 && ItemExtraSpecialsCountByType(item,m4)==0)ItemExtraSpecialsAddByType(item,m4,v4);int m5=FindBonusByCustomTag('FHDUU_Property_Scan');int v5=BonusValue(mm,5);if(m5>=0 && v5>0 && ItemExtraSpecialsCountByType(item,m5)==0)ItemExtraSpecialsAddByType(item,m5,v5);
+        }
+        StorePropertyTextC ^{
+            001=int m6=FindBonusByCustomTag('FHDUU_Property_Droid');int v6=BonusValue(mm,6);if(m6>=0 && v6>0 && ItemExtraSpecialsCountByType(item,m6)==0)ItemExtraSpecialsAddByType(item,m6,v6);int m7=FindBonusByCustomTag('FHDUU_Property_Hook');int v7=BonusValue(mm,7);if(m7>=0 && v7>0 && ItemExtraSpecialsCountByType(item,m7)==0)ItemExtraSpecialsAddByType(item,m7,v7);int m8=FindBonusByCustomTag('FHDUU_Property_Def');int v8=BonusValue(mm,8);if(m8>=0 && v8>0 && ItemExtraSpecialsCountByType(item,m8)==0)ItemExtraSpecialsAddByType(item,m8,v8);
+        }
+        StorePropertyTextD ^{
+            001=int m9=FindBonusByCustomTag('FHDUU_Property_WEnergy');int v9=BonusValue(mm,9);if(m9>=0 && v9>0 && ItemExtraSpecialsCountByType(item,m9)==0)ItemExtraSpecialsAddByType(item,m9,v9);int m10=FindBonusByCustomTag('FHDUU_Property_WSplinter');int v10=BonusValue(mm,10);if(m10>=0 && v10>0 && ItemExtraSpecialsCountByType(item,m10)==0)ItemExtraSpecialsAddByType(item,m10,v10);int m11=FindBonusByCustomTag('FHDUU_Property_WMissile');int v11=BonusValue(mm,11);if(m11>=0 && v11>0 && ItemExtraSpecialsCountByType(item,m11)==0)ItemExtraSpecialsAddByType(item,m11,v11);
+        }
+        StorePropertyTextE ^{
+            001=int m12=FindBonusByCustomTag('FHDUU_Property_WRadius');int v12=BonusValue(mm,12);if(m12>=0 && v12>0 && ItemExtraSpecialsCountByType(item,m12)==0)ItemExtraSpecialsAddByType(item,m12,v12);int m21=FindBonusByCustomTag('FHDUU_Property_HookRadius');int v21=BonusValue(mm,21);if(m21>=0 && v21>0 && ItemExtraSpecialsCountByType(item,m21)==0)ItemExtraSpecialsAddByType(item,m21,v21);int m35=FindBonusByCustomTag('FHDUU_Property_HookMaxSpeed');int v35=BonusValue(mm,35);if(m35>=0 && v35>0 && ItemExtraSpecialsCountByType(item,m35)==0)ItemExtraSpecialsAddByType(item,m35,v35);
+        }
+        StorePropertyTextF ^{
+            001=int m36=FindBonusByCustomTag('FHDUU_Property_HookMinSpeed');int v36=BonusValue(mm,36);if(m36>=0 && v36>0 && ItemExtraSpecialsCountByType(item,m36)==0)ItemExtraSpecialsAddByType(item,m36,v36);int m40=FindBonusByCustomTag('FHDUU_Property_ResistAsteroid');int v40=BonusValue(mm,40);if(m40>=0 && v40>0 && ItemExtraSpecialsCountByType(item,m40)==0)ItemExtraSpecialsAddByType(item,m40,v40);
+        }
+        StoreQualityMark ^{
+            001=int pr=BonusPriority(mm);int qmark=-1;if(pr<=30){int fm=FindBonusByCustomTag('FHDUU_QualityMM1Full');if(fm<0 || ItemExtraSpecialsCountByType(item,fm)<=0)qmark=FindBonusByCustomTag('FHDUU_QualityMM1');}else if(pr<=69)qmark=FindBonusByCustomTag('FHDUU_QualityMM2');else qmark=FindBonusByCustomTag('FHDUU_QualityMM3');if(qmark>=0 && ItemExtraSpecialsCountByType(item,qmark)==0)ItemExtraSpecialsAddByType(item,qmark,1);
+        }
+        StoreResearchResult ^{
+            001=int sm=FindBonusByCustomTag('FHDUU_ResearchedMark');int pm=FindBonusByCustomTag('FHDUU_ArtPropertyMark');int rt=FindBonusByCustomTag('FHDUU_RuntimeEffectMark');int hd=FindBonusByCustomTag('FHDUU_DiscoveredHeader');if(sm>=0 && ItemExtraSpecialsCountByType(item,sm)==0)ItemExtraSpecialsAddByType(item,sm,1);if(pm>=0 && ItemExtraSpecialsCountByType(item,pm)==0)ItemExtraSpecialsAddByType(item,pm,1);if(rt>=0 && ItemExtraSpecialsCountByType(item,rt)==0)ItemExtraSpecialsAddByType(item,rt,1);if(hd>=0 && ItemExtraSpecialsCountByType(item,hd)==0)ItemExtraSpecialsAddByType(item,hd,1);
+            002=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.StoreSelectedEffects'),'item',item,'is_art',is_art,'tier',tier,'result');int nr=FindBonusByCustomTag('FHDUU_NoRepeatMark');if(!is_art && nr>=0 && ItemExtraSpecialsCountByType(item,nr)==0)ItemExtraSpecialsAddByType(item,nr,1);
+        }
+        StoreSelectedEffects ^{
+            001=int result=0;unknown pool=newarray(1);ArrayDelete(pool,0);ArrayAdd(pool,2);ArrayAdd(pool,3);ArrayAdd(pool,4);ArrayAdd(pool,5);ArrayAdd(pool,6);ArrayAdd(pool,7);ArrayAdd(pool,8);ArrayAdd(pool,9);ArrayAdd(pool,10);ArrayAdd(pool,11);ArrayAdd(pool,12);ArrayAdd(pool,21);ArrayAdd(pool,33);ArrayAdd(pool,34);ArrayAdd(pool,41);
+            002=if(!is_art){int t=ItemType(item);if(t==t_FuelTanks)ArrayAdd(pool,1);if(t>t_DefGenerator && t<=t_CustomWeapon && GetEquipmentStats(item,3)==2)ArrayAdd(pool,31);if((t==t_RepairRobot || t==t_DefGenerator) && Rnd(1,100)<=25){if(Rnd(0,1)==0)ArrayAdd(pool,0);else ArrayAdd(pool,28);}}
+            003=int lim=1;int rare=0;if(tier==2)lim=2;else if(tier==1){lim=3;if(Rnd(1,100)<=5){lim=Rnd(4,5);rare=1;}}
+            004=for(result=0;result<lim;result=result+1){int pos=Rnd(0,ArrayDim(pool)-1);ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.AddSelectedEffect'),'item',item,'b',pool[pos],'tier',tier);ArrayDelete(pool,pos);}
+            005=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.SetSBQuality'),'item',item,'tier',tier,'rare',rare);
+        }
+        SyncAmmo ^{
+            001=if(!Player())exit;int mk_am=FindBonusByCustomTag('FHDUU_AmmoApplied');if(mk_am<0)exit;int desired_am=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',31,'result');
+            002=for(int i_am=0;i_am<ShipItems(Player());i_am=i_am+1){dword w_am=ShipItems(Player(),i_am);if(!w_am)continue;int t_am=ItemType(w_am);if(t_am<=t_DefGenerator || t_am>t_CustomWeapon)continue;int old_am=ItemExtraSpecialsCountByType(w_am,mk_am);int cur_max_am=WeaponMaxAmmunition(w_am);int base_am=cur_max_am-old_am;if(base_am<0)base_am=0;int want_am=0;if(base_am>0 && ItemIsInUse(w_am)>0)want_am=desired_am;int new_max_am=base_am+want_am;if(cur_max_am!=new_max_am)WeaponMaxAmmunition(w_am,new_max_am);int cur_am=WeaponAmmunition(w_am);if(cur_am>new_max_am)WeaponAmmunition(w_am,new_max_am);if(old_am>0)ItemExtraSpecialsDeleteByType(w_am,mk_am,old_am);if(want_am>0)ItemExtraSpecialsAddByType(w_am,mk_am,want_am);}
+        }
+        SyncFuelCapacity ^{
+            001=if(!Player())exit;int mk=FindBonusByCustomTag('FHDUU_FuelCapacityApplied');if(mk<0)exit;dword tank=ShipEqInSlot(Player(),t_FuelTanks);int desired=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',1,'result');
+            002=for(int i=0;i<ShipItems(Player());i=i+1){dword e=ShipItems(Player(),i);if(!e || ItemType(e)!=t_FuelTanks || e==tank)continue;int old_stored=ItemExtraSpecialsCountByType(e,mk);if(old_stored<=0)continue;int old_cap=GetEquipmentStats(e,0)-old_stored;if(old_cap<1)old_cap=1;SetEquipmentStats(e,old_cap,0);int old_fuel=GetEquipmentStats(e,1);if(old_fuel>old_cap)SetEquipmentStats(e,old_cap,1);ItemExtraSpecialsDeleteByType(e,mk,old_stored);}
+            003=if(!tank)exit;int tank_stored=ItemExtraSpecialsCountByType(tank,mk);int tank_base=GetEquipmentStats(tank,0)-tank_stored;if(tank_base<1)tank_base=1;int tank_add=desired;if(tank_add<0)tank_add=0;if(tank_base+tank_add>255)tank_add=255-tank_base;if(tank_add<0)tank_add=0;int tank_cap=tank_base+tank_add;if(GetEquipmentStats(tank,0)!=tank_cap)SetEquipmentStats(tank,tank_cap,0);int tank_fuel=GetEquipmentStats(tank,1);if(tank_fuel>tank_cap)SetEquipmentStats(tank,tank_cap,1);if(tank_stored>0)ItemExtraSpecialsDeleteByType(tank,mk,tank_stored);if(tank_add>0)ItemExtraSpecialsAddByType(tank,mk,tank_add);ShipCalcParam(Player());
+        }
+        SyncMissileSpeed ^{
+            001=if(!Player())exit;int desired_ms=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',33,'result');int prev_ms=ShipCustomShipInfoData(Player(),'FHDUU_BonusG',1);if(prev_ms==desired_ms)exit;int cur_ms=ShipSpecialBonuses(Player(),bonMissileSpeed);ShipSpecialBonuses(Player(),bonMissileSpeed,cur_ms-prev_ms+desired_ms);ShipCustomShipInfoData(Player(),'FHDUU_BonusG',1,desired_ms);
+        }
+        SyncShotSpeed ^{
+            001=if(!Player())exit;int mk_ss=FindBonusByCustomTag('FHDUU_ShotSpeedApplied');if(mk_ss<0)exit;int desired_ss=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CalcActiveBonus'),'b',34,'result');
+            002=for(int i_ss=0;i_ss<ShipItems(Player());i_ss=i_ss+1){dword w_ss=ShipItems(Player(),i_ss);if(!w_ss)continue;int t_ss=ItemType(w_ss);if(t_ss<=t_DefGenerator || t_ss>t_CustomWeapon)continue;int old_ss=ItemExtraSpecialsCountByType(w_ss,mk_ss);int want_ss=0;if(ItemIsInUse(w_ss)>0)want_ss=desired_ss;if(old_ss==want_ss)continue;if(old_ss>0)ItemExtraSpecialsDeleteByType(w_ss,mk_ss,old_ss);if(want_ss>0)ItemExtraSpecialsAddByType(w_ss,mk_ss,want_ss);}
+        }
+        SyncWeaponBonuses ^{
+            001=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.SyncShotSpeed'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.SyncMissileSpeed'));
+        }
+        TransferMMToEquipment ^{
+            001=if(!item || mm<0)exit;int old=EqModule(item);if(old>=0)ModuleToEquipment(-1,item);ModuleToEquipment(mm,item);EqModule(item,-1);if(old>=0)ModuleToEquipment(old,item);
+        }
+    }
+}
+ShipInfo ^{
+    AddInfo ^{
+        CustomInfos ^{
+            FHDUU_BonusA ^{
+                Description=NoShow
+                Icon=0
+                Name=
+            }
+            FHDUU_BonusB ^{
+                Description=NoShow
+                Icon=0
+                Name=
+            }
+            FHDUU_BonusC ^{
+                Description=NoShow
+                Icon=0
+                Name=
+            }
+            FHDUU_BonusD ^{
+                Description=NoShow
+                Icon=0
+                Name=
+            }
+            FHDUU_BonusE ^{
+                Description=NoShow
+                Icon=0
+                Name=
+            }
+            FHDUU_BonusF ^{
+                Description=NoShow
+                Icon=0
+                Name=
+            }
+            FHDUU_BonusG ^{
+                Description=NoShow
+                Icon=0
+                Name=
+            }
+            FHDUU_Notify ^{
+                Description=NoShow
+                Icon=0
+                Name=
+            }
+            FHDUU_Runtime ^{
+                Description=NoShow
+                Icon=0
+                Name=
+                OnActCode ^{
+                    001=if(ScriptItemActionType(t_OnStep)){ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.CheckResearchNotification'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.SyncWeaponBonuses'));}
+                    002=if(ScriptItemActionType(t_OnShowingShipInfo)){ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.SyncWeaponBonuses'));}
+                }
+                OnActCodeTypes=t_OnStep,t_OnShowingShipInfo
+                OnActStepTypes=0
+            }
+            FHDUU_State ^{
+                Description=NoShow
+                Icon=0
+                Name=
+            }
+        }
+    }
+}

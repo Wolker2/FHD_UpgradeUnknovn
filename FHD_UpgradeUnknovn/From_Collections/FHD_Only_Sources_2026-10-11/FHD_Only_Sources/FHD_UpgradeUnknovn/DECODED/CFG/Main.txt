@@ -1,0 +1,22 @@
+BV ^{
+    OnLoad ^{
+        Runtime ^{
+            92_FHDUpgradeUnknovn=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.Boot'));
+        }
+    }
+    OnStart ^{
+        0DayScripts ^{
+            92_FHDUpgradeUnknovn=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.Boot'));
+        }
+    }
+}
+Data ^{
+    Race ^{
+        Emblem ^{
+            2FHDUU_Researched=2FHDUU_Researched
+        }
+    }
+    Script ^{
+        FHDUU_Dialog=1,Script.FHDUU_Dialog
+    }
+}

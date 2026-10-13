@@ -1,0 +1,46 @@
+{
+  "build": "v0.2.42 ORIGINAL ART PATH / NO MOD-ADDED ART s ALIASES",
+  "base": "v0.2.40 with CacheData restored to v0.2.39 and artifact image fallback removed",
+  "lang_seed": {
+    "normal": 324508639,
+    "instant": 324508639
+  },
+  "checks": {
+    "normal": {
+      "cache_exact_v039": true,
+      "resolve_art_003_empty": true,
+      "resolve_art_004_empty": true,
+      "resolve_no_artificial_art_name": true,
+      "owner_kling_custom_faction_preserved": true,
+      "original_image_capture_restore_preserved": true,
+      "main_unchanged": true,
+      "dialog_unchanged": true,
+      "equipment_icon_resource_unchanged": true
+    },
+    "instant": {
+      "cache_exact_v039": true,
+      "resolve_art_003_empty": true,
+      "resolve_art_004_empty": true,
+      "resolve_no_artificial_art_name": true,
+      "owner_kling_custom_faction_preserved": true,
+      "original_image_capture_restore_preserved": true,
+      "main_unchanged": true,
+      "dialog_unchanged": true,
+      "equipment_icon_resource_unchanged": true
+    }
+  },
+  "suffix_text_hits": {
+    "normal": [],
+    "instant": []
+  },
+  "xenomodkit_0_10_3": {
+    "normal": {
+      "mods": 1,
+      "issues": []
+    },
+    "instant": {
+      "mods": 1,
+      "issues": []
+    }
+  }
+}

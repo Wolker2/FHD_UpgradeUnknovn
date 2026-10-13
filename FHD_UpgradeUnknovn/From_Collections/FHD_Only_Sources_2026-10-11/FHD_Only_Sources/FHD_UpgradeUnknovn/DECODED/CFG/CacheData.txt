@@ -1,0 +1,4 @@
+Script ^{
+    FHDUU_Dialog=Mods\FHD_MODS\FHD_UpgradeUnknovn\DATA\Script\FHDUU_Dialog.scr
+}
+2FHDUU_Researched=Mods\FHD_MODS\FHD_UpgradeUnknovn\DATA\Race\2FHDUU_Researched.png

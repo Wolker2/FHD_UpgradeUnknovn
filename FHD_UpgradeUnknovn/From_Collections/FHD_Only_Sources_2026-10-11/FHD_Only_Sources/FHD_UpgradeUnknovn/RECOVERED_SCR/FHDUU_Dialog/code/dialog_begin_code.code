@@ -1,0 +1,1 @@
+if(GetShipRuins(Player())>0){if(!PlayerBridge()){if(ShipType(GetShipRuins(Player()))=='SB'){AddDialogInject('FHDUU_IntroDialog','',CT('Script.FHD_UpgradeUnknovn.DialogEntry'),40,0,0,GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.Service'));}}}

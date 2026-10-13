@@ -1,0 +1,28 @@
+{
+  "format": "cache",
+  "header_key": 3935256375,
+  "new_format": false,
+  "seed": 324508639,
+  "sha256": "df0a8a81ef8fc5c7216f1ea7d318320dc2afd380260156a280a5ef33ebd4ab53",
+  "tree": {
+    "sorted": true,
+    "entries": [
+      {
+        "name": "Script",
+        "block": {
+          "sorted": true,
+          "entries": [
+            {
+              "name": "FHDUU_Dialog",
+              "value": "Mods\\FHD_MODS\\FHD_UpgradeUnknovn\\DATA\\Script\\FHDUU_Dialog.scr"
+            }
+          ]
+        }
+      },
+      {
+        "name": "2FHDUU_Researched",
+        "value": "Mods\\FHD_MODS\\FHD_UpgradeUnknovn\\DATA\\Race\\2FHDUU_Researched.png"
+      }
+    ]
+  }
+}

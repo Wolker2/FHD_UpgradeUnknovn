@@ -1,0 +1,1 @@
+if(FHDUU_IntroMode){DChange(0);}else{DChange(1);}

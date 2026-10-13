@@ -1,0 +1,17 @@
+FHDUU researched-item separate faction emblem
+
+Item marker:
+EqCustomFaction(item,'FHDUU_Researched')
+
+Main.dat:
+Data.Race.Emblem.2FHDUU_Researched=2FHDUU_Researched
+
+CacheData.dat ROOT key:
+2FHDUU_Researched=Mods\FHD_MODS\FHD_UpgradeUnknovn\DATA\Race\2FHDUU_Researched.png
+
+Actual image:
+DATA\Race\2FHDUU_Researched.png
+Source artwork:
+DATA\FormLoadRobot\2IconFHDUU.gi
+
+Vanilla Dominator emblems are not replaced.
