@@ -1,0 +1,473 @@
+{
+  "FileID": 573785173,
+  "FileVersion": 8,
+  "ViewPos.x": 0,
+  "ViewPos.y": 0,
+  "ScriptName": "FHDUU_Dialog",
+  "ScriptFileOut": "FHDUU_Dialog.scr",
+  "ScriptTextOut": "Lang.txt",
+  "GraphPoint.Count": 24,
+  "GraphLink.Count": 10,
+  "GraphRectText.Count": 0,
+  "Variables.Count": 1,
+  "Stars.Count": 1,
+  "Planets.Count": 1,
+  "Ships.Count": 1,
+  "States.Count": 1,
+  "Groups.Count": 1,
+  "Places.Count": 0,
+  "Items.Count": 0,
+  "Ethers.Count": 0,
+  "Dialogs.Count": 2,
+  "DialogMessages.Count": 2,
+  "DialogAnswers.Count": 2,
+  "Operations.Count": 12,
+  "Statements.Count": 0,
+  "Loops.Count": 0,
+  "Visual.Objects": [
+    {
+      "Variables": [
+        {
+          "Type": "TVar",
+          "Name": "FHDUU_IntroMode",
+          "Pos.x": 0,
+          "Pos.y": 0,
+          "Parent": -1,
+          "#": 0,
+          "Var.Type": "Int",
+          "Init": "0",
+          "Global": false
+        }
+      ],
+      "Stars": [
+        {
+          "Type": "TStar",
+          "Name": "FHDUU_Star",
+          "Pos.x": 180,
+          "Pos.y": 0,
+          "Parent": -1,
+          "#": 1,
+          "Constellation": 0,
+          "Priority": 0,
+          "NoKling": false,
+          "NoComeKling": false,
+          "Recovery.LegacyStarFlag": false,
+          "Recovery.VariableKind": 2,
+          "Recovery.VariableInit": 0
+        }
+      ],
+      "Planets": [
+        {
+          "Type": "TPlanet",
+          "Name": "FHDUU_Planet",
+          "Pos.x": 360,
+          "Pos.y": 0,
+          "Parent": -1,
+          "#": 2,
+          "Race": 62,
+          "Owner": 62,
+          "Economy": 14,
+          "Goverment": 62,
+          "RangeMin": 0,
+          "RangeMax": 100,
+          "Dialog": -1,
+          "Recovery.DialogVariable": "",
+          "Recovery.VariableKind": 2,
+          "Recovery.VariableInit": 0
+        }
+      ],
+      "Ships": [
+        {
+          "Type": "TStarShip",
+          "Name": "",
+          "Pos.x": 540,
+          "Pos.y": 0,
+          "Parent": -1,
+          "#": 3,
+          "Count": 1,
+          "Owner": 62,
+          "Ship.Type": 126,
+          "Player": true,
+          "SpeedMin": 0,
+          "SpeedMax": 10000,
+          "Weapon": 0,
+          "CargoHook": 0,
+          "EmptySpace": 0,
+          "StatusTraderMin": 0,
+          "StatusTraderMax": 100,
+          "StatusWarriorMin": 0,
+          "StatusWarriorMax": 100,
+          "StatusPirateMin": 0,
+          "StatusPirateMax": 100,
+          "StrengthMin": "0.0",
+          "StrengthMax": "0.0",
+          "Ruins": "",
+          "Recovery.LegacyShip1": 0,
+          "Recovery.LegacyShip2": 0,
+          "Recovery.LegacyShip3": 0,
+          "Recovery.LegacyShip4": 0
+        }
+      ],
+      "Groups": [
+        {
+          "Type": "TGroup",
+          "Name": "PlayerGroup",
+          "Pos.x": 720,
+          "Pos.y": 0,
+          "Parent": -1,
+          "#": 4,
+          "Owner": 62,
+          "Group.Type": 126,
+          "CntShipMin": 1,
+          "CntShipMax": 1,
+          "SpeedMin": 100,
+          "SpeedMax": 10000,
+          "Weapon": 0,
+          "CargoHook": 0,
+          "EmptySpace": 0,
+          "AddPlayer": true,
+          "StatusTraderMin": 0,
+          "StatusTraderMax": 100,
+          "StatusWarriorMin": 0,
+          "StatusWarriorMax": 100,
+          "StatusPirateMin": 0,
+          "StatusPirateMax": 100,
+          "DistSearch": 10000,
+          "Dialog": -1,
+          "StrengthMin": "0.0",
+          "StrengthMax": "0.0",
+          "Ruins": "",
+          "Recovery.PlanetVariable": "FHDUU_Planet",
+          "Recovery.StateIndex": 0,
+          "Recovery.DialogVariable": "",
+          "Recovery.LegacyGroup1": 0,
+          "Recovery.LegacyGroup2": 0,
+          "Recovery.LegacyGroup3": 0,
+          "Recovery.LegacyGroup4": 0,
+          "Recovery.LegacyGroup5": 0
+        }
+      ],
+      "States": [
+        {
+          "Type": "TState",
+          "Name": "PlayerState",
+          "Pos.x": 900,
+          "Pos.y": 0,
+          "Parent": -1,
+          "#": 5,
+          "Move": 0,
+          "MoveObj": -1,
+          "Attack.Count": 0,
+          "TakeItem": -1,
+          "TakeAllItem": false,
+          "OnTalk": "",
+          "OnActCode": "",
+          "EType": 1,
+          "EUnique": "",
+          "EMsg": "",
+          "Recovery.TargetVariable": "",
+          "Recovery.Enemies": [],
+          "Recovery.PickupVariable": ""
+        }
+      ],
+      "Operations": [
+        {
+          "Type": "Top",
+          "Name": "State entry: PlayerState",
+          "Pos.x": 1080,
+          "Pos.y": 0,
+          "Parent": 5,
+          "#": 6,
+          "Total.Lines": 1,
+          "Code.Type": "Turn",
+          "Code": [
+            ""
+          ]
+        },
+        {
+          "Type": "Top",
+          "Name": "State turn: PlayerState",
+          "Pos.x": 1260,
+          "Pos.y": 0,
+          "Parent": 5,
+          "#": 7,
+          "Total.Lines": 1,
+          "Code.Type": "Turn",
+          "Code": [
+            ""
+          ]
+        },
+        {
+          "Type": "Top",
+          "Name": "Dialog: FHDUU_Return",
+          "Pos.x": 180,
+          "Pos.y": 100,
+          "Parent": 8,
+          "#": 9,
+          "Total.Lines": 1,
+          "Code.Type": "Turn",
+          "Code": [
+            ""
+          ]
+        },
+        {
+          "Type": "Top",
+          "Name": "Dialog: FHDUU_IntroDialog",
+          "Pos.x": 540,
+          "Pos.y": 100,
+          "Parent": 10,
+          "#": 11,
+          "Total.Lines": 1,
+          "Code.Type": "Turn",
+          "Code": [
+            "if(FHDUU_IntroMode){DChange(0);}else{DChange(1);}"
+          ]
+        },
+        {
+          "Type": "Top",
+          "Name": "Message 0",
+          "Pos.x": 900,
+          "Pos.y": 100,
+          "Parent": 12,
+          "#": 13,
+          "Total.Lines": 1,
+          "Code.Type": "Turn",
+          "Code": [
+            "DText(CT('Script.FHD_UpgradeUnknovn.IntroText'));DAdd(0);DAdd(1);"
+          ]
+        },
+        {
+          "Type": "Top",
+          "Name": "Message 1",
+          "Pos.x": 1260,
+          "Pos.y": 100,
+          "Parent": 14,
+          "#": 15,
+          "Total.Lines": 1,
+          "Code.Type": "Turn",
+          "Code": [
+            "DAnswer('main');"
+          ]
+        },
+        {
+          "Type": "Top",
+          "Name": "Answer 0",
+          "Pos.x": 180,
+          "Pos.y": 200,
+          "Parent": 16,
+          "#": 17,
+          "Total.Lines": 1,
+          "Code.Type": "Turn",
+          "Code": [
+            "ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.ServiceSelect'));"
+          ]
+        },
+        {
+          "Type": "Top",
+          "Name": "Answer 1",
+          "Pos.x": 540,
+          "Pos.y": 200,
+          "Parent": 18,
+          "#": 19,
+          "Total.Lines": 1,
+          "Code.Type": "Turn",
+          "Code": [
+            ""
+          ]
+        },
+        {
+          "Type": "Top",
+          "Name": "global_code",
+          "Pos.x": 720,
+          "Pos.y": 200,
+          "Parent": -1,
+          "#": 20,
+          "Total.Lines": 1,
+          "Code.Type": "Global",
+          "Code": [
+            "GRun();"
+          ]
+        },
+        {
+          "Type": "Top",
+          "Name": "init_code",
+          "Pos.x": 900,
+          "Pos.y": 200,
+          "Parent": -1,
+          "#": 21,
+          "Total.Lines": 1,
+          "Code.Type": "Init",
+          "Code": [
+            ""
+          ]
+        },
+        {
+          "Type": "Top",
+          "Name": "turn_code",
+          "Pos.x": 1080,
+          "Pos.y": 200,
+          "Parent": -1,
+          "#": 22,
+          "Total.Lines": 1,
+          "Code.Type": "Turn",
+          "Code": [
+            ""
+          ]
+        },
+        {
+          "Type": "Top",
+          "Name": "dialog_code",
+          "Pos.x": 1260,
+          "Pos.y": 200,
+          "Parent": -1,
+          "#": 23,
+          "Total.Lines": 1,
+          "Code.Type": "DialogBegin",
+          "Code": [
+            "if(GetShipRuins(Player())>0){if(!PlayerBridge()){if(ShipType(GetShipRuins(Player()))=='SB'){AddDialogInject('FHDUU_IntroDialog','',CT('Script.FHD_UpgradeUnknovn.DialogEntry'),40,0,0,GenerateCodeStringFromBlock('Script.FHD_UpgradeUnknovn.Service'));}}}"
+          ]
+        }
+      ],
+      "Dialogs": [
+        {
+          "Type": "TDialog",
+          "Name": "FHDUU_Return",
+          "Pos.x": 0,
+          "Pos.y": 100,
+          "Parent": -1,
+          "#": 8,
+          "Recovery.VariableKind": 1,
+          "Recovery.VariableInit": 0
+        },
+        {
+          "Type": "TDialog",
+          "Name": "FHDUU_IntroDialog",
+          "Pos.x": 360,
+          "Pos.y": 100,
+          "Parent": -1,
+          "#": 10,
+          "Recovery.VariableKind": 1,
+          "Recovery.VariableInit": 0
+        }
+      ],
+      "DialogMessages": [
+        {
+          "Type": "TDialogMsg",
+          "Name": "",
+          "Pos.x": 720,
+          "Pos.y": 100,
+          "Parent": 10,
+          "#": 12,
+          "Msg": "",
+          "DMsg.Num": "0"
+        },
+        {
+          "Type": "TDialogMsg",
+          "Name": "",
+          "Pos.x": 1080,
+          "Pos.y": 100,
+          "Parent": 10,
+          "#": 14,
+          "Msg": "",
+          "DMsg.Num": "1"
+        }
+      ],
+      "DialogAnswers": [
+        {
+          "Type": "TDialogAnswer",
+          "Name": "",
+          "Pos.x": 0,
+          "Pos.y": 200,
+          "Parent": 10,
+          "#": 16,
+          "Msg": "DAnswer('restart~'+CT('Script.FHD_UpgradeUnknovn.IntroContinue'));",
+          "AMsg.Num": "0"
+        },
+        {
+          "Type": "TDialogAnswer",
+          "Name": "",
+          "Pos.x": 360,
+          "Pos.y": 200,
+          "Parent": 10,
+          "#": 18,
+          "Msg": "DAnswer('restart~'+CT('Script.FHD_UpgradeUnknovn.IntroDecline'));",
+          "AMsg.Num": "1"
+        }
+      ]
+    }
+  ],
+  "Visual.Links": [
+    {
+      "Type": "TGraphLink",
+      "Begin": 2,
+      "End": 1,
+      "Nom": 0,
+      "Arrow": true
+    },
+    {
+      "Type": "TGraphLink",
+      "Begin": 3,
+      "End": 1,
+      "Nom": 0,
+      "Arrow": true
+    },
+    {
+      "Type": "TGraphLink",
+      "Begin": 4,
+      "End": 2,
+      "Nom": 0,
+      "Arrow": true
+    },
+    {
+      "Type": "TGraphLink",
+      "Begin": 4,
+      "End": 5,
+      "Nom": 0,
+      "Arrow": true
+    },
+    {
+      "Type": "TGraphLink",
+      "Begin": 8,
+      "End": 9,
+      "Nom": 0,
+      "Arrow": true
+    },
+    {
+      "Type": "TGraphLink",
+      "Begin": 10,
+      "End": 11,
+      "Nom": 0,
+      "Arrow": true
+    },
+    {
+      "Type": "TGraphLink",
+      "Begin": 12,
+      "End": 13,
+      "Nom": 0,
+      "Arrow": true
+    },
+    {
+      "Type": "TGraphLink",
+      "Begin": 14,
+      "End": 15,
+      "Nom": 0,
+      "Arrow": true
+    },
+    {
+      "Type": "TGraphLink",
+      "Begin": 16,
+      "End": 17,
+      "Nom": 0,
+      "Arrow": true
+    },
+    {
+      "Type": "TGraphLink",
+      "Begin": 18,
+      "End": 19,
+      "Nom": 0,
+      "Arrow": true
+    }
+  ],
+  "BlockPar.EC.Total.Strings": 0,
+  "BlockPar.EC": []
+}

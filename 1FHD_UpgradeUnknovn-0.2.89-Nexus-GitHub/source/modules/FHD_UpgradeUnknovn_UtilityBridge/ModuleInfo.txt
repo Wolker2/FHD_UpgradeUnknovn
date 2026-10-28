@@ -1,0 +1,14 @@
+Name=FHD_UpgradeUnknovn_UtilityBridge
+Section=FHD_MODS
+Author=Prolog_D
+Priority=3
+Conflict=
+Dependence=FHD_UpgradeUnknovn,UtilityFunctionsPack
+Languages=Rus
+SmallDescription=<color=0,220,255>FHDUU Utility Bridge</color>: загрузка нативной механики FHD_UpgradeUnknown v0.2.87+.
+FullDescription=Вспомогательный мод. Загружает нативную механику FHD_UpgradeUnknown v0.2.87+ штатным механизмом ScriptLibs по архитектуре UtilityFunctionsPack. Сохраняет два обычных ММ, значки, механику и текстовые хуки.
+SmallDescription=------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+FullDescription= --------------------------------------------------------------------------------------- <color=0,200,255>ENG</color> -------------------------------------------------------------------------------------
+Languages=Eng
+SmallDescription=<color=0,220,255>FHDUU Utility Bridge</color>: loading native mechanics of FHD_UpgradeUnknown v0.2.87+.
+FullDescription=Utility mod. Loads native mechanics of FHD_UpgradeUnknown v0.2.87+ via the standard ScriptLibs mechanism using the UtilityFunctionsPack architecture. Preserves two regular MMs, icons, mechanics, and text hooks.

@@ -1,0 +1,26 @@
+{
+  "format": "cachedata",
+  "seed": 324508639,
+  "root": {
+    "entries": [
+      {
+        "kind": "block",
+        "name": "Script",
+        "value": {
+          "entries": [
+            {
+              "kind": "parameter",
+              "name": "FHDUU_Dialog",
+              "value": "Mods\\FHD_MODS\\FHD_UpgradeUnknovn\\DATA\\Script\\FHDUU_Dialog.scr"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "parameter",
+        "name": "2FHDUU_Researched",
+        "value": "Mods\\FHD_MODS\\FHD_UpgradeUnknovn\\DATA\\Race\\2FHDUU_Researched.png"
+      }
+    ]
+  }
+}

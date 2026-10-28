@@ -1,0 +1,32 @@
+Name=FHD_UpgradeUnknovn
+Section=FHD_MODS
+Author=Prolog_D
+Dependence=FHD_UpgradeUnknovn_UtilityBridge,UtilityFunctionsPack
+Conflict=EvoFreeInflation,EvoNoInflation
+Priority=2
+Languages=Rus
+SmallDescription=<color=255,125,0>Изучение Скрытых Бонусов (СБ) ЧД техники</color> на научных базах.
+FullDescription=На научной станции при исследовании ЧД оборудования учёные случайно обнаружили Скрытые Бонусы (СБ) этого оборудования. Теперь им нужно больше образцов.
+FullDescription=Что делает этот мод: он позволяет открывать дополнительные СБ ЧД оборудования/артефактов, при этом появился побочный эффект в виде возможности установки в дальнейшем двух микромодулей одновременно.
+Но есть и минусы — исчезает возможность ставить акрины!
+Маркировка на оборудовании «СБ I»: можно вставить два ММ 1, 2 и 3 уровня.
+Маркировка на оборудовании «СБ II»: можно вставить два ММ 1 и 2 уровня.
+Маркировка на оборудовании «СБ III»: можно вставить два ММ 1 уровня.
+ШАНСЫ:
+1. 55% → СБ III — 1 свойство, зелёный.
+2. 30% → СБ II — 2 разных свойства, синий.
+3. 15% → СБ I — 3 разных свойства, фиолетовый (+ внутри есть 5% шанс получить 4 или 5 разных свойств, коричневый).
+SmallDescription=------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+FullDescription= ------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+Languages=Eng
+SmallDescription=<color=255,125,0>Researching Secret Bonuses (SB) of BH Equipment</color> at Science Bases.
+FullDescription=At the science station, while researching Black Hole (BH) equipment, scientists accidentally discovered Secret Bonuses (SB) within it. Now they need more samples.
+FullDescription=What this mod does: it allows you to unlock additional SBs for BH equipment/artifacts. As a side effect, you gain the ability to install two micromodules simultaneously.
+However, there is a downside — you lose the ability to install Akrins!
+Marking on "SB I" equipment: allows installing two Lvl 1, 2, or 3 MMs.
+Marking on "SB II" equipment: allows installing two Lvl 1 or 2 MMs.
+Marking on "SB III" equipment: allows installing two Lvl 1 MMs.
+CHANCES:
+1. 55% → SB III — 1 property, green.
+2. 30% → SB II — 2 different properties, blue.
+3. 15% → SB I — 3 different properties, purple (plus an additional 5% chance inside to get 4 or 5 different properties, brown).

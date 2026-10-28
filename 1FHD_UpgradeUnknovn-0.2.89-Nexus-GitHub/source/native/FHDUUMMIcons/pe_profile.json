@@ -1,0 +1,5821 @@
+{
+  "format": "recovered-gnu-pe32-v1",
+  "dll_name": "FHDUUMMIcons.dll",
+  "dos_words": [
+    23117,
+    144,
+    3,
+    0,
+    4,
+    0,
+    65535,
+    0,
+    184,
+    0,
+    0,
+    0,
+    64,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "pe_header_offset": 128,
+  "dos_stub": {
+    "kind": "standard_int21_message",
+    "message": "This program cannot be run in DOS mode.\r\r\n$"
+  },
+  "coff": {
+    "machine": 332,
+    "section_count": 8,
+    "timestamp": 0,
+    "symbol_table_offset": 13312,
+    "symbol_count": 125,
+    "optional_header_size": 224,
+    "characteristics": 8966
+  },
+  "optional": {
+    "magic": 267,
+    "linker_major": 2,
+    "linker_minor": 42,
+    "size_code": 9216,
+    "size_initialized_data": 3072,
+    "size_uninitialized_data": 10752,
+    "entry_rva": 12944,
+    "base_code": 4096,
+    "base_data": 0,
+    "image_base": 301989888,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "os_major": 4,
+    "os_minor": 0,
+    "image_major": 1,
+    "image_minor": 0,
+    "subsystem_major": 4,
+    "subsystem_minor": 0,
+    "win32_version": 0,
+    "image_size": 53248,
+    "headers_size": 1024,
+    "checksum": 48379,
+    "subsystem": 3,
+    "dll_characteristics": 320,
+    "stack_reserve": 2097152,
+    "stack_commit": 4096,
+    "heap_reserve": 1048576,
+    "heap_commit": 4096,
+    "loader_flags": 0,
+    "directory_count": 16
+  },
+  "directories": [
+    [
+      40960,
+      116
+    ],
+    [
+      45056,
+      20
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      49152,
+      404
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sections": [
+    {
+      "virtual_size": 8872,
+      "rva": 4096,
+      "raw_size": 9216,
+      "raw_offset": 1024,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 1610612768,
+      "name": ".text",
+      "id": "section0",
+      "raw_padding_records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 92,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 96,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 100,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 104,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 108,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 112,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 116,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 120,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 124,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 128,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 132,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 136,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 140,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 144,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 148,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 152,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 156,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 160,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 164,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 168,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 172,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 176,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 180,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 184,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 188,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 192,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 196,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 200,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 204,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 208,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 212,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 216,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 220,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 224,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 228,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 232,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 236,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 240,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 244,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 248,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 252,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 256,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 260,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 264,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 268,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 272,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 276,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 280,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 284,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 288,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 292,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 296,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 300,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 304,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 308,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 312,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 316,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 320,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 324,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 328,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 332,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 336,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 340,
+          "kind": "u32",
+          "value": "0x0"
+        }
+      ]
+    },
+    {
+      "virtual_size": 420,
+      "rva": 16384,
+      "raw_size": 512,
+      "raw_offset": 10240,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 1073741888,
+      "name": ".rodata.",
+      "id": "section1",
+      "raw_padding_records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x0"
+        }
+      ],
+      "records": [
+        {
+          "offset": 0,
+          "kind": "ascii_z",
+          "text": " FBonus=0x"
+        },
+        {
+          "offset": 11,
+          "kind": "ascii_z",
+          "text": " FSpecial=0x"
+        },
+        {
+          "offset": 24,
+          "kind": "ascii_z",
+          "text": "hook "
+        },
+        {
+          "offset": 30,
+          "kind": "ascii_z",
+          "text": " rva=0x"
+        },
+        {
+          "offset": 38,
+          "kind": "ascii_z",
+          "text": " bytes="
+        },
+        {
+          "offset": 46,
+          "kind": "ascii_z",
+          "text": "Stellar1"
+        },
+        {
+          "offset": 55,
+          "kind": "ascii_z",
+          "text": "Stellar2"
+        },
+        {
+          "offset": 64,
+          "kind": "ascii_z",
+          "text": "Stellar3"
+        },
+        {
+          "offset": 73,
+          "kind": "ascii_z",
+          "text": "StellarGoldBlack"
+        },
+        {
+          "offset": 90,
+          "kind": "ascii_z",
+          "text": "StellarGoldGray"
+        },
+        {
+          "offset": 106,
+          "kind": "ascii_z",
+          "text": "StellarGoldWhite"
+        },
+        {
+          "offset": 123,
+          "kind": "ascii_z",
+          "text": "draw callback"
+        },
+        {
+          "offset": 137,
+          "kind": "ascii_z",
+          "text": "no stock control"
+        },
+        {
+          "offset": 154,
+          "kind": "ascii_z",
+          "text": "no parent control"
+        },
+        {
+          "offset": 172,
+          "kind": "ascii_z",
+          "text": "installed slot values"
+        },
+        {
+          "offset": 194,
+          "kind": "ascii_z",
+          "text": "MM image path is empty"
+        },
+        {
+          "offset": 217,
+          "kind": "ascii_z",
+          "text": "first icon shown"
+        },
+        {
+          "offset": 234,
+          "kind": "ascii_z",
+          "text": "second icon shown"
+        },
+        {
+          "offset": 252,
+          "kind": "ascii_z",
+          "text": "no distinct second MM"
+        },
+        {
+          "offset": 274,
+          "kind": "ascii_z",
+          "text": "occupied-jmp"
+        },
+        {
+          "offset": 287,
+          "kind": "ascii_z",
+          "text": "signature-mismatch"
+        },
+        {
+          "offset": 306,
+          "kind": "ascii_z",
+          "text": "NtProtectVirtualMemory"
+        },
+        {
+          "offset": 329,
+          "kind": "ascii_z",
+          "text": "NtFlushInstructionCache"
+        },
+        {
+          "offset": 353,
+          "kind": "ascii_z",
+          "text": "out-of-range"
+        },
+        {
+          "offset": 366,
+          "kind": "ascii_z",
+          "text": "write-failed"
+        },
+        {
+          "offset": 379,
+          "kind": "ascii_z",
+          "text": "hook-safe installed="
+        },
+        {
+          "offset": 400,
+          "kind": "ascii_z",
+          "text": " already="
+        },
+        {
+          "offset": 410,
+          "kind": "ascii_z",
+          "text": " skipped="
+        }
+      ]
+    },
+    {
+      "virtual_size": 64,
+      "rva": 20480,
+      "raw_size": 512,
+      "raw_offset": 10752,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 1073741888,
+      "name": ".rodata.",
+      "id": "section2",
+      "raw_padding_records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 92,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 96,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 100,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 104,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 108,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 112,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 116,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 120,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 124,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 128,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 132,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 136,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 140,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 144,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 148,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 152,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 156,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 160,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 164,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 168,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 172,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 176,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 180,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 184,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 188,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 192,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 196,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 200,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 204,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 208,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 212,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 216,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 220,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 224,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 228,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 232,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 236,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 240,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 244,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 248,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 252,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 256,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 260,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 264,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 268,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 272,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 276,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 280,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 284,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 288,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 292,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 296,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 300,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 304,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 308,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 312,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 316,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 320,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 324,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 328,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 332,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 336,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 340,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 344,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 348,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 352,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 356,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 360,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 364,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 368,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 372,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 376,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 380,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 384,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 388,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 392,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 396,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 400,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 404,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 408,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 412,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 416,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 420,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 424,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 428,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 432,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 436,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 440,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 444,
+          "kind": "u32",
+          "value": "0x0"
+        }
+      ],
+      "records": [
+        {
+          "offset": 0,
+          "kind": "ascii_z",
+          "text": "first MM record is not ordinary"
+        },
+        {
+          "offset": 32,
+          "kind": "ascii_z",
+          "text": "two MM records are not ordinary"
+        }
+      ]
+    },
+    {
+      "virtual_size": 294,
+      "rva": 24576,
+      "raw_size": 512,
+      "raw_offset": 11264,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 1073741888,
+      "name": ".rodata",
+      "id": "section3",
+      "raw_padding_records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 92,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 96,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 100,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 104,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 108,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 112,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 116,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 120,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 124,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 128,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 132,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 136,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 140,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 144,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 148,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 152,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 156,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 160,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 164,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 168,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 172,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 176,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 180,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 184,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 188,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 192,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 196,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 200,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 204,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 208,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 212,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 216,
+          "kind": "u8",
+          "value": 0
+        },
+        {
+          "offset": 217,
+          "kind": "u8",
+          "value": 0
+        }
+      ],
+      "records": [
+        {
+          "offset": 0,
+          "kind": "ascii_z",
+          "text": "ntdll.dll"
+        },
+        {
+          "offset": 10,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 14,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 18,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 22,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 26,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 30,
+          "kind": "u32",
+          "value": "0x460000"
+        },
+        {
+          "offset": 34,
+          "kind": "utf16z",
+          "text": "HDUU_Researched"
+        },
+        {
+          "offset": 66,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 70,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 74,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 78,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 82,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 86,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 90,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 94,
+          "kind": "u32",
+          "value": "0x730000"
+        },
+        {
+          "offset": 98,
+          "kind": "utf16z",
+          "text": "econd MM icon drawn"
+        },
+        {
+          "offset": 138,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 142,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 146,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 150,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 154,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 158,
+          "kind": "u32",
+          "value": "0x760000"
+        },
+        {
+          "offset": 162,
+          "kind": "utf16z",
+          "text": "isual hooks active (hook-safe)"
+        },
+        {
+          "offset": 224,
+          "kind": "utf16z",
+          "text": "MM icons only"
+        },
+        {
+          "offset": 252,
+          "kind": "utf16z",
+          "text": "0.2.87m"
+        },
+        {
+          "offset": 268,
+          "kind": "utf16z",
+          "text": "FHDUUMMIcons"
+        }
+      ]
+    },
+    {
+      "virtual_size": 10392,
+      "rva": 28672,
+      "raw_size": 0,
+      "raw_offset": 0,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 3221225600,
+      "name": ".bss",
+      "id": "section4"
+    },
+    {
+      "virtual_size": 116,
+      "rva": 40960,
+      "raw_size": 512,
+      "raw_offset": 11776,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 1073741888,
+      "name": ".edata",
+      "id": "section5",
+      "raw_padding_records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 92,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 96,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 100,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 104,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 108,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 112,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 116,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 120,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 124,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 128,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 132,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 136,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 140,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 144,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 148,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 152,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 156,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 160,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 164,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 168,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 172,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 176,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 180,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 184,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 188,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 192,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 196,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 200,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 204,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 208,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 212,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 216,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 220,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 224,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 228,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 232,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 236,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 240,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 244,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 248,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 252,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 256,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 260,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 264,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 268,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 272,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 276,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 280,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 284,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 288,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 292,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 296,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 300,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 304,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 308,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 312,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 316,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 320,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 324,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 328,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 332,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 336,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 340,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 344,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 348,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 352,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 356,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 360,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 364,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 368,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 372,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 376,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 380,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 384,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 388,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 392,
+          "kind": "u32",
+          "value": "0x0"
+        }
+      ],
+      "records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0xa03c"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x1"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x2"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x2"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0xa028"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0xa030"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0xa038"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x2c00"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x2b20"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0xa04d"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0xa063"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x10000"
+        },
+        {
+          "offset": 60,
+          "kind": "ascii_z",
+          "text": "FHDUUMMIcons.dll"
+        },
+        {
+          "offset": 77,
+          "kind": "ascii_z",
+          "text": "XenoPlugin_Initialize"
+        },
+        {
+          "offset": 99,
+          "kind": "ascii_z",
+          "text": "XenoPlugin_Query"
+        }
+      ]
+    },
+    {
+      "virtual_size": 20,
+      "rva": 45056,
+      "raw_size": 512,
+      "raw_offset": 12288,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 3221225536,
+      "name": ".idata",
+      "id": "section6",
+      "raw_padding_records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 92,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 96,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 100,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 104,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 108,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 112,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 116,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 120,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 124,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 128,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 132,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 136,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 140,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 144,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 148,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 152,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 156,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 160,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 164,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 168,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 172,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 176,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 180,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 184,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 188,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 192,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 196,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 200,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 204,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 208,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 212,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 216,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 220,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 224,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 228,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 232,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 236,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 240,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 244,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 248,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 252,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 256,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 260,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 264,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 268,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 272,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 276,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 280,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 284,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 288,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 292,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 296,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 300,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 304,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 308,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 312,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 316,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 320,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 324,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 328,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 332,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 336,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 340,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 344,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 348,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 352,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 356,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 360,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 364,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 368,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 372,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 376,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 380,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 384,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 388,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 392,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 396,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 400,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 404,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 408,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 412,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 416,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 420,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 424,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 428,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 432,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 436,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 440,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 444,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 448,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 452,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 456,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 460,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 464,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 468,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 472,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 476,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 480,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 484,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 488,
+          "kind": "u32",
+          "value": "0x0"
+        }
+      ],
+      "records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        }
+      ]
+    },
+    {
+      "virtual_size": 404,
+      "rva": 49152,
+      "raw_size": 512,
+      "raw_offset": 12800,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 1107296320,
+      "name": ".reloc",
+      "id": "section7",
+      "raw_padding_records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 92,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 96,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 100,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 104,
+          "kind": "u32",
+          "value": "0x0"
+        }
+      ],
+      "records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x1000"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0xa0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x301d300d"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x306d3036"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x311030eb"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x3179313c"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x327931c9"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x347e3357"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x350b34f5"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x355e3556"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x356e3566"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x357e3576"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x3625360a"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x36473636"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x366a364d"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x36ba368a"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x371a36fa"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x37b03756"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x380837e4"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x3872384c"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x3892387e"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x38f738dc"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x397e3905"
+        },
+        {
+          "offset": 92,
+          "kind": "u32",
+          "value": "0x39da39bd"
+        },
+        {
+          "offset": 96,
+          "kind": "u32",
+          "value": "0x3a3539e2"
+        },
+        {
+          "offset": 100,
+          "kind": "u32",
+          "value": "0x3a543a3f"
+        },
+        {
+          "offset": 104,
+          "kind": "u32",
+          "value": "0x3ae93adf"
+        },
+        {
+          "offset": 108,
+          "kind": "u32",
+          "value": "0x3b873b0c"
+        },
+        {
+          "offset": 112,
+          "kind": "u32",
+          "value": "0x3bb63b9a"
+        },
+        {
+          "offset": 116,
+          "kind": "u32",
+          "value": "0x3c643c09"
+        },
+        {
+          "offset": 120,
+          "kind": "u32",
+          "value": "0x3ce73ca7"
+        },
+        {
+          "offset": 124,
+          "kind": "u32",
+          "value": "0x3d543cf1"
+        },
+        {
+          "offset": 128,
+          "kind": "u32",
+          "value": "0x3dca3dbc"
+        },
+        {
+          "offset": 132,
+          "kind": "u32",
+          "value": "0x3e443e05"
+        },
+        {
+          "offset": 136,
+          "kind": "u32",
+          "value": "0x3f383f11"
+        },
+        {
+          "offset": 140,
+          "kind": "u32",
+          "value": "0x3f483f3e"
+        },
+        {
+          "offset": 144,
+          "kind": "u32",
+          "value": "0x3f543f4e"
+        },
+        {
+          "offset": 148,
+          "kind": "u32",
+          "value": "0x3f673f5d"
+        },
+        {
+          "offset": 152,
+          "kind": "u32",
+          "value": "0x3f783f73"
+        },
+        {
+          "offset": 156,
+          "kind": "u32",
+          "value": "0x3feb3fcf"
+        },
+        {
+          "offset": 160,
+          "kind": "u32",
+          "value": "0x2000"
+        },
+        {
+          "offset": 164,
+          "kind": "u32",
+          "value": "0xd4"
+        },
+        {
+          "offset": 168,
+          "kind": "u32",
+          "value": "0x301e300f"
+        },
+        {
+          "offset": 172,
+          "kind": "u32",
+          "value": "0x3060304d"
+        },
+        {
+          "offset": 176,
+          "kind": "u32",
+          "value": "0x30fe30ab"
+        },
+        {
+          "offset": 180,
+          "kind": "u32",
+          "value": "0x31403121"
+        },
+        {
+          "offset": 184,
+          "kind": "u32",
+          "value": "0x325f315f"
+        },
+        {
+          "offset": 188,
+          "kind": "u32",
+          "value": "0x32713269"
+        },
+        {
+          "offset": 192,
+          "kind": "u32",
+          "value": "0x330732c2"
+        },
+        {
+          "offset": 196,
+          "kind": "u32",
+          "value": "0x33933311"
+        },
+        {
+          "offset": 200,
+          "kind": "u32",
+          "value": "0x33d83399"
+        },
+        {
+          "offset": 204,
+          "kind": "u32",
+          "value": "0x34943413"
+        },
+        {
+          "offset": 208,
+          "kind": "u32",
+          "value": "0x34b834b2"
+        },
+        {
+          "offset": 212,
+          "kind": "u32",
+          "value": "0x34c834c2"
+        },
+        {
+          "offset": 216,
+          "kind": "u32",
+          "value": "0x351e34fc"
+        },
+        {
+          "offset": 220,
+          "kind": "u32",
+          "value": "0x35ec3546"
+        },
+        {
+          "offset": 224,
+          "kind": "u32",
+          "value": "0x36933618"
+        },
+        {
+          "offset": 228,
+          "kind": "u32",
+          "value": "0x375f36e6"
+        },
+        {
+          "offset": 232,
+          "kind": "u32",
+          "value": "0x379d377e"
+        },
+        {
+          "offset": 236,
+          "kind": "u32",
+          "value": "0x37c937bf"
+        },
+        {
+          "offset": 240,
+          "kind": "u32",
+          "value": "0x38c9384b"
+        },
+        {
+          "offset": 244,
+          "kind": "u32",
+          "value": "0x392438e5"
+        },
+        {
+          "offset": 248,
+          "kind": "u32",
+          "value": "0x396c3948"
+        },
+        {
+          "offset": 252,
+          "kind": "u32",
+          "value": "0x39873978"
+        },
+        {
+          "offset": 256,
+          "kind": "u32",
+          "value": "0x39a13996"
+        },
+        {
+          "offset": 260,
+          "kind": "u32",
+          "value": "0x39da39c1"
+        },
+        {
+          "offset": 264,
+          "kind": "u32",
+          "value": "0x3a6d3a5f"
+        },
+        {
+          "offset": 268,
+          "kind": "u32",
+          "value": "0x3a8a3a7b"
+        },
+        {
+          "offset": 272,
+          "kind": "u32",
+          "value": "0x3ab53aaf"
+        },
+        {
+          "offset": 276,
+          "kind": "u32",
+          "value": "0x3b603acf"
+        },
+        {
+          "offset": 280,
+          "kind": "u32",
+          "value": "0x3bbd3b8b"
+        },
+        {
+          "offset": 284,
+          "kind": "u32",
+          "value": "0x3c3e3c39"
+        },
+        {
+          "offset": 288,
+          "kind": "u32",
+          "value": "0x3d0b3c74"
+        },
+        {
+          "offset": 292,
+          "kind": "u32",
+          "value": "0x3d7d3d71"
+        },
+        {
+          "offset": 296,
+          "kind": "u32",
+          "value": "0x3d903d82"
+        },
+        {
+          "offset": 300,
+          "kind": "u32",
+          "value": "0x3dd33db5"
+        },
+        {
+          "offset": 304,
+          "kind": "u32",
+          "value": "0x3de93dde"
+        },
+        {
+          "offset": 308,
+          "kind": "u32",
+          "value": "0x3e073dfc"
+        },
+        {
+          "offset": 312,
+          "kind": "u32",
+          "value": "0x3e1d3e12"
+        },
+        {
+          "offset": 316,
+          "kind": "u32",
+          "value": "0x3e333e28"
+        },
+        {
+          "offset": 320,
+          "kind": "u32",
+          "value": "0x3e493e3e"
+        },
+        {
+          "offset": 324,
+          "kind": "u32",
+          "value": "0x3ee43e54"
+        },
+        {
+          "offset": 328,
+          "kind": "u32",
+          "value": "0x3ef23eee"
+        },
+        {
+          "offset": 332,
+          "kind": "u32",
+          "value": "0x3efc3ef8"
+        },
+        {
+          "offset": 336,
+          "kind": "u32",
+          "value": "0x3f063f02"
+        },
+        {
+          "offset": 340,
+          "kind": "u32",
+          "value": "0x3f103f0c"
+        },
+        {
+          "offset": 344,
+          "kind": "u32",
+          "value": "0x3f1a3f16"
+        },
+        {
+          "offset": 348,
+          "kind": "u32",
+          "value": "0x3f2a3f22"
+        },
+        {
+          "offset": 352,
+          "kind": "u32",
+          "value": "0x3f3a3f32"
+        },
+        {
+          "offset": 356,
+          "kind": "u32",
+          "value": "0x3f4a3f42"
+        },
+        {
+          "offset": 360,
+          "kind": "u32",
+          "value": "0x3f5a3f52"
+        },
+        {
+          "offset": 364,
+          "kind": "u32",
+          "value": "0x3f6a3f62"
+        },
+        {
+          "offset": 368,
+          "kind": "u32",
+          "value": "0x3fe83f9b"
+        },
+        {
+          "offset": 372,
+          "kind": "u32",
+          "value": "0x3000"
+        },
+        {
+          "offset": 376,
+          "kind": "u32",
+          "value": "0x20"
+        },
+        {
+          "offset": 380,
+          "kind": "u32",
+          "value": "0x302f3013"
+        },
+        {
+          "offset": 384,
+          "kind": "u32",
+          "value": "0x30ad3082"
+        },
+        {
+          "offset": 388,
+          "kind": "u32",
+          "value": "0x30ed30c2"
+        },
+        {
+          "offset": 392,
+          "kind": "u32",
+          "value": "0x3171311b"
+        },
+        {
+          "offset": 396,
+          "kind": "u32",
+          "value": "0x31fb31df"
+        },
+        {
+          "offset": 400,
+          "kind": "u32",
+          "value": "0x320c3207"
+        }
+      ]
+    }
+  ],
+  "symbols": [
+    {
+      "name": "fhduu_mm_icons.c",
+      "string_offset": 4,
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": ".text",
+      "inline": ".text",
+      "value": 0,
+      "section": 1,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": ".bss",
+      "inline": ".bss",
+      "value": 0,
+      "section": 5,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": ".rodata.str1.1",
+      "string_offset": 21,
+      "value": 0,
+      "section": 2,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "diagnostic",
+      "string_offset": 36,
+      "value": 0,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "logMessage",
+      "string_offset": 47,
+      "value": 10380,
+      "section": 5,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "diagMask",
+      "inline": "diagMask",
+      "value": 6240,
+      "section": 5,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "pluginId",
+      "inline": "pluginId",
+      "value": 268,
+      "section": 4,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "logHookSite",
+      "string_offset": 58,
+      "value": 304,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "pebAddress",
+      "string_offset": 70,
+      "value": 896,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "findExport",
+      "string_offset": 81,
+      "value": 912,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "writeBytes",
+      "string_offset": 92,
+      "value": 1136,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "protectMemory",
+      "string_offset": 103,
+      "value": 10376,
+      "section": 5,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "flushCache",
+      "string_offset": 117,
+      "value": 10372,
+      "section": 5,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "supportedRecord",
+      "string_offset": 128,
+      "value": 1328,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "mmPath",
+      "inline": "mmPath",
+      "value": 1536,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "cat3",
+      "inline": "cat3",
+      "value": 1552,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "clearString",
+      "string_offset": 144,
+      "value": 1584,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "newImage",
+      "inline": "newImage",
+      "value": 1600,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "setImage",
+      "inline": "setImage",
+      "value": 1632,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "controlFlag",
+      "string_offset": 156,
+      "value": 1664,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "setRectA",
+      "inline": "setRectA",
+      "value": 1696,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "setRectB",
+      "inline": "setRectB",
+      "value": 1712,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "setRectC",
+      "inline": "setRectC",
+      "value": 1744,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "zeroPair",
+      "inline": "zeroPair",
+      "value": 1760,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "imageMode1",
+      "string_offset": 168,
+      "value": 1776,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "imageMode2",
+      "string_offset": 179,
+      "value": 1808,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "visible",
+      "inline": "visible",
+      "value": 1840,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "scale",
+      "inline": "scale",
+      "value": 1872,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "gridTrampoline",
+      "string_offset": 190,
+      "value": 1888,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "gridHook",
+      "inline": "gridHook",
+      "value": 1904,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "shipTopTrampoline",
+      "string_offset": 205,
+      "value": 1984,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "shipTopHook",
+      "string_offset": 223,
+      "value": 2000,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "shipGridTrampoline",
+      "string_offset": 235,
+      "value": 2064,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "shipGridHook",
+      "string_offset": 254,
+      "value": 2080,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "shipSelectedTrampoline",
+      "string_offset": 267,
+      "value": 2144,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "shipSelectedHook",
+      "string_offset": 290,
+      "value": 2160,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "shipSelectedGridTrampoline",
+      "string_offset": 307,
+      "value": 2208,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "shipSelectedGridHook",
+      "string_offset": 334,
+      "value": 2224,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "hideOrphans",
+      "string_offset": 355,
+      "value": 2288,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "copies",
+      "inline": "copies",
+      "value": 6272,
+      "section": 5,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "hideCopy",
+      "inline": "hideCopy",
+      "value": 2480,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": ".rodata.str1.4",
+      "string_offset": 367,
+      "value": 0,
+      "section": 3,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "game",
+      "inline": "game",
+      "value": 10388,
+      "section": 5,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "renderedOnce",
+      "string_offset": 382,
+      "value": 10368,
+      "section": 5,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "rendered",
+      "inline": "rendered",
+      "value": 96,
+      "section": 4,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "equipmentBadges",
+      "string_offset": 395,
+      "value": 96,
+      "section": 5,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "researched",
+      "string_offset": 411,
+      "value": 32,
+      "section": 4,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "version",
+      "inline": "version",
+      "value": 252,
+      "section": 4,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "description",
+      "string_offset": 422,
+      "value": 224,
+      "section": 4,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "imageSize",
+      "string_offset": 434,
+      "value": 10384,
+      "section": 5,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "match.0",
+      "inline": "match.0",
+      "value": 0,
+      "section": 4,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "active",
+      "inline": "active",
+      "value": 160,
+      "section": 4,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": ".rodata",
+      "inline": ".rodata",
+      "value": 0,
+      "section": 4,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "FHDUU_DrawShopFirstIcon",
+      "string_offset": 444,
+      "value": 4592,
+      "section": 1,
+      "type": 32,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "FHDUU_DrawSecondIcon",
+      "string_offset": 468,
+      "value": 2640,
+      "section": 1,
+      "type": 32,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "FHDUU_DrawEquipmentIcons",
+      "string_offset": 489,
+      "value": 5744,
+      "section": 1,
+      "type": 32,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "XenoPlugin_Query",
+      "string_offset": 514,
+      "value": 6944,
+      "section": 1,
+      "type": 32,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "XenoPlugin_Initialize",
+      "string_offset": 531,
+      "value": 7168,
+      "section": 1,
+      "type": 32,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "DllMain",
+      "inline": "DllMain",
+      "value": 8848,
+      "section": 1,
+      "type": 32,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___RUNTIME_PSEUDO_RELOC_LIST__",
+      "string_offset": 553,
+      "value": 12288,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__data_start__",
+      "string_offset": 584,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___DTOR_LIST__",
+      "string_offset": 599,
+      "value": 8864,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___tls_start__",
+      "string_offset": 614,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__ImageBase",
+      "string_offset": 629,
+      "value": 301989888,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gScaleCoord",
+      "string_offset": 641,
+      "value": 0,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__rt_psrelocs_start",
+      "string_offset": 653,
+      "value": 0,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gImageSet",
+      "string_offset": 673,
+      "value": 20,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__dll_characteristics__",
+      "string_offset": 683,
+      "value": 320,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__size_of_stack_commit__",
+      "string_offset": 707,
+      "value": 4096,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__size_of_stack_reserve__",
+      "string_offset": 732,
+      "value": 2097152,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__major_subsystem_version__",
+      "string_offset": 758,
+      "value": 4,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xl_start__",
+      "string_offset": 786,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xi_start__",
+      "string_offset": 804,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xi_end__",
+      "string_offset": 822,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gShipTopTrampoline",
+      "string_offset": 838,
+      "value": 64,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gMMPath",
+      "inline": "gMMPath",
+      "value": 40,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gImageClass",
+      "string_offset": 857,
+      "value": 28,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__bss_start__",
+      "string_offset": 869,
+      "value": 0,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___RUNTIME_PSEUDO_RELOC_LIST_END__",
+      "string_offset": 883,
+      "value": 12288,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__size_of_heap_commit__",
+      "string_offset": 918,
+      "value": 4096,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xp_start__",
+      "string_offset": 942,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gRectUpdate",
+      "string_offset": 960,
+      "value": 4,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xp_end__",
+      "string_offset": 972,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__dll__",
+      "inline": "__dll__",
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__minor_os_version__",
+      "string_offset": 988,
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__image_base__",
+      "string_offset": 1009,
+      "value": 301989888,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__section_alignment__",
+      "string_offset": 1024,
+      "value": 4096,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__IAT_end__",
+      "string_offset": 1046,
+      "value": 20,
+      "section": 7,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__RUNTIME_PSEUDO_RELOC_LIST__",
+      "string_offset": 1058,
+      "value": 12288,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gImageMode2",
+      "string_offset": 1088,
+      "value": 8,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__data_end__",
+      "string_offset": 1100,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__CTOR_LIST__",
+      "string_offset": 1113,
+      "value": 8856,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gStrClear",
+      "string_offset": 1127,
+      "value": 32,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__bss_end__",
+      "string_offset": 1137,
+      "value": 10392,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xc_end__",
+      "string_offset": 1149,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xc_start__",
+      "string_offset": 1165,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gShipSelectedTrampoline",
+      "string_offset": 1183,
+      "value": 56,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___CTOR_LIST__",
+      "string_offset": 1207,
+      "value": 8856,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__rt_psrelocs_size",
+      "string_offset": 1222,
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gPlayerAddr",
+      "string_offset": 1241,
+      "value": 44,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__file_alignment__",
+      "string_offset": 1253,
+      "value": 512,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__major_os_version__",
+      "string_offset": 1272,
+      "value": 4,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gShipSelectedGridTrampoline",
+      "string_offset": 1293,
+      "value": 52,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__IAT_start__",
+      "string_offset": 1321,
+      "value": 20,
+      "section": 7,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__end__",
+      "inline": "__end__",
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__DTOR_LIST__",
+      "string_offset": 1335,
+      "value": 8864,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gImageMode1",
+      "string_offset": 1349,
+      "value": 12,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__size_of_heap_reserve__",
+      "string_offset": 1361,
+      "value": 1048576,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xt_start__",
+      "string_offset": 1386,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__subsystem__",
+      "string_offset": 1404,
+      "value": 3,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gCatN",
+      "inline": "gCatN",
+      "value": 36,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gControlFlag",
+      "string_offset": 1418,
+      "value": 16,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gShipGridTrampoline",
+      "string_offset": 1431,
+      "value": 60,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gImageCtor",
+      "string_offset": 1451,
+      "value": 24,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___tls_end__",
+      "string_offset": 1462,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__major_image_version__",
+      "string_offset": 1475,
+      "value": 1,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__loader_flags__",
+      "string_offset": 1499,
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__rt_psrelocs_end",
+      "string_offset": 1516,
+      "value": 0,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__minor_subsystem_version__",
+      "string_offset": 1534,
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__minor_image_version__",
+      "string_offset": 1562,
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gGetEquip",
+      "string_offset": 1586,
+      "value": 48,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "gGridTrampoline",
+      "string_offset": 1596,
+      "value": 68,
+      "section": 5,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__RUNTIME_PSEUDO_RELOC_LIST_END__",
+      "string_offset": 1612,
+      "value": 12288,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xt_end__",
+      "string_offset": 1646,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    }
+  ],
+  "coff_strings": [
+    {
+      "offset": 4,
+      "text": "fhduu_mm_icons.c"
+    },
+    {
+      "offset": 21,
+      "text": ".rodata.str1.1"
+    },
+    {
+      "offset": 36,
+      "text": "diagnostic"
+    },
+    {
+      "offset": 47,
+      "text": "logMessage"
+    },
+    {
+      "offset": 58,
+      "text": "logHookSite"
+    },
+    {
+      "offset": 70,
+      "text": "pebAddress"
+    },
+    {
+      "offset": 81,
+      "text": "findExport"
+    },
+    {
+      "offset": 92,
+      "text": "writeBytes"
+    },
+    {
+      "offset": 103,
+      "text": "protectMemory"
+    },
+    {
+      "offset": 117,
+      "text": "flushCache"
+    },
+    {
+      "offset": 128,
+      "text": "supportedRecord"
+    },
+    {
+      "offset": 144,
+      "text": "clearString"
+    },
+    {
+      "offset": 156,
+      "text": "controlFlag"
+    },
+    {
+      "offset": 168,
+      "text": "imageMode1"
+    },
+    {
+      "offset": 179,
+      "text": "imageMode2"
+    },
+    {
+      "offset": 190,
+      "text": "gridTrampoline"
+    },
+    {
+      "offset": 205,
+      "text": "shipTopTrampoline"
+    },
+    {
+      "offset": 223,
+      "text": "shipTopHook"
+    },
+    {
+      "offset": 235,
+      "text": "shipGridTrampoline"
+    },
+    {
+      "offset": 254,
+      "text": "shipGridHook"
+    },
+    {
+      "offset": 267,
+      "text": "shipSelectedTrampoline"
+    },
+    {
+      "offset": 290,
+      "text": "shipSelectedHook"
+    },
+    {
+      "offset": 307,
+      "text": "shipSelectedGridTrampoline"
+    },
+    {
+      "offset": 334,
+      "text": "shipSelectedGridHook"
+    },
+    {
+      "offset": 355,
+      "text": "hideOrphans"
+    },
+    {
+      "offset": 367,
+      "text": ".rodata.str1.4"
+    },
+    {
+      "offset": 382,
+      "text": "renderedOnce"
+    },
+    {
+      "offset": 395,
+      "text": "equipmentBadges"
+    },
+    {
+      "offset": 411,
+      "text": "researched"
+    },
+    {
+      "offset": 422,
+      "text": "description"
+    },
+    {
+      "offset": 434,
+      "text": "imageSize"
+    },
+    {
+      "offset": 444,
+      "text": "FHDUU_DrawShopFirstIcon"
+    },
+    {
+      "offset": 468,
+      "text": "FHDUU_DrawSecondIcon"
+    },
+    {
+      "offset": 489,
+      "text": "FHDUU_DrawEquipmentIcons"
+    },
+    {
+      "offset": 514,
+      "text": "XenoPlugin_Query"
+    },
+    {
+      "offset": 531,
+      "text": "XenoPlugin_Initialize"
+    },
+    {
+      "offset": 553,
+      "text": "___RUNTIME_PSEUDO_RELOC_LIST__"
+    },
+    {
+      "offset": 584,
+      "text": "__data_start__"
+    },
+    {
+      "offset": 599,
+      "text": "___DTOR_LIST__"
+    },
+    {
+      "offset": 614,
+      "text": "___tls_start__"
+    },
+    {
+      "offset": 629,
+      "text": "__ImageBase"
+    },
+    {
+      "offset": 641,
+      "text": "gScaleCoord"
+    },
+    {
+      "offset": 653,
+      "text": "__rt_psrelocs_start"
+    },
+    {
+      "offset": 673,
+      "text": "gImageSet"
+    },
+    {
+      "offset": 683,
+      "text": "__dll_characteristics__"
+    },
+    {
+      "offset": 707,
+      "text": "__size_of_stack_commit__"
+    },
+    {
+      "offset": 732,
+      "text": "__size_of_stack_reserve__"
+    },
+    {
+      "offset": 758,
+      "text": "__major_subsystem_version__"
+    },
+    {
+      "offset": 786,
+      "text": "___crt_xl_start__"
+    },
+    {
+      "offset": 804,
+      "text": "___crt_xi_start__"
+    },
+    {
+      "offset": 822,
+      "text": "___crt_xi_end__"
+    },
+    {
+      "offset": 838,
+      "text": "gShipTopTrampoline"
+    },
+    {
+      "offset": 857,
+      "text": "gImageClass"
+    },
+    {
+      "offset": 869,
+      "text": "__bss_start__"
+    },
+    {
+      "offset": 883,
+      "text": "___RUNTIME_PSEUDO_RELOC_LIST_END__"
+    },
+    {
+      "offset": 918,
+      "text": "__size_of_heap_commit__"
+    },
+    {
+      "offset": 942,
+      "text": "___crt_xp_start__"
+    },
+    {
+      "offset": 960,
+      "text": "gRectUpdate"
+    },
+    {
+      "offset": 972,
+      "text": "___crt_xp_end__"
+    },
+    {
+      "offset": 988,
+      "text": "__minor_os_version__"
+    },
+    {
+      "offset": 1009,
+      "text": "__image_base__"
+    },
+    {
+      "offset": 1024,
+      "text": "__section_alignment__"
+    },
+    {
+      "offset": 1046,
+      "text": "__IAT_end__"
+    },
+    {
+      "offset": 1058,
+      "text": "__RUNTIME_PSEUDO_RELOC_LIST__"
+    },
+    {
+      "offset": 1088,
+      "text": "gImageMode2"
+    },
+    {
+      "offset": 1100,
+      "text": "__data_end__"
+    },
+    {
+      "offset": 1113,
+      "text": "__CTOR_LIST__"
+    },
+    {
+      "offset": 1127,
+      "text": "gStrClear"
+    },
+    {
+      "offset": 1137,
+      "text": "__bss_end__"
+    },
+    {
+      "offset": 1149,
+      "text": "___crt_xc_end__"
+    },
+    {
+      "offset": 1165,
+      "text": "___crt_xc_start__"
+    },
+    {
+      "offset": 1183,
+      "text": "gShipSelectedTrampoline"
+    },
+    {
+      "offset": 1207,
+      "text": "___CTOR_LIST__"
+    },
+    {
+      "offset": 1222,
+      "text": "__rt_psrelocs_size"
+    },
+    {
+      "offset": 1241,
+      "text": "gPlayerAddr"
+    },
+    {
+      "offset": 1253,
+      "text": "__file_alignment__"
+    },
+    {
+      "offset": 1272,
+      "text": "__major_os_version__"
+    },
+    {
+      "offset": 1293,
+      "text": "gShipSelectedGridTrampoline"
+    },
+    {
+      "offset": 1321,
+      "text": "__IAT_start__"
+    },
+    {
+      "offset": 1335,
+      "text": "__DTOR_LIST__"
+    },
+    {
+      "offset": 1349,
+      "text": "gImageMode1"
+    },
+    {
+      "offset": 1361,
+      "text": "__size_of_heap_reserve__"
+    },
+    {
+      "offset": 1386,
+      "text": "___crt_xt_start__"
+    },
+    {
+      "offset": 1404,
+      "text": "__subsystem__"
+    },
+    {
+      "offset": 1418,
+      "text": "gControlFlag"
+    },
+    {
+      "offset": 1431,
+      "text": "gShipGridTrampoline"
+    },
+    {
+      "offset": 1451,
+      "text": "gImageCtor"
+    },
+    {
+      "offset": 1462,
+      "text": "___tls_end__"
+    },
+    {
+      "offset": 1475,
+      "text": "__major_image_version__"
+    },
+    {
+      "offset": 1499,
+      "text": "__loader_flags__"
+    },
+    {
+      "offset": 1516,
+      "text": "__rt_psrelocs_end"
+    },
+    {
+      "offset": 1534,
+      "text": "__minor_subsystem_version__"
+    },
+    {
+      "offset": 1562,
+      "text": "__minor_image_version__"
+    },
+    {
+      "offset": 1586,
+      "text": "gGetEquip"
+    },
+    {
+      "offset": 1596,
+      "text": "gGridTrampoline"
+    },
+    {
+      "offset": 1612,
+      "text": "__RUNTIME_PSEUDO_RELOC_LIST_END__"
+    },
+    {
+      "offset": 1646,
+      "text": "___crt_xt_end__"
+    }
+  ],
+  "coff_string_table_size": 1662,
+  "file_size": 17224,
+  "header_extra_records": [
+    {
+      "offset": 0,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 4,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 8,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 12,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 16,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 20,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 24,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 28,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 32,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 36,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 40,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 44,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 48,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 52,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 56,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 60,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 64,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 68,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 72,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 76,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 80,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 84,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 88,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 92,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 96,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 100,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 104,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 108,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 112,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 116,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 120,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 124,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 128,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 132,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 136,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 140,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 144,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 148,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 152,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 156,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 160,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 164,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 168,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 172,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 176,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 180,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 184,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 188,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 192,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 196,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 200,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 204,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 208,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 212,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 216,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 220,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 224,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 228,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 232,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 236,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 240,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 244,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 248,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 252,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 256,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 260,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 264,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 268,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 272,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 276,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 280,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 284,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 288,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 292,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 296,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 300,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 304,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 308,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 312,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 316,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 320,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 324,
+      "kind": "u32",
+      "value": "0x0"
+    }
+  ],
+  "dos_stub_records": [
+    {
+      "offset": 0,
+      "kind": "u32",
+      "value": "0xeba1f0e"
+    },
+    {
+      "offset": 4,
+      "kind": "u32",
+      "value": "0xcd09b400"
+    },
+    {
+      "offset": 8,
+      "kind": "u32",
+      "value": "0x4c01b821"
+    },
+    {
+      "offset": 12,
+      "kind": "u32",
+      "value": "0x685421cd"
+    },
+    {
+      "offset": 16,
+      "kind": "u32",
+      "value": "0x70207369"
+    },
+    {
+      "offset": 20,
+      "kind": "u32",
+      "value": "0x72676f72"
+    },
+    {
+      "offset": 24,
+      "kind": "u32",
+      "value": "0x63206d61"
+    },
+    {
+      "offset": 28,
+      "kind": "u32",
+      "value": "0x6f6e6e61"
+    },
+    {
+      "offset": 32,
+      "kind": "u32",
+      "value": "0x65622074"
+    },
+    {
+      "offset": 36,
+      "kind": "u32",
+      "value": "0x6e757220"
+    },
+    {
+      "offset": 40,
+      "kind": "u32",
+      "value": "0x206e6920"
+    },
+    {
+      "offset": 44,
+      "kind": "u32",
+      "value": "0x20534f44"
+    },
+    {
+      "offset": 48,
+      "kind": "u32",
+      "value": "0x65646f6d"
+    },
+    {
+      "offset": 52,
+      "kind": "u32",
+      "value": "0xa0d0d2e"
+    },
+    {
+      "offset": 56,
+      "kind": "u32",
+      "value": "0x24"
+    },
+    {
+      "offset": 60,
+      "kind": "u32",
+      "value": "0x0"
+    }
+  ],
+  "instruction_count": 2533
+}

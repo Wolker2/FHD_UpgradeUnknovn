@@ -1,0 +1,4964 @@
+{
+  "format": "recovered-gnu-pe32-v1",
+  "dll_name": "FHDUUImageCompat.dll",
+  "dos_words": [
+    23117,
+    144,
+    3,
+    0,
+    4,
+    0,
+    65535,
+    0,
+    184,
+    0,
+    0,
+    0,
+    64,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "pe_header_offset": 128,
+  "dos_stub": {
+    "kind": "standard_int21_message",
+    "message": "This program cannot be run in DOS mode.\r\r\n$"
+  },
+  "coff": {
+    "machine": 332,
+    "section_count": 7,
+    "timestamp": 0,
+    "symbol_table_offset": 5632,
+    "symbol_count": 71,
+    "optional_header_size": 224,
+    "characteristics": 8966
+  },
+  "optional": {
+    "magic": 267,
+    "linker_major": 2,
+    "linker_minor": 42,
+    "size_code": 2048,
+    "size_initialized_data": 2560,
+    "size_uninitialized_data": 512,
+    "entry_rva": 5872,
+    "base_code": 4096,
+    "base_data": 0,
+    "image_base": 419430400,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "os_major": 4,
+    "os_minor": 0,
+    "image_major": 1,
+    "image_minor": 0,
+    "subsystem_major": 4,
+    "subsystem_minor": 0,
+    "win32_version": 0,
+    "image_size": 32768,
+    "headers_size": 1024,
+    "checksum": 49689,
+    "subsystem": 3,
+    "dll_characteristics": 320,
+    "stack_reserve": 2097152,
+    "stack_commit": 4096,
+    "heap_reserve": 1048576,
+    "heap_commit": 4096,
+    "loader_flags": 0,
+    "directory_count": 16
+  },
+  "directories": [
+    [
+      20480,
+      120
+    ],
+    [
+      24576,
+      20
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      28672,
+      80
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sections": [
+    {
+      "virtual_size": 1800,
+      "rva": 4096,
+      "raw_size": 2048,
+      "raw_offset": 1024,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 1610612768,
+      "name": ".text",
+      "id": "section0",
+      "raw_padding_records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 92,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 96,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 100,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 104,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 108,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 112,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 116,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 120,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 124,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 128,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 132,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 136,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 140,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 144,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 148,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 152,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 156,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 160,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 164,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 168,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 172,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 176,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 180,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 184,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 188,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 192,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 196,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 200,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 204,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 208,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 212,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 216,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 220,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 224,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 228,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 232,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 236,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 240,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 244,
+          "kind": "u32",
+          "value": "0x0"
+        }
+      ]
+    },
+    {
+      "virtual_size": 134,
+      "rva": 8192,
+      "raw_size": 512,
+      "raw_offset": 3072,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 1073741888,
+      "name": ".rodata.",
+      "id": "section1",
+      "raw_padding_records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 92,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 96,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 100,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 104,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 108,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 112,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 116,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 120,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 124,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 128,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 132,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 136,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 140,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 144,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 148,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 152,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 156,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 160,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 164,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 168,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 172,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 176,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 180,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 184,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 188,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 192,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 196,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 200,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 204,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 208,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 212,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 216,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 220,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 224,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 228,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 232,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 236,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 240,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 244,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 248,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 252,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 256,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 260,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 264,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 268,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 272,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 276,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 280,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 284,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 288,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 292,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 296,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 300,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 304,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 308,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 312,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 316,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 320,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 324,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 328,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 332,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 336,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 340,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 344,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 348,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 352,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 356,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 360,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 364,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 368,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 372,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 376,
+          "kind": "u8",
+          "value": 0
+        },
+        {
+          "offset": 377,
+          "kind": "u8",
+          "value": 0
+        }
+      ],
+      "records": [
+        {
+          "offset": 0,
+          "kind": "ascii_z",
+          "text": "Stellar1"
+        },
+        {
+          "offset": 9,
+          "kind": "ascii_z",
+          "text": "Stellar2"
+        },
+        {
+          "offset": 18,
+          "kind": "ascii_z",
+          "text": "Stellar3"
+        },
+        {
+          "offset": 27,
+          "kind": "ascii_z",
+          "text": "StellarGoldBlack"
+        },
+        {
+          "offset": 44,
+          "kind": "ascii_z",
+          "text": "StellarGoldGray"
+        },
+        {
+          "offset": 60,
+          "kind": "ascii_z",
+          "text": "StellarGoldWhite"
+        },
+        {
+          "offset": 77,
+          "kind": "ascii_z",
+          "text": "ntdll.dll"
+        },
+        {
+          "offset": 87,
+          "kind": "ascii_z",
+          "text": "NtProtectVirtualMemory"
+        },
+        {
+          "offset": 110,
+          "kind": "ascii_z",
+          "text": "NtFlushInstructionCache"
+        }
+      ]
+    },
+    {
+      "virtual_size": 98,
+      "rva": 12288,
+      "raw_size": 512,
+      "raw_offset": 3584,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 1073741888,
+      "name": ".rodata",
+      "id": "section2",
+      "raw_padding_records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 92,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 96,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 100,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 104,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 108,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 112,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 116,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 120,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 124,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 128,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 132,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 136,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 140,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 144,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 148,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 152,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 156,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 160,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 164,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 168,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 172,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 176,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 180,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 184,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 188,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 192,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 196,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 200,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 204,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 208,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 212,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 216,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 220,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 224,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 228,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 232,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 236,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 240,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 244,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 248,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 252,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 256,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 260,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 264,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 268,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 272,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 276,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 280,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 284,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 288,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 292,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 296,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 300,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 304,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 308,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 312,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 316,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 320,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 324,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 328,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 332,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 336,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 340,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 344,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 348,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 352,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 356,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 360,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 364,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 368,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 372,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 376,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 380,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 384,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 388,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 392,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 396,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 400,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 404,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 408,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 412,
+          "kind": "u8",
+          "value": 0
+        },
+        {
+          "offset": 413,
+          "kind": "u8",
+          "value": 0
+        }
+      ],
+      "records": [
+        {
+          "offset": 0,
+          "kind": "utf16z",
+          "text": "FHDUUImageCompat"
+        },
+        {
+          "offset": 34,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 38,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 42,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 46,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 50,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 54,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 58,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 62,
+          "kind": "u32",
+          "value": "0x460000"
+        },
+        {
+          "offset": 66,
+          "kind": "utf16z",
+          "text": "HDUU_Researched"
+        }
+      ]
+    },
+    {
+      "virtual_size": 32,
+      "rva": 16384,
+      "raw_size": 0,
+      "raw_offset": 0,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 3221225600,
+      "name": ".bss",
+      "id": "section3"
+    },
+    {
+      "virtual_size": 120,
+      "rva": 20480,
+      "raw_size": 512,
+      "raw_offset": 4096,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 1073741888,
+      "name": ".edata",
+      "id": "section4",
+      "raw_padding_records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 92,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 96,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 100,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 104,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 108,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 112,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 116,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 120,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 124,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 128,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 132,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 136,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 140,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 144,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 148,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 152,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 156,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 160,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 164,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 168,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 172,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 176,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 180,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 184,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 188,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 192,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 196,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 200,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 204,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 208,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 212,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 216,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 220,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 224,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 228,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 232,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 236,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 240,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 244,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 248,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 252,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 256,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 260,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 264,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 268,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 272,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 276,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 280,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 284,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 288,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 292,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 296,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 300,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 304,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 308,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 312,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 316,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 320,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 324,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 328,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 332,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 336,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 340,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 344,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 348,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 352,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 356,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 360,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 364,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 368,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 372,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 376,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 380,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 384,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 388,
+          "kind": "u32",
+          "value": "0x0"
+        }
+      ],
+      "records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x503c"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x1"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x2"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x2"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x5028"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x5030"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x5038"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x1420"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x1330"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x5051"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x5067"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x10000"
+        },
+        {
+          "offset": 60,
+          "kind": "ascii_z",
+          "text": "FHDUUImageCompat.dll"
+        },
+        {
+          "offset": 81,
+          "kind": "ascii_z",
+          "text": "XenoPlugin_Initialize"
+        },
+        {
+          "offset": 103,
+          "kind": "ascii_z",
+          "text": "XenoPlugin_Query"
+        }
+      ]
+    },
+    {
+      "virtual_size": 20,
+      "rva": 24576,
+      "raw_size": 512,
+      "raw_offset": 4608,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 3221225536,
+      "name": ".idata",
+      "id": "section5",
+      "raw_padding_records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 92,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 96,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 100,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 104,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 108,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 112,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 116,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 120,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 124,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 128,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 132,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 136,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 140,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 144,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 148,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 152,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 156,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 160,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 164,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 168,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 172,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 176,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 180,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 184,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 188,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 192,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 196,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 200,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 204,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 208,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 212,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 216,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 220,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 224,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 228,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 232,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 236,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 240,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 244,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 248,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 252,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 256,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 260,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 264,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 268,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 272,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 276,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 280,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 284,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 288,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 292,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 296,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 300,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 304,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 308,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 312,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 316,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 320,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 324,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 328,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 332,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 336,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 340,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 344,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 348,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 352,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 356,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 360,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 364,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 368,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 372,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 376,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 380,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 384,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 388,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 392,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 396,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 400,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 404,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 408,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 412,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 416,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 420,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 424,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 428,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 432,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 436,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 440,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 444,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 448,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 452,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 456,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 460,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 464,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 468,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 472,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 476,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 480,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 484,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 488,
+          "kind": "u32",
+          "value": "0x0"
+        }
+      ],
+      "records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        }
+      ]
+    },
+    {
+      "virtual_size": 80,
+      "rva": 28672,
+      "raw_size": 512,
+      "raw_offset": 5120,
+      "relocations_pointer": 0,
+      "line_numbers_pointer": 0,
+      "relocations_and_lines": 0,
+      "characteristics": 1107296320,
+      "name": ".reloc",
+      "id": "section6",
+      "raw_padding_records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 80,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 84,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 88,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 92,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 96,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 100,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 104,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 108,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 112,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 116,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 120,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 124,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 128,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 132,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 136,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 140,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 144,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 148,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 152,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 156,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 160,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 164,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 168,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 172,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 176,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 180,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 184,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 188,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 192,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 196,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 200,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 204,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 208,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 212,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 216,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 220,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 224,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 228,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 232,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 236,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 240,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 244,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 248,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 252,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 256,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 260,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 264,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 268,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 272,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 276,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 280,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 284,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 288,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 292,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 296,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 300,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 304,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 308,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 312,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 316,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 320,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 324,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 328,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 332,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 336,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 340,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 344,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 348,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 352,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 356,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 360,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 364,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 368,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 372,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 376,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 380,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 384,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 388,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 392,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 396,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 400,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 404,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 408,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 412,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 416,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 420,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 424,
+          "kind": "u32",
+          "value": "0x0"
+        },
+        {
+          "offset": 428,
+          "kind": "u32",
+          "value": "0x0"
+        }
+      ],
+      "records": [
+        {
+          "offset": 0,
+          "kind": "u32",
+          "value": "0x1000"
+        },
+        {
+          "offset": 4,
+          "kind": "u32",
+          "value": "0x50"
+        },
+        {
+          "offset": 8,
+          "kind": "u32",
+          "value": "0x30293018"
+        },
+        {
+          "offset": 12,
+          "kind": "u32",
+          "value": "0x3058302f"
+        },
+        {
+          "offset": 16,
+          "kind": "u32",
+          "value": "0x306f3069"
+        },
+        {
+          "offset": 20,
+          "kind": "u32",
+          "value": "0x31da31ac"
+        },
+        {
+          "offset": 24,
+          "kind": "u32",
+          "value": "0x321831f0"
+        },
+        {
+          "offset": 28,
+          "kind": "u32",
+          "value": "0x32a1324a"
+        },
+        {
+          "offset": 32,
+          "kind": "u32",
+          "value": "0x32b132a9"
+        },
+        {
+          "offset": 36,
+          "kind": "u32",
+          "value": "0x32c132b9"
+        },
+        {
+          "offset": 40,
+          "kind": "u32",
+          "value": "0x338832c9"
+        },
+        {
+          "offset": 44,
+          "kind": "u32",
+          "value": "0x34623429"
+        },
+        {
+          "offset": 48,
+          "kind": "u32",
+          "value": "0x35d13593"
+        },
+        {
+          "offset": 52,
+          "kind": "u32",
+          "value": "0x35e235dd"
+        },
+        {
+          "offset": 56,
+          "kind": "u32",
+          "value": "0x360535f0"
+        },
+        {
+          "offset": 60,
+          "kind": "u32",
+          "value": "0x36323626"
+        },
+        {
+          "offset": 64,
+          "kind": "u32",
+          "value": "0x364a363e"
+        },
+        {
+          "offset": 68,
+          "kind": "u32",
+          "value": "0x366c364f"
+        },
+        {
+          "offset": 72,
+          "kind": "u32",
+          "value": "0x36a43671"
+        },
+        {
+          "offset": 76,
+          "kind": "u32",
+          "value": "0x36c9"
+        }
+      ]
+    }
+  ],
+  "symbols": [
+    {
+      "name": "fhduu_image_compat.c",
+      "string_offset": 4,
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": ".bss",
+      "inline": ".bss",
+      "value": 0,
+      "section": 4,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "pebAddress",
+      "string_offset": 25,
+      "value": 128,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "findExport",
+      "string_offset": 36,
+      "value": 144,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "writeBytes.constprop.0",
+      "string_offset": 47,
+      "value": 368,
+      "section": 1,
+      "type": 32,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "protectMemory",
+      "string_offset": 70,
+      "value": 28,
+      "section": 4,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "flushCache",
+      "string_offset": 84,
+      "value": 24,
+      "section": 4,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": ".rodata.str1.1",
+      "string_offset": 95,
+      "value": 0,
+      "section": 2,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "research",
+      "inline": "research",
+      "value": 64,
+      "section": 3,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "pluginId",
+      "inline": "pluginId",
+      "value": 0,
+      "section": 3,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "initialized",
+      "string_offset": 110,
+      "value": 20,
+      "section": 4,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": ".rodata",
+      "inline": ".rodata",
+      "value": 0,
+      "section": 3,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": ".LC6",
+      "inline": ".LC6",
+      "value": 77,
+      "section": 2,
+      "type": 0,
+      "storage_class": 3,
+      "aux_count": 0
+    },
+    {
+      "name": "genericHook",
+      "string_offset": 122,
+      "value": 0,
+      "section": 1,
+      "type": 32,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "FHDUU_UseDefaultImage",
+      "string_offset": 134,
+      "value": 528,
+      "section": 1,
+      "type": 32,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "weaponHook",
+      "string_offset": 156,
+      "value": 64,
+      "section": 1,
+      "type": 32,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "XenoPlugin_Query",
+      "string_offset": 167,
+      "value": 816,
+      "section": 1,
+      "type": 32,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "XenoPlugin_Initialize",
+      "string_offset": 184,
+      "value": 1056,
+      "section": 1,
+      "type": 32,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "DllMain",
+      "inline": "DllMain",
+      "value": 1776,
+      "section": 1,
+      "type": 32,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___RUNTIME_PSEUDO_RELOC_LIST__",
+      "string_offset": 206,
+      "value": 4096,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__data_start__",
+      "string_offset": 237,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___DTOR_LIST__",
+      "string_offset": 252,
+      "value": 1792,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___tls_start__",
+      "string_offset": 267,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__ImageBase",
+      "string_offset": 282,
+      "value": 419430400,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__rt_psrelocs_start",
+      "string_offset": 294,
+      "value": 0,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__dll_characteristics__",
+      "string_offset": 314,
+      "value": 320,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__size_of_stack_commit__",
+      "string_offset": 338,
+      "value": 4096,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__size_of_stack_reserve__",
+      "string_offset": 363,
+      "value": 2097152,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__major_subsystem_version__",
+      "string_offset": 389,
+      "value": 4,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xl_start__",
+      "string_offset": 417,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "game",
+      "inline": "game",
+      "value": 16,
+      "section": 4,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xi_start__",
+      "string_offset": 435,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xi_end__",
+      "string_offset": 453,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__bss_start__",
+      "string_offset": 469,
+      "value": 0,
+      "section": 4,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___RUNTIME_PSEUDO_RELOC_LIST_END__",
+      "string_offset": 483,
+      "value": 4096,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__size_of_heap_commit__",
+      "string_offset": 518,
+      "value": 4096,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xp_start__",
+      "string_offset": 542,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xp_end__",
+      "string_offset": 560,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__dll__",
+      "inline": "__dll__",
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__minor_os_version__",
+      "string_offset": 576,
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__image_base__",
+      "string_offset": 597,
+      "value": 419430400,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__section_alignment__",
+      "string_offset": 612,
+      "value": 4096,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__IAT_end__",
+      "string_offset": 634,
+      "value": 20,
+      "section": 6,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__RUNTIME_PSEUDO_RELOC_LIST__",
+      "string_offset": 646,
+      "value": 4096,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__data_end__",
+      "string_offset": 676,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__CTOR_LIST__",
+      "string_offset": 689,
+      "value": 1784,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__bss_end__",
+      "string_offset": 703,
+      "value": 32,
+      "section": 4,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xc_end__",
+      "string_offset": 715,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xc_start__",
+      "string_offset": 731,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___CTOR_LIST__",
+      "string_offset": 749,
+      "value": 1784,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__rt_psrelocs_size",
+      "string_offset": 764,
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__file_alignment__",
+      "string_offset": 783,
+      "value": 512,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "genericContinue",
+      "string_offset": 802,
+      "value": 8,
+      "section": 4,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__major_os_version__",
+      "string_offset": 818,
+      "value": 4,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__IAT_start__",
+      "string_offset": 839,
+      "value": 20,
+      "section": 6,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__end__",
+      "inline": "__end__",
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__DTOR_LIST__",
+      "string_offset": 853,
+      "value": 1792,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__size_of_heap_reserve__",
+      "string_offset": 867,
+      "value": 1048576,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xt_start__",
+      "string_offset": 892,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__subsystem__",
+      "string_offset": 910,
+      "value": 3,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "weaponDefault",
+      "string_offset": 924,
+      "value": 4,
+      "section": 4,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___tls_end__",
+      "string_offset": 938,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "genericDefault",
+      "string_offset": 951,
+      "value": 12,
+      "section": 4,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__major_image_version__",
+      "string_offset": 966,
+      "value": 1,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__loader_flags__",
+      "string_offset": 990,
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__rt_psrelocs_end",
+      "string_offset": 1007,
+      "value": 0,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__minor_subsystem_version__",
+      "string_offset": 1025,
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__minor_image_version__",
+      "string_offset": 1053,
+      "value": 0,
+      "section": -1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "__RUNTIME_PSEUDO_RELOC_LIST_END__",
+      "string_offset": 1077,
+      "value": 4096,
+      "section": 1,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "___crt_xt_end__",
+      "string_offset": 1111,
+      "value": 0,
+      "section": 0,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    },
+    {
+      "name": "weaponContinue",
+      "string_offset": 1127,
+      "value": 0,
+      "section": 4,
+      "type": 0,
+      "storage_class": 2,
+      "aux_count": 0
+    }
+  ],
+  "coff_strings": [
+    {
+      "offset": 4,
+      "text": "fhduu_image_compat.c"
+    },
+    {
+      "offset": 25,
+      "text": "pebAddress"
+    },
+    {
+      "offset": 36,
+      "text": "findExport"
+    },
+    {
+      "offset": 47,
+      "text": "writeBytes.constprop.0"
+    },
+    {
+      "offset": 70,
+      "text": "protectMemory"
+    },
+    {
+      "offset": 84,
+      "text": "flushCache"
+    },
+    {
+      "offset": 95,
+      "text": ".rodata.str1.1"
+    },
+    {
+      "offset": 110,
+      "text": "initialized"
+    },
+    {
+      "offset": 122,
+      "text": "genericHook"
+    },
+    {
+      "offset": 134,
+      "text": "FHDUU_UseDefaultImage"
+    },
+    {
+      "offset": 156,
+      "text": "weaponHook"
+    },
+    {
+      "offset": 167,
+      "text": "XenoPlugin_Query"
+    },
+    {
+      "offset": 184,
+      "text": "XenoPlugin_Initialize"
+    },
+    {
+      "offset": 206,
+      "text": "___RUNTIME_PSEUDO_RELOC_LIST__"
+    },
+    {
+      "offset": 237,
+      "text": "__data_start__"
+    },
+    {
+      "offset": 252,
+      "text": "___DTOR_LIST__"
+    },
+    {
+      "offset": 267,
+      "text": "___tls_start__"
+    },
+    {
+      "offset": 282,
+      "text": "__ImageBase"
+    },
+    {
+      "offset": 294,
+      "text": "__rt_psrelocs_start"
+    },
+    {
+      "offset": 314,
+      "text": "__dll_characteristics__"
+    },
+    {
+      "offset": 338,
+      "text": "__size_of_stack_commit__"
+    },
+    {
+      "offset": 363,
+      "text": "__size_of_stack_reserve__"
+    },
+    {
+      "offset": 389,
+      "text": "__major_subsystem_version__"
+    },
+    {
+      "offset": 417,
+      "text": "___crt_xl_start__"
+    },
+    {
+      "offset": 435,
+      "text": "___crt_xi_start__"
+    },
+    {
+      "offset": 453,
+      "text": "___crt_xi_end__"
+    },
+    {
+      "offset": 469,
+      "text": "__bss_start__"
+    },
+    {
+      "offset": 483,
+      "text": "___RUNTIME_PSEUDO_RELOC_LIST_END__"
+    },
+    {
+      "offset": 518,
+      "text": "__size_of_heap_commit__"
+    },
+    {
+      "offset": 542,
+      "text": "___crt_xp_start__"
+    },
+    {
+      "offset": 560,
+      "text": "___crt_xp_end__"
+    },
+    {
+      "offset": 576,
+      "text": "__minor_os_version__"
+    },
+    {
+      "offset": 597,
+      "text": "__image_base__"
+    },
+    {
+      "offset": 612,
+      "text": "__section_alignment__"
+    },
+    {
+      "offset": 634,
+      "text": "__IAT_end__"
+    },
+    {
+      "offset": 646,
+      "text": "__RUNTIME_PSEUDO_RELOC_LIST__"
+    },
+    {
+      "offset": 676,
+      "text": "__data_end__"
+    },
+    {
+      "offset": 689,
+      "text": "__CTOR_LIST__"
+    },
+    {
+      "offset": 703,
+      "text": "__bss_end__"
+    },
+    {
+      "offset": 715,
+      "text": "___crt_xc_end__"
+    },
+    {
+      "offset": 731,
+      "text": "___crt_xc_start__"
+    },
+    {
+      "offset": 749,
+      "text": "___CTOR_LIST__"
+    },
+    {
+      "offset": 764,
+      "text": "__rt_psrelocs_size"
+    },
+    {
+      "offset": 783,
+      "text": "__file_alignment__"
+    },
+    {
+      "offset": 802,
+      "text": "genericContinue"
+    },
+    {
+      "offset": 818,
+      "text": "__major_os_version__"
+    },
+    {
+      "offset": 839,
+      "text": "__IAT_start__"
+    },
+    {
+      "offset": 853,
+      "text": "__DTOR_LIST__"
+    },
+    {
+      "offset": 867,
+      "text": "__size_of_heap_reserve__"
+    },
+    {
+      "offset": 892,
+      "text": "___crt_xt_start__"
+    },
+    {
+      "offset": 910,
+      "text": "__subsystem__"
+    },
+    {
+      "offset": 924,
+      "text": "weaponDefault"
+    },
+    {
+      "offset": 938,
+      "text": "___tls_end__"
+    },
+    {
+      "offset": 951,
+      "text": "genericDefault"
+    },
+    {
+      "offset": 966,
+      "text": "__major_image_version__"
+    },
+    {
+      "offset": 990,
+      "text": "__loader_flags__"
+    },
+    {
+      "offset": 1007,
+      "text": "__rt_psrelocs_end"
+    },
+    {
+      "offset": 1025,
+      "text": "__minor_subsystem_version__"
+    },
+    {
+      "offset": 1053,
+      "text": "__minor_image_version__"
+    },
+    {
+      "offset": 1077,
+      "text": "__RUNTIME_PSEUDO_RELOC_LIST_END__"
+    },
+    {
+      "offset": 1111,
+      "text": "___crt_xt_end__"
+    },
+    {
+      "offset": 1127,
+      "text": "weaponContinue"
+    }
+  ],
+  "coff_string_table_size": 1142,
+  "file_size": 8052,
+  "header_extra_records": [
+    {
+      "offset": 0,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 4,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 8,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 12,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 16,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 20,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 24,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 28,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 32,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 36,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 40,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 44,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 48,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 52,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 56,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 60,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 64,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 68,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 72,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 76,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 80,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 84,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 88,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 92,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 96,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 100,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 104,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 108,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 112,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 116,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 120,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 124,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 128,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 132,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 136,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 140,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 144,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 148,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 152,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 156,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 160,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 164,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 168,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 172,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 176,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 180,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 184,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 188,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 192,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 196,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 200,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 204,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 208,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 212,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 216,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 220,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 224,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 228,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 232,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 236,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 240,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 244,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 248,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 252,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 256,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 260,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 264,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 268,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 272,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 276,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 280,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 284,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 288,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 292,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 296,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 300,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 304,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 308,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 312,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 316,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 320,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 324,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 328,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 332,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 336,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 340,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 344,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 348,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 352,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 356,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 360,
+      "kind": "u32",
+      "value": "0x0"
+    },
+    {
+      "offset": 364,
+      "kind": "u32",
+      "value": "0x0"
+    }
+  ],
+  "dos_stub_records": [
+    {
+      "offset": 0,
+      "kind": "u32",
+      "value": "0xeba1f0e"
+    },
+    {
+      "offset": 4,
+      "kind": "u32",
+      "value": "0xcd09b400"
+    },
+    {
+      "offset": 8,
+      "kind": "u32",
+      "value": "0x4c01b821"
+    },
+    {
+      "offset": 12,
+      "kind": "u32",
+      "value": "0x685421cd"
+    },
+    {
+      "offset": 16,
+      "kind": "u32",
+      "value": "0x70207369"
+    },
+    {
+      "offset": 20,
+      "kind": "u32",
+      "value": "0x72676f72"
+    },
+    {
+      "offset": 24,
+      "kind": "u32",
+      "value": "0x63206d61"
+    },
+    {
+      "offset": 28,
+      "kind": "u32",
+      "value": "0x6f6e6e61"
+    },
+    {
+      "offset": 32,
+      "kind": "u32",
+      "value": "0x65622074"
+    },
+    {
+      "offset": 36,
+      "kind": "u32",
+      "value": "0x6e757220"
+    },
+    {
+      "offset": 40,
+      "kind": "u32",
+      "value": "0x206e6920"
+    },
+    {
+      "offset": 44,
+      "kind": "u32",
+      "value": "0x20534f44"
+    },
+    {
+      "offset": 48,
+      "kind": "u32",
+      "value": "0x65646f6d"
+    },
+    {
+      "offset": 52,
+      "kind": "u32",
+      "value": "0xa0d0d2e"
+    },
+    {
+      "offset": 56,
+      "kind": "u32",
+      "value": "0x24"
+    },
+    {
+      "offset": 60,
+      "kind": "u32",
+      "value": "0x0"
+    }
+  ],
+  "instruction_count": 512
+}

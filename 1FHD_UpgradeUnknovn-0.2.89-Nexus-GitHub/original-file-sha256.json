@@ -1,0 +1,18 @@
+{
+  "FHD_UpgradeUnknovn/CFG/CacheData.dat": "df0a8a81ef8fc5c7216f1ea7d318320dc2afd380260156a280a5ef33ebd4ab53",
+  "FHD_UpgradeUnknovn/CFG/Eng/Lang.dat": "400caaa0b61966c9415ab1d3b4b0e6219a6dd52fb38e1fcd4796b4f6c5cc7641",
+  "FHD_UpgradeUnknovn/CFG/Main.dat": "d222a01fb6b63626ec5bb82fa1395fc927d5fa7f004b772cc1eface28c3f4e98",
+  "FHD_UpgradeUnknovn/CFG/Rus/Lang.dat": "400caaa0b61966c9415ab1d3b4b0e6219a6dd52fb38e1fcd4796b4f6c5cc7641",
+  "FHD_UpgradeUnknovn/DATA/FormLoadRobot/2IconFHDUU.gi": "6770065d2595a5ca11de59dc5e030a9defcc6e4358a01bfe970ec827cde16ada",
+  "FHD_UpgradeUnknovn/DATA/Race/2FHDUU_Researched.png": "ffe6f31e31dc43446bb462fca1472d296a6f3d478050d980e3521dd6f5472339",
+  "FHD_UpgradeUnknovn/DATA/Script/FHDUU_Dialog.scr": "fc392d68d9197408f455ccc3445f58a3f5562c27daa92b805670a02ceb9d8d7b",
+  "FHD_UpgradeUnknovn/ModuleInfo.txt": "0861612084520816958d59fa2358e05778f6574800951ba1da437e19f4e48795",
+  "FHD_UpgradeUnknovn_UtilityBridge/CFG/Main.dat": "e5173b952ff938bc517d96d9c3b35ac8b3fb61faa53b78ffdd36a82cddb6e5f5",
+  "FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUArtCompat.dll": "01ae4335ff16ddfd7ab26b48ed7abb113a4df549e62c1e641b9224099308c45d",
+  "FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUImageCompat.dll": "33f716477c69dbbc8b77f627d10c87a86ebe32c0c6c4ce497a4ffad92ad5f620",
+  "FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUMMIcons.dll": "614d2780f61a06cb020466219ecbf8bb107ca6aa8f02355d0f60674782b3641f",
+  "FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUMMMechanics.dll": "1c2eb9a13405b42d6e8b02e965dfaa6c6c075a085094bd09e8df6f2b2ebb83ad",
+  "FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUMMText.dll": "899c554080401a790406a1cd9a4971e688a7b98e214fbb7979881893cd9d149c",
+  "FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUScriptLibsBridge.dll": "30b6b5c1e5d74239b2e56a5fd37971bf729caf7b82a28b7dc5f733b26022b7cc",
+  "FHD_UpgradeUnknovn_UtilityBridge/ModuleInfo.txt": "2752367e1e5ae6a2ff94907fd57a68fde422e8baeeef1453d30a599f001fa776"
+}

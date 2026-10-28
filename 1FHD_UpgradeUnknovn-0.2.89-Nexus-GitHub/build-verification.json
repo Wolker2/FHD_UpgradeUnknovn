@@ -1,0 +1,230 @@
+{
+  "status": "passed",
+  "source_checks_passed": 88,
+  "source_checks": [
+    "All 16 runtime files match original SHA-256 from isolated source-only build",
+    "Exactly 16 runtime files; explanatory IconLink text excluded",
+    "Six native libraries rebuilt",
+    "DAT independent decode/encode: FHD_UpgradeUnknovn/CFG/CacheData.dat",
+    "DAT independent decode/encode: FHD_UpgradeUnknovn/CFG/Eng/Lang.dat",
+    "DAT independent decode/encode: FHD_UpgradeUnknovn/CFG/Main.dat",
+    "DAT independent decode/encode: FHD_UpgradeUnknovn/CFG/Rus/Lang.dat",
+    "DAT independent decode/encode: FHD_UpgradeUnknovn_UtilityBridge/CFG/Main.dat",
+    "SCR6 independently parsed through EOF; two dialogs and two answers",
+    "RSON has 24 unique objects with valid parents/links",
+    "RSON code edits reach runtime SCR source text",
+    "RSON code edit preserves other parsed runtime fields",
+    "Configured runtime path resolves: FHD_UpgradeUnknovn/DATA/Script/FHDUU_Dialog.scr",
+    "Configured runtime path resolves: FHD_UpgradeUnknovn/DATA/Race/2FHDUU_Researched.png",
+    "Configured runtime path resolves: FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUScriptLibsBridge.dll",
+    "Configured runtime path resolves: FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUScriptLibsBridge.dll",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.AddSelectedEffect",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtDef",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtDroid",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtFuel",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtHook",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtHookMaxSpeed",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtHookMinSpeed",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtHookRadius",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtHull",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtJump",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtRadar",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtResistAsteroid",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtScan",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtSpeed",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtWEnergy",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtWMissile",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtWRadius",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtWSplinter",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyArtifactBonuses",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyAuxEffect",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyExactNativeUnit",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ApplyTypeLockedNativeEffect",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.Boot",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.CalcActiveBonus",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.CheckResearchNotification",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.CleanupLegacyTypeLocked",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ClearLegacyShipBonuses",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ClearNativeTargetUnits",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.CountSelectedEffects",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.DialogEntry",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.Ensure",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.EnsureA",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.EnsureB",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.FinalizeSuccess",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.GetPropertyMarker",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.IntroText",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.IsSafeMM",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.PrepareResearch",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.RefreshPropertyText",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ResetState",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ResolveDefaultImage",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ResolveDestroyed",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ResolveResearch",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ResolveResearch2",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ResolveSuccess",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.RestorePropertyTextOne",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ReturnNoChange",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.RollSBValue",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.SelectArtifact",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.SelectEquipment",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.Service",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ServiceActive",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.ServiceSelect",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.SetSBQuality",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.StartResearch",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.StorePropertyText",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.StorePropertyTextA",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.StorePropertyTextB",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.StorePropertyTextC",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.StorePropertyTextD",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.StorePropertyTextE",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.StorePropertyTextF",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.StoreResearchResult",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.StoreSelectedEffects",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.SyncMissileSpeed",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.SyncShotSpeed",
+    "Local script/text reference resolves: Script.FHD_UpgradeUnknovn.SyncWeaponBonuses",
+    "UTF-16LE BOM retained: FHD_UpgradeUnknovn",
+    "Declared dependencies preserved: FHD_UpgradeUnknovn",
+    "UTF-16LE BOM retained: FHD_UpgradeUnknovn_UtilityBridge",
+    "Declared dependencies preserved: FHD_UpgradeUnknovn_UtilityBridge",
+    "Both language payloads are identical in the supplied release"
+  ],
+  "runtime_sha256": {
+    "FHD_UpgradeUnknovn/CFG/CacheData.dat": "df0a8a81ef8fc5c7216f1ea7d318320dc2afd380260156a280a5ef33ebd4ab53",
+    "FHD_UpgradeUnknovn/CFG/Eng/Lang.dat": "400caaa0b61966c9415ab1d3b4b0e6219a6dd52fb38e1fcd4796b4f6c5cc7641",
+    "FHD_UpgradeUnknovn/CFG/Main.dat": "d222a01fb6b63626ec5bb82fa1395fc927d5fa7f004b772cc1eface28c3f4e98",
+    "FHD_UpgradeUnknovn/CFG/Rus/Lang.dat": "400caaa0b61966c9415ab1d3b4b0e6219a6dd52fb38e1fcd4796b4f6c5cc7641",
+    "FHD_UpgradeUnknovn/DATA/FormLoadRobot/2IconFHDUU.gi": "6770065d2595a5ca11de59dc5e030a9defcc6e4358a01bfe970ec827cde16ada",
+    "FHD_UpgradeUnknovn/DATA/Race/2FHDUU_Researched.png": "ffe6f31e31dc43446bb462fca1472d296a6f3d478050d980e3521dd6f5472339",
+    "FHD_UpgradeUnknovn/DATA/Script/FHDUU_Dialog.scr": "fc392d68d9197408f455ccc3445f58a3f5562c27daa92b805670a02ceb9d8d7b",
+    "FHD_UpgradeUnknovn/ModuleInfo.txt": "0861612084520816958d59fa2358e05778f6574800951ba1da437e19f4e48795",
+    "FHD_UpgradeUnknovn_UtilityBridge/CFG/Main.dat": "e5173b952ff938bc517d96d9c3b35ac8b3fb61faa53b78ffdd36a82cddb6e5f5",
+    "FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUArtCompat.dll": "01ae4335ff16ddfd7ab26b48ed7abb113a4df549e62c1e641b9224099308c45d",
+    "FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUImageCompat.dll": "33f716477c69dbbc8b77f627d10c87a86ebe32c0c6c4ce497a4ffad92ad5f620",
+    "FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUMMIcons.dll": "614d2780f61a06cb020466219ecbf8bb107ca6aa8f02355d0f60674782b3641f",
+    "FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUMMMechanics.dll": "1c2eb9a13405b42d6e8b02e965dfaa6c6c075a085094bd09e8df6f2b2ebb83ad",
+    "FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUMMText.dll": "899c554080401a790406a1cd9a4971e688a7b98e214fbb7979881893cd9d149c",
+    "FHD_UpgradeUnknovn_UtilityBridge/DATA/NativeBridge/FHDUUScriptLibsBridge.dll": "30b6b5c1e5d74239b2e56a5fd37971bf729caf7b82a28b7dc5f733b26022b7cc",
+    "FHD_UpgradeUnknovn_UtilityBridge/ModuleInfo.txt": "2752367e1e5ae6a2ff94907fd57a68fde422e8baeeef1453d30a599f001fa776"
+  },
+  "native": {
+    "checks_passed": 110,
+    "runs": [
+      {
+        "dll": "FHDUUArtCompat.dll",
+        "relocated": false,
+        "exports": [
+          "XenoPlugin_Initialize",
+          "XenoPlugin_Query"
+        ]
+      },
+      {
+        "dll": "FHDUUArtCompat.dll",
+        "relocated": true,
+        "exports": [
+          "XenoPlugin_Initialize",
+          "XenoPlugin_Query"
+        ]
+      },
+      {
+        "dll": "FHDUUImageCompat.dll",
+        "relocated": false,
+        "exports": [
+          "XenoPlugin_Initialize",
+          "XenoPlugin_Query"
+        ]
+      },
+      {
+        "dll": "FHDUUImageCompat.dll",
+        "relocated": true,
+        "exports": [
+          "XenoPlugin_Initialize",
+          "XenoPlugin_Query"
+        ]
+      },
+      {
+        "dll": "FHDUUMMIcons.dll",
+        "relocated": false,
+        "exports": [
+          "XenoPlugin_Initialize",
+          "XenoPlugin_Query"
+        ]
+      },
+      {
+        "dll": "FHDUUMMIcons.dll",
+        "relocated": true,
+        "exports": [
+          "XenoPlugin_Initialize",
+          "XenoPlugin_Query"
+        ]
+      },
+      {
+        "dll": "FHDUUMMMechanics.dll",
+        "relocated": false,
+        "exports": [
+          "DllMain",
+          "XenoPlugin_Initialize",
+          "XenoPlugin_Query"
+        ]
+      },
+      {
+        "dll": "FHDUUMMMechanics.dll",
+        "relocated": true,
+        "exports": [
+          "DllMain",
+          "XenoPlugin_Initialize",
+          "XenoPlugin_Query"
+        ]
+      },
+      {
+        "dll": "FHDUUMMText.dll",
+        "relocated": false,
+        "exports": [
+          "XenoPlugin_Initialize",
+          "XenoPlugin_Query"
+        ]
+      },
+      {
+        "dll": "FHDUUMMText.dll",
+        "relocated": true,
+        "exports": [
+          "XenoPlugin_Initialize",
+          "XenoPlugin_Query"
+        ]
+      },
+      {
+        "dll": "FHDUUScriptLibsBridge.dll",
+        "relocated": false,
+        "exports": [
+          "FHDUU_Init"
+        ]
+      },
+      {
+        "dll": "FHDUUScriptLibsBridge.dll",
+        "relocated": true,
+        "exports": [
+          "FHDUU_Init"
+        ]
+      }
+    ],
+    "live_windows_or_game": false,
+    "scope": "DLL attach, plugin descriptor, invalid host guards; bridge with unavailable PEB; original and relocated bases"
+  },
+  "local_literal_references_checked": 67,
+  "external_dependency": "UtilityFunctionsPack (not included in upload)",
+  "mutual_module_dependencies_preserved": true,
+  "rscript_editor_or_live_game_executed": false,
+  "input_archive": {
+    "filename": "FHD_UpgradeUnknovn-0.2.89.rar",
+    "size": 68304,
+    "sha256": "5d39d7f0c03f8ed51fe8a247a3d0c1065cfe4448ed8af1676b99c64d929903d3"
+  },
+  "environment": {
+    "python": "3.12.14",
+    "zlib": "1.3.2",
+    "unicorn": "2.1.4",
+    "assembler": "GNU assembler (GNU Binutils for Ubuntu) 2.42"
+  }
+}
