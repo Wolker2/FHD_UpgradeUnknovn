@@ -2,16 +2,16 @@ name: UpgradeUnknovn 0.4.16 source integrity
 on:
   push:
     paths:
-      - 'imports/0.4.16_SOURCE_QA/**'
+      - '1FHD_UpgradeUnknovn_0.4.16_Nexus-GitHub/**'
       - '.github/workflows/upgrade-0416-source-verify.yml'
   pull_request:
     paths:
-      - 'imports/0.4.16_SOURCE_QA/**'
+      - '1FHD_UpgradeUnknovn_0.4.16_Nexus-GitHub/**'
       - '.github/workflows/upgrade-0416-source-verify.yml'
 jobs:
   source_sha256:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 imports/0.4.16_SOURCE_QA/verify_source.py
-      - run: python3 imports/0.4.16_SOURCE_QA/verify_lang_rebuild.py
+      - run: python3 1FHD_UpgradeUnknovn_0.4.16_Nexus-GitHub/verify_source.py
+      - run: python3 1FHD_UpgradeUnknovn_0.4.16_Nexus-GitHub/verify_lang_rebuild.py
