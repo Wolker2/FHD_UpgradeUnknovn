@@ -1,0 +1,17 @@
+{
+  "base_archive_sha256": "a6d8afe59b0d19db1baa9c78642c3662ba7e288a5d218d7e157f8f33fcd2604e",
+  "archive_sha256": "029a49dbc645143266ce94dc6197ace28596745a2c9b113eeb198fa0fc021f7f",
+  "changed_game_files": [
+    "Mods/FHD_MODS/FHD_UpgradeUnknovn/DATA/Native/FHDUUCore.dll"
+  ],
+  "six_other_files_identical": true,
+  "original_implementation_bytes_preserved": true,
+  "original_MM_renderer_preserved": true,
+  "prices_payment_and_virtual_improve_call_unchanged": true,
+  "added_upgrade_counter": false,
+  "service_counters_modified": false,
+  "read_only_comparison_checks": 1150,
+  "native_station_and_display_checks": 182,
+  "installation_checks": 2,
+  "live_game_test": false
+}

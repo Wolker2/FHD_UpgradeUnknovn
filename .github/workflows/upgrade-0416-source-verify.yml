@@ -1,0 +1,16 @@
+name: UpgradeUnknovn 0.4.16 source integrity
+on:
+  push:
+    paths:
+      - 'imports/0.4.16_SOURCE_QA/**'
+      - '.github/workflows/upgrade-0416-source-verify.yml'
+  pull_request:
+    paths:
+      - 'imports/0.4.16_SOURCE_QA/**'
+      - '.github/workflows/upgrade-0416-source-verify.yml'
+jobs:
+  source_sha256:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 imports/0.4.16_SOURCE_QA/verify_source.py

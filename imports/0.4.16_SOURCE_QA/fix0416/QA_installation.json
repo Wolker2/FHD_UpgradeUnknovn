@@ -1,0 +1,7 @@
+{
+  "checks": [
+    "inputs/Rangers.exe: conflicting science site is preserved, original core/icon initialization remains active",
+    "inputs/\u0410\u0440\u0442\u0435\u0444\u0430\u043a\u0442\u044b/Rangers.exe: conflicting science site is preserved, original core/icon initialization remains active"
+  ],
+  "passed": 2
+}
