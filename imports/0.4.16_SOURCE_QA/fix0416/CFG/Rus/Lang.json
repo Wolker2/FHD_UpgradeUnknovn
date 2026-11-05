@@ -1,0 +1,3551 @@
+{
+  "format": "blockpar",
+  "seed": 1369621460,
+  "root": {
+    "entries": [
+      {
+        "kind": "block",
+        "name": "MicroModuls",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "FHDUU_ResearchedMark",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_ResearchedMark"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,100,0>Скрытые свойства ЧД открыты.</color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_AttemptMark",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_AttemptMark"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_NoRepeatMark",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_NoRepeatMark"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_QualityMM3",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_QualityMM3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=80,220,120>СБ III</color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_QualityMM2",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_QualityMM2"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=60,150,255>СБ II</color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_QualityMM1",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_QualityMM1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=180,80,255>СБ I</color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_QualityMM1Full",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_QualityMM1Full"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=170,105,55>СБ I</color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Hull",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Hull"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Броня корпуса: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Fuel",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Fuel"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Объём бака: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Speed",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Speed"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Скорость двигателя: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Jump",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Jump"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Дальность прыжка: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Radar",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Radar"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Дальность радара: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Scan",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Scan"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Мощность сканера: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Droid",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Droid"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Ремонтный дроид: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Hook",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Hook"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Мощность захвата: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Def",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Def"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Защитное поле ГЗП: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_WEnergy",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_WEnergy"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Энергетическое оружие макс. урон: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_WSplinter",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_WSplinter"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Осколочное оружие макс. урон: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_WMissile",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_WMissile"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Ракетное оружие макс. урон: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_WRadius",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_WRadius"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Дальность стрельбы: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_HookRadius",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_HookRadius"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Дальность захвата: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Mass",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Mass"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Уменьшение массы корабля: -<ExCount>%</color>"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonMass",
+                    "value": "-1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Ammo",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Ammo"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Ёмкость боезапаса ракет: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_MissileSpeed",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_MissileSpeed"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Скорость ракет: +<ExCount></color>"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonMissileSpeed",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_ShotSpeed",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_ShotSpeed"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Скорострельность: +<ExCount></color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_HookMaxSpeed",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_HookMaxSpeed"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Макс. скорость захвата: +<ExCount></color>"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonHookMaxSpeed",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_HookMinSpeed",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_HookMinSpeed"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Мин. скорость захвата: +<ExCount></color>"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonHookMinSpeed",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_ResistAsteroid",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_ResistAsteroid"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Защита от астероидов: +<ExCount></color>"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonResistAsteroid",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Size",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Size"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Уменьшение размера: -<ExCount>%</color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Reliability",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Reliability"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Надёжность/прочность: +<ExCount>%</color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU_Property_Cost",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU_Property_Cost"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": "<color=255,170,40>Повышение стоимости: +<ExCount>%</color>"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_FuelApplied",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_FuelApplied"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_AmmoApplied",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_AmmoApplied"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_ShotApplied",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_ShotApplied"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonShotSpeed",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBDynamic_Hull",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBDynamic_Hull"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonHull",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBApplied_Hull",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBApplied_Hull"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBDynamic_Speed",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBDynamic_Speed"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonSpeed",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBApplied_Speed",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBApplied_Speed"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBDynamic_Jump",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBDynamic_Jump"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonJump",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBApplied_Jump",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBApplied_Jump"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBDynamic_Radar",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBDynamic_Radar"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonRadar",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBApplied_Radar",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBApplied_Radar"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBDynamic_Scan",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBDynamic_Scan"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonScan",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBApplied_Scan",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBApplied_Scan"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBDynamic_Droid",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBDynamic_Droid"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonDroid",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBApplied_Droid",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBApplied_Droid"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBDynamic_Hook",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBDynamic_Hook"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonHook",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBApplied_Hook",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBApplied_Hook"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBDynamic_Def",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBDynamic_Def"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonDef",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBApplied_Def",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBApplied_Def"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBDynamic_WEnergy",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBDynamic_WEnergy"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonWEnergy",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBApplied_WEnergy",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBApplied_WEnergy"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBDynamic_WSplinter",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBDynamic_WSplinter"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonWSplinter",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBApplied_WSplinter",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBApplied_WSplinter"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBDynamic_WMissile",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBDynamic_WMissile"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonWMissile",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBApplied_WMissile",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBApplied_WMissile"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBDynamic_WRadius",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBDynamic_WRadius"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonWRadius",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBApplied_WRadius",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBApplied_WRadius"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBDynamic_HookRadius",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBDynamic_HookRadius"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "bonHookRadius",
+                    "value": "1"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBApplied_HookRadius",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBApplied_HookRadius"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBReliability1",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBReliability1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Fragility",
+                    "value": "70"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBReliability2",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBReliability2"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Fragility",
+                    "value": "80"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "FHDUU4_SBReliability3",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "CustomTag",
+                    "value": "FHDUU4_SBReliability3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Special",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "NonSearchable",
+                    "value": "1"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Equipments",
+                    "value": "Any"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Priority",
+                    "value": "0"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "LockedAcryn",
+                    "value": "3"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ExText",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Fragility",
+                    "value": "90"
+                  }
+                ],
+                "sorted": false
+              }
+            }
+          ],
+          "sorted": false
+        }
+      },
+      {
+        "kind": "block",
+        "name": "Script",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "FHDUU4",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "block",
+                    "name": "Boot",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "int result=0;unknown init=ImportedFunction('FHDUUCore','Init');int ready=init();if(ready!=1){MessageBox('ЧД: ядро не запущено. Код: '+ready);exit;}if(!Player())exit;"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "002",
+                          "value": "if(ShipFindCustomShipInfoByType(Player(),'FHDUU4_State')<0)ShipAddCustomShipInfo(Player(),'FHDUU4_State','NoShow',0,0,0);"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "003",
+                          "value": "if(ShipFindCustomShipInfoByType(Player(),'FHDUU4_Runtime')<0)ShipAddCustomShipInfo(Player(),'FHDUU4_Runtime','NoShow',0,0,0);ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Sync'));result=1;"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "Service",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "int ready=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Boot'),'result');FHDUU_IntroMode=0;if(!ready)exit;if(ShipCustomShipInfoData(Player(),'FHDUU4_State',1)){ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Collect'));exit;}FHDUU_IntroMode=1;"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "Choose",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "unknown menu=newarray(1);ArrayDelete(menu,0);ArrayAdd(menu,'Оборудование из ЧД');ArrayAdd(menu,'Артефакт из ЧД');int choice=ListBox('Исследование скрытых свойств',menu);if(choice<0)exit;"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "002",
+                          "value": "ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Select'),'is_art',choice);"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "Select",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "unknown names=newarray(1);unknown items=newarray(1);ArrayDelete(names,0);ArrayDelete(items,0);int total=ShipItems(Player());if(is_art)total=ShipArts(Player());int mark=FindBonusByCustomTag('FHDUU_ResearchedMark');"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "002",
+                          "value": "for(int i=0;i<total;i=i+1){dword item=0;if(is_art)item=ShipArts(Player(),i);else item=ShipItems(Player(),i);if(!item)continue;if(ItemIsInUse(item)||ItemInScript(item)||ItemOwner(item)!=None||EqCustomFaction(item)!='')continue;if(mark>=0&&ItemExtraSpecialsCountByType(item,mark)>0)continue;int t=ItemType(item);if(!is_art&&(t<t_FuelTanks||t>t_CustomWeapon))continue;if(is_art&&(t<t_Artefact||t>t_ArtFastRacks||t==t_ArtefactTranclucator))continue;str image=EquipmentImageName(item);if(image=='UrineTincture'||image=='Usl_Urine')continue;ArrayAdd(names,ItemFullName(item));ArrayAdd(items,item);}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "003",
+                          "value": "if(ArrayDim(items)==0){MessageBox('Подходящих снятых предметов из ЧД нет.');exit;}int pick=ListBox('Выберите предмет',names);if(pick<0||pick>=ArrayDim(items))exit;ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Prepare'),'item',items[pick],'is_art',is_art);"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "Prepare",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "int marker=FindBonusByCustomTag('FHDUU_AttemptMark');int attempts=0;if(marker>=0)attempts=ItemExtraSpecialsCountByType(item,marker);int base=GalaxyMoney(3);if(ItemCost(item)/5>base)base=ItemCost(item)/5;int price=base*(attempts+2)/2;int risk=(attempts+2)*10;if(risk>50)risk=50;"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "002",
+                          "value": "if(!MessageBoxYesNo(ItemFullName(item)+'\\nСрок: 1 день. Стоимость: '+price+' cr.\\nУспех: 40%. Без изменений: '+(60-risk)+'%.\\nУничтожение: '+risk+'%.'))exit;if(ShipMoney(Player())<price){MessageBox('Недостаточно кредитов.');exit;}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "003",
+                          "value": "dword taken=0;if(is_art)taken=GetArtFromShip(Player(),item);else taken=GetItemFromShip(Player(),item);if(!taken){MessageBox('Передача предмета не выполнена.');exit;}PutItemInVault('FHDUU4_Research',taken);ShipMoney(Player(),ShipMoney(Player())-price);"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "004",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDUU4_State',1,CurTurn()+1);ShipCustomShipInfoData(Player(),'FHDUU4_State',2,is_art);ShipCustomShipInfoData(Player(),'FHDUU4_State',3,0);ShipCustomShipInfoTextData(Player(),'FHDUU4_State',1,ItemFullName(taken));MessageBox('Предмет передан. Результат можно забрать через день на любой научной базе.');"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "Notify",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "if(!Player())exit;int due=ShipCustomShipInfoData(Player(),'FHDUU4_State',1);if(due<=0||CurTurn()<due||ShipCustomShipInfoData(Player(),'FHDUU4_State',3))exit;ShipCustomShipInfoData(Player(),'FHDUU4_State',3,1);CustomEther('Tips',7,'FHDUU4_READY_'+due,'Исследование ЧД закончено.<br>Заберите результат на научной базе.');"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "Reset",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "for(int i=1;i<=3;i=i+1)ShipCustomShipInfoData(Player(),'FHDUU4_State',i,0);ShipCustomShipInfoTextData(Player(),'FHDUU4_State',1,'');"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "Collect",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "int due=ShipCustomShipInfoData(Player(),'FHDUU4_State',1);if(CurTurn()<due){MessageBox('До завершения: '+(due-CurTurn())+' дн.');exit;}dword item=GetItemFromVault('FHDUU4_Research');if(!item){MessageBox('Исследуемый предмет не найден.');exit;}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "002",
+                          "value": "int is_art=ShipCustomShipInfoData(Player(),'FHDUU4_State',2);int marker=FindBonusByCustomTag('FHDUU_AttemptMark');int attempts=0;if(marker>=0)attempts=ItemExtraSpecialsCountByType(item,marker);int risk=(attempts+2)*10;if(risk>50)risk=50;int outcome=Rnd(1,100);"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "003",
+                          "value": "outcome=1;if(outcome<=40){ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Success'),'item',item,'is_art',is_art);AddItemToShip(Player(),item);MessageBox('Исследование завершено: скрытые свойства открыты.');}else if(outcome<=40+risk){FreeItem(item);MessageBox('Эксперимент завершился аварией. Предмет уничтожен.');}else{if(marker>=0)ItemExtraSpecialsAddByType(item,marker,1);AddItemToShip(Player(),item);MessageBox('Новых свойств не обнаружено. Предмет возвращён.');}ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Reset'));ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Sync'));"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "Success",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "int q=Rnd(1,100);int tier=3;if(q>55&&q<=85)tier=2;else if(q>85)tier=1;int limit=4-tier;int rare=0;if(tier==1&&Rnd(1,100)<=5){limit=Rnd(4,5);rare=1;}unknown allPool=newarray(1);ArrayDelete(allPool,0);unknown ownPool=newarray(1);ArrayDelete(ownPool,0);"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "002",
+                          "value": "ArrayAdd(allPool,0);ArrayAdd(allPool,1);ArrayAdd(allPool,2);ArrayAdd(allPool,3);ArrayAdd(allPool,4);ArrayAdd(allPool,5);ArrayAdd(allPool,6);ArrayAdd(allPool,7);ArrayAdd(allPool,8);ArrayAdd(allPool,9);ArrayAdd(allPool,10);ArrayAdd(allPool,11);ArrayAdd(allPool,12);ArrayAdd(allPool,21);ArrayAdd(allPool,28);ArrayAdd(allPool,31);ArrayAdd(allPool,33);ArrayAdd(allPool,35);ArrayAdd(allPool,36);ArrayAdd(allPool,40);ArrayAdd(allPool,41);ArrayAdd(allPool,42);ArrayAdd(allPool,43);"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "003",
+                          "value": "int t=ItemType(item);if(!is_art){if(t==t_FuelTanks)ArrayAdd(ownPool,1);else if(t==t_Engine){ArrayAdd(ownPool,2);ArrayAdd(ownPool,3);}else if(t==t_Radar)ArrayAdd(ownPool,4);else if(t==t_Scaner)ArrayAdd(ownPool,5);else if(t==t_RepairRobot)ArrayAdd(ownPool,6);else if(t==t_CargoHook){ArrayAdd(ownPool,7);ArrayAdd(ownPool,21);ArrayAdd(ownPool,35);ArrayAdd(ownPool,36);}else if(t==t_DefGenerator)ArrayAdd(ownPool,8);else if(t>t_DefGenerator&&t<=t_CustomWeapon){int damageClass=GetEquipmentStats(item,3);if(damageClass==0)ArrayAdd(ownPool,9);else if(damageClass==1)ArrayAdd(ownPool,10);else if(damageClass==2){ArrayAdd(ownPool,11);ArrayAdd(ownPool,31);ArrayAdd(ownPool,33);}ArrayAdd(ownPool,12);}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "004",
+                          "value": "str quality='FHDUU_QualityMM'+tier;if(rare)quality='FHDUU_QualityMM1Full';int qm=FindBonusByCustomTag(quality);if(qm>=0)ItemExtraSpecialsAddByType(item,qm,1);int mark=FindBonusByCustomTag('FHDUU_ResearchedMark');if(mark>=0)ItemExtraSpecialsAddByType(item,mark,1);"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "005",
+                          "value": "int firstDone=0;if(ArrayDim(ownPool)>0){int firstPos=Rnd(0,ArrayDim(ownPool)-1);int firstProp=ownPool[firstPos];ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.AddProperty'),'item',item,'b',firstProp,'tier',tier);for(int removeIdx=0;removeIdx<ArrayDim(allPool);removeIdx=removeIdx+1){if(allPool[removeIdx]==firstProp){ArrayDelete(allPool,removeIdx);break;}}firstDone=1;}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "006",
+                          "value": "for(int draw=firstDone;draw<limit;draw=draw+1){if(ArrayDim(allPool)==0)break;int randPos=Rnd(0,ArrayDim(allPool)-1);int randProp=allPool[randPos];ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.AddProperty'),'item',item,'b',randProp,'tier',tier);ArrayDelete(allPool,randPos);}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "007",
+                          "value": "if(!is_art){int no=FindBonusByCustomTag('FHDUU_NoRepeatMark');if(no>=0)ItemExtraSpecialsAddByType(item,no,1);if(EqModule(item)>=0&&EqSpecial(item)<0){EqSpecial(item,EqModule(item));EqModule(item,-1);}}"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "AddProperty",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "int marker=-1;int lo=0;int hi=0;int step=1;"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "002",
+                          "value": "if(b==0){marker=FindBonusByCustomTag('FHDUU_Property_Hull');if(tier==1){lo=5;hi=7;step=1;}else if(tier==2){lo=3;hi=4;step=1;}else{lo=1;hi=2;step=1;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "003",
+                          "value": "if(b==1){marker=FindBonusByCustomTag('FHDUU_Property_Fuel');if(tier==1){lo=27;hi=42;step=3;}else if(tier==2){lo=17;hi=26;step=3;}else{lo=10;hi=16;step=3;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "004",
+                          "value": "if(b==2){marker=FindBonusByCustomTag('FHDUU_Property_Speed');if(tier==1){lo=110;hi=165;step=5;}else if(tier==2){lo=60;hi=105;step=5;}else{lo=25;hi=55;step=5;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "005",
+                          "value": "if(b==3){marker=FindBonusByCustomTag('FHDUU_Property_Jump');if(tier==1){lo=19;hi=25;step=3;}else if(tier==2){lo=12;hi=18;step=3;}else{lo=5;hi=11;step=3;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "006",
+                          "value": "if(b==4){marker=FindBonusByCustomTag('FHDUU_Property_Radar');if(tier==1){lo=1100;hi=1600;step=100;}else if(tier==2){lo=550;hi=1000;step=100;}else{lo=250;hi=550;step=100;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "007",
+                          "value": "if(b==5){marker=FindBonusByCustomTag('FHDUU_Property_Scan');if(tier==1){lo=19;hi=28;step=3;}else if(tier==2){lo=12;hi=18;step=3;}else{lo=5;hi=11;step=3;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "008",
+                          "value": "if(b==6){marker=FindBonusByCustomTag('FHDUU_Property_Droid');if(tier==1){lo=25;hi=31;step=2;}else if(tier==2){lo=15;hi=21;step=2;}else{lo=5;hi=11;step=2;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "009",
+                          "value": "if(b==7){marker=FindBonusByCustomTag('FHDUU_Property_Hook');if(tier==1){lo=55;hi=100;step=5;}else if(tier==2){lo=35;hi=50;step=5;}else{lo=10;hi=30;step=5;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "010",
+                          "value": "if(b==8){marker=FindBonusByCustomTag('FHDUU_Property_Def');if(tier==1){lo=14;hi=24;step=2;}else if(tier==2){lo=7;hi=13;step=2;}else{lo=2;hi=6;step=2;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "011",
+                          "value": "if(b==9){marker=FindBonusByCustomTag('FHDUU_Property_WEnergy');if(tier==1){lo=16;hi=22;step=2;}else if(tier==2){lo=9;hi=15;step=2;}else{lo=4;hi=8;step=2;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "012",
+                          "value": "if(b==10){marker=FindBonusByCustomTag('FHDUU_Property_WSplinter');if(tier==1){lo=22;hi=34;step=3;}else if(tier==2){lo=12;hi=21;step=3;}else{lo=5;hi=11;step=3;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "013",
+                          "value": "if(b==11){marker=FindBonusByCustomTag('FHDUU_Property_WMissile');if(tier==1){lo=27;hi=39;step=3;}else if(tier==2){lo=17;hi=26;step=3;}else{lo=7;hi=16;step=3;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "014",
+                          "value": "if(b==12){marker=FindBonusByCustomTag('FHDUU_Property_WRadius');if(tier==1){lo=150;hi=200;step=10;}else if(tier==2){lo=70;hi=110;step=10;}else{lo=20;hi=60;step=10;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "015",
+                          "value": "if(b==21){marker=FindBonusByCustomTag('FHDUU_Property_HookRadius');if(tier==1){lo=80;hi=120;step=10;}else if(tier==2){lo=40;hi=70;step=10;}else{lo=10;hi=30;step=10;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "016",
+                          "value": "if(b==28){marker=FindBonusByCustomTag('FHDUU_Property_Mass');if(tier==1){lo=25;hi=30;step=5;}else if(tier==2){lo=15;hi=20;step=5;}else{lo=5;hi=10;step=5;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "017",
+                          "value": "if(b==31){marker=FindBonusByCustomTag('FHDUU_Property_Ammo');if(tier==1){lo=25;hi=25;step=1;}else if(tier==2){lo=15;hi=15;step=1;}else{lo=5;hi=5;step=1;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "018",
+                          "value": "if(b==33){marker=FindBonusByCustomTag('FHDUU_Property_MissileSpeed');if(tier==1){lo=190;hi=290;step=20;}else if(tier==2){lo=120;hi=180;step=20;}else{lo=50;hi=110;step=20;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "019",
+                          "value": "if(b==35){marker=FindBonusByCustomTag('FHDUU_Property_HookMaxSpeed');if(tier==1){lo=65;hi=65;step=1;}else if(tier==2){lo=45;hi=45;step=1;}else{lo=25;hi=25;step=1;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "020",
+                          "value": "if(b==36){marker=FindBonusByCustomTag('FHDUU_Property_HookMinSpeed');if(tier==1){lo=60;hi=60;step=1;}else if(tier==2){lo=40;hi=40;step=1;}else{lo=20;hi=20;step=1;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "021",
+                          "value": "if(b==40){marker=FindBonusByCustomTag('FHDUU_Property_ResistAsteroid');if(tier==1){lo=50;hi=50;step=1;}else if(tier==2){lo=30;hi=30;step=1;}else{lo=10;hi=10;step=1;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "022",
+                          "value": "if(b==41){marker=FindBonusByCustomTag('FHDUU_Property_Size');if(tier==1){lo=25;hi=30;step=5;}else if(tier==2){lo=15;hi=20;step=5;}else{lo=5;hi=10;step=5;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "023",
+                          "value": "if(b==42){marker=FindBonusByCustomTag('FHDUU_Property_Reliability');if(tier==1){lo=30;hi=30;step=1;}else if(tier==2){lo=20;hi=20;step=1;}else{lo=10;hi=10;step=1;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "024",
+                          "value": "if(b==43){marker=FindBonusByCustomTag('FHDUU_Property_Cost');if(tier==1){lo=30;hi=30;step=1;}else if(tier==2){lo=20;hi=20;step=1;}else{lo=10;hi=10;step=1;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "025",
+                          "value": "if(marker<0||lo<=0||step<=0||hi<lo)exit;int value=lo+Rnd(0,(hi-lo)/step)*step;if(ItemExtraSpecialsCountByType(item,marker)>0)exit;ItemExtraSpecialsAddByType(item,marker,value);"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "026",
+                          "value": "if(b==41){int size=ItemSize(item);int changed=size*(100-value)/100;if(changed<1)changed=1;ItemSize(item,changed);}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "027",
+                          "value": "if(b==43){int cost=ItemCost(item);if(cost>0){int newCost=cost+round(cost/100.0*value);if(newCost>cost)ItemCost(item,newCost);}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "028",
+                          "value": "if(b==42){str rt='FHDUU4_SBReliability'+tier;int rm=FindBonusByCustomTag(rt);if(rm>=0&&ItemExtraSpecialsCountByType(item,rm)==0)ItemExtraSpecialsAddByType(item,rm,1);}"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "Sum",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "int result=0;int marker=FindBonusByCustomTag('FHDUU_Property_'+tag);if(marker<0||!Player())exit;"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "002",
+                          "value": "for(int i=0;i<ShipItems(Player());i=i+1){dword item=ShipItems(Player(),i);if(item&&ItemIsInUse(item)>0&&!ItemIsBroken(item))result=result+ItemExtraSpecialsCountByType(item,marker);}for(int j=0;j<ShipArts(Player());j=j+1){dword art=ShipArts(Player(),j);if(art&&ItemIsInUse(art)>0&&!ItemIsBroken(art))result=result+ItemExtraSpecialsCountByType(art,marker);}"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "Sync",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "if(!Player())exit;int fuel=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Sum'),'tag','Fuel','result');int ammo=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Sum'),'tag','Ammo','result');int shot=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Sum'),'tag','ShotSpeed','result');"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "002",
+                          "value": "int fm=FindBonusByCustomTag('FHDUU4_FuelApplied');int am=FindBonusByCustomTag('FHDUU4_AmmoApplied');int sm=FindBonusByCustomTag('FHDUU4_ShotApplied');dword tank=ShipEqInSlot(Player(),t_FuelTanks);"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "003",
+                          "value": "for(int i=0;i<ShipItems(Player());i=i+1){dword item=ShipItems(Player(),i);if(!item)continue;int t=ItemType(item);if(t==t_FuelTanks&&fm>=0){int old=ItemExtraSpecialsCountByType(item,fm);int base=GetEquipmentStats(item,0)-old;int want=0;if(item==tank)want=fuel;if(base+want>255)want=255-base;if(want<0)want=0;if(old!=want){int capacity=base+want;SetEquipmentStats(item,capacity,0);if(GetEquipmentStats(item,1)>capacity)SetEquipmentStats(item,capacity,1);if(old>0)ItemExtraSpecialsDeleteByType(item,fm,old);if(want>0)ItemExtraSpecialsAddByType(item,fm,want);}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "004",
+                          "value": "if(t>t_DefGenerator&&t<=t_CustomWeapon){int active=0;if(ItemIsInUse(item)>0)active=1;if(am>=0){int olda=ItemExtraSpecialsCountByType(item,am);int basea=WeaponMaxAmmunition(item)-olda;int wanta=0;if(active&&basea>0&&GetEquipmentStats(item,3)==2)wanta=ammo;if(wanta!=olda){WeaponMaxAmmunition(item,basea+wanta);if(WeaponAmmunition(item)>basea+wanta)WeaponAmmunition(item,basea+wanta);if(olda>0)ItemExtraSpecialsDeleteByType(item,am,olda);if(wanta>0)ItemExtraSpecialsAddByType(item,am,wanta);}}ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.SetCount'),'item',item,'marker',sm,'want',shot*active);}}ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.SyncSB'));ShipCalcParam(Player());"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "SetCount",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "if(marker<0)exit;int old=ItemExtraSpecialsCountByType(item,marker);if(old==want)exit;if(old>0)ItemExtraSpecialsDeleteByType(item,marker,old);if(want>0)ItemExtraSpecialsAddByType(item,marker,want);"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "SyncSB",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "if(!Player())exit;for(int k=0;k<ShipItems(Player());k=k+1){dword item=ShipItems(Player(),k);if(item)ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.SBItem'),'item',item);}for(int j=0;j<ShipArts(Player());j=j+1){dword art=ShipArts(Player(),j);if(art)ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.SBItem'),'item',art);}"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "SBItem",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "int t=ItemType(item);int cnt=ItemExtraSpecials(item);int dmg=-1;if(t>t_DefGenerator&&t<=t_CustomWeapon)dmg=GetEquipmentStats(item,3);"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "002",
+                          "value": "for(int k=0;k<cnt;k=k+1){int idx=ItemExtraSpecials(item,k);if(idx<0)continue;str key=BonusCustomTag(idx);str tag='';int own=0;int stat=0;int cap=2000000000;"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "003",
+                          "value": "if(key=='FHDUU_Property_Hull'){tag='Hull';if(t==t_Hull){own=1;stat=0;cap=127;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "004",
+                          "value": "else if(key=='FHDUU_Property_Speed'){tag='Speed';if(t==t_Engine){own=1;stat=0;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "005",
+                          "value": "else if(key=='FHDUU_Property_Jump'){tag='Jump';if(t==t_Engine){own=1;stat=1;cap=127;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "006",
+                          "value": "else if(key=='FHDUU_Property_Radar'){tag='Radar';if(t==t_Radar){own=1;stat=0;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "007",
+                          "value": "else if(key=='FHDUU_Property_Scan'){tag='Scan';if(t==t_Scaner){own=1;stat=0;cap=127;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "008",
+                          "value": "else if(key=='FHDUU_Property_Droid'){tag='Droid';if(t==t_RepairRobot){own=1;stat=0;cap=255;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "009",
+                          "value": "else if(key=='FHDUU_Property_Hook'){tag='Hook';if(t==t_CargoHook){own=1;stat=0;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "010",
+                          "value": "else if(key=='FHDUU_Property_Def'){tag='Def';if(t==t_DefGenerator){own=1;stat=0;cap=99;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "011",
+                          "value": "else if(key=='FHDUU_Property_HookRadius'){tag='HookRadius';if(t==t_CargoHook){own=1;stat=1;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "012",
+                          "value": "else if(key=='FHDUU_Property_WEnergy'){tag='WEnergy';if(dmg==0){own=1;stat=0;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "013",
+                          "value": "else if(key=='FHDUU_Property_WSplinter'){tag='WSplinter';if(dmg==1){own=1;stat=0;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "014",
+                          "value": "else if(key=='FHDUU_Property_WMissile'){tag='WMissile';if(dmg==2){own=1;stat=0;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "015",
+                          "value": "else if(key=='FHDUU_Property_WRadius'){tag='WRadius';if(dmg>=0){own=1;stat=2;}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "016",
+                          "value": "if(tag!='')ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.SBOne'),'item',item,'tag',tag,'own',own,'stat',stat,'cap',cap);}"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "SBOne",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "int original=FindBonusByCustomTag('FHDUU_Property_'+tag);if(original<0)exit;int value=ItemExtraSpecialsCountByType(item,original);if(value<=0)exit;"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "002",
+                          "value": "int direct=FindBonusByCustomTag('FHDUU4_SBApplied_'+tag);int dynamic=FindBonusByCustomTag('FHDUU4_SBDynamic_'+tag);if(direct<0||dynamic<0)exit;"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "003",
+                          "value": "if(own){if(ItemExtraSpecialsCountByType(item,direct)>0)exit;int before=GetEquipmentStats(item,stat);int after=before+value;if(after>=before&&after<=cap){SetEquipmentStats(item,after,stat);if(GetEquipmentStats(item,stat)==after){ItemExtraSpecialsAddByType(item,direct,value);exit;}}}"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "004",
+                          "value": "if(ItemExtraSpecialsCountByType(item,dynamic)==0)ItemExtraSpecialsAddByType(item,dynamic,value);"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              }
+            }
+          ],
+          "sorted": false
+        }
+      },
+      {
+        "kind": "block",
+        "name": "ShipInfo",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "AddInfo",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "block",
+                    "name": "CustomInfos",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "block",
+                          "name": "FHDUU4_State",
+                          "value": {
+                            "entries": [
+                              {
+                                "kind": "parameter",
+                                "name": "Name",
+                                "value": ""
+                              },
+                              {
+                                "kind": "parameter",
+                                "name": "Description",
+                                "value": "NoShow"
+                              },
+                              {
+                                "kind": "parameter",
+                                "name": "Icon",
+                                "value": "0"
+                              }
+                            ],
+                            "sorted": false
+                          }
+                        },
+                        {
+                          "kind": "block",
+                          "name": "FHDUU4_Runtime",
+                          "value": {
+                            "entries": [
+                              {
+                                "kind": "parameter",
+                                "name": "Name",
+                                "value": ""
+                              },
+                              {
+                                "kind": "parameter",
+                                "name": "Description",
+                                "value": "NoShow"
+                              },
+                              {
+                                "kind": "parameter",
+                                "name": "Icon",
+                                "value": "0"
+                              },
+                              {
+                                "kind": "parameter",
+                                "name": "OnActCodeTypes",
+                                "value": "t_OnStep,t_OnShowingShipInfo,t_OnEnteringForm,t_OnReEnteringForm,t_OnLeavingForm,t_OnNonStandartEqChange,t_OnPlayerUseMM,t_OnPlayerChangeHull"
+                              },
+                              {
+                                "kind": "parameter",
+                                "name": "OnActStepTypes",
+                                "value": "0"
+                              },
+                              {
+                                "kind": "block",
+                                "name": "OnActCode",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "kind": "parameter",
+                                      "name": "001",
+                                      "value": "ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Notify'));"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "002",
+                                      "value": "ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Sync'));"
+                                    }
+                                  ],
+                                  "sorted": false
+                                }
+                              }
+                            ],
+                            "sorted": false
+                          }
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              }
+            }
+          ],
+          "sorted": false
+        }
+      }
+    ],
+    "sorted": false
+  }
+}

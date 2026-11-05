@@ -182,5 +182,15 @@
     "no launcher CMD/EXE",
     "no game directory mutation",
     "test in game before release"
+  ],
+  "derived_assets": [
+    {
+      "source_file": "fix0416/CFG/Rus/Lang.json",
+      "original_archive_file": "fix0416/Lang.dat",
+      "round_trip": "byte-identical",
+      "original_sha256": "a196ec22071bb1b8840e077fa48a31302dd80510596dbc10a5fcd2e39eab362b",
+      "original_size": 6800,
+      "json_sha256": "c84a299d505a89ba041c4f19089e671149cc907121a9fe50c714b7f54a7c91f2"
+    }
   ]
 }
