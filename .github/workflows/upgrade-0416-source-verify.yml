@@ -14,3 +14,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 imports/0.4.16_SOURCE_QA/verify_source.py
+      - run: python3 imports/0.4.16_SOURCE_QA/verify_lang_rebuild.py
