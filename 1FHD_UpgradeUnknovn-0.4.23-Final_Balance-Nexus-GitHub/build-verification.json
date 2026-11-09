@@ -1,0 +1,7 @@
+{
+  "date": "2026-11-09",
+  "method": "rebuild from editable DAT/GI/metadata with untouched DLL/SCR",
+  "passes": 8,
+  "files": 8,
+  "tested_in_game": false
+}

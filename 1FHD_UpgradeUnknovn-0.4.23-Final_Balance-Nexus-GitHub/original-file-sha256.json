@@ -1,0 +1,39 @@
+{
+  "original_archive": "FHD_UpgradeUnknovn-0.4.23-Final Balance.rar",
+  "original_archive_sha256": "efba9c536ca3b126d3dea4340f8d27d45c052c73ee2e7fc6328fcfe35b0b6eed",
+  "mod_root": "Mods/FHD_MODS/FHD_UpgradeUnknovn/",
+  "files": {
+    "CFG/CacheData.dat": {
+      "sha256": "f484a2bf641dfe4cdb3e8bd83e2b521f40b4bca5f7147b557bf96261932bc536",
+      "size": 121
+    },
+    "CFG/Eng/Lang.dat": {
+      "sha256": "3c98aa052c870145f96b62df3f34710e3199cb3b81dcb80be6fda2f6b2fdb3d7",
+      "size": 11741
+    },
+    "CFG/Main.dat": {
+      "sha256": "141130aafd5608459ea1b402eb273bed1d35ec8ce55b2b0a4cf0e4fe6775b917",
+      "size": 295
+    },
+    "CFG/Rus/Lang.dat": {
+      "sha256": "3c98aa052c870145f96b62df3f34710e3199cb3b81dcb80be6fda2f6b2fdb3d7",
+      "size": 11741
+    },
+    "DATA/Image/2FHDUU_DualMM.gi": {
+      "sha256": "c53cbef446e156344f363f709f455fb0e759259664c79d634fe791c236bdd604",
+      "size": 2186
+    },
+    "DATA/Native/FHDUUCore.dll": {
+      "sha256": "5d38d70e506bf2c093821836fc307472924cb9445fbe18a3b0144ec83cd4fa36",
+      "size": 26624
+    },
+    "DATA/Script/FHDUU_Dialog.scr": {
+      "sha256": "a573117a3d71b108af8ee23f29dd8135fbda0fe9e9f1da8f503f0546ac5aadd8",
+      "size": 3795
+    },
+    "ModuleInfo.txt": {
+      "sha256": "89e20e2070333422489e5043a626929eace6ed08bee4881a5fdd09048b857737",
+      "size": 4388
+    }
+  }
+}

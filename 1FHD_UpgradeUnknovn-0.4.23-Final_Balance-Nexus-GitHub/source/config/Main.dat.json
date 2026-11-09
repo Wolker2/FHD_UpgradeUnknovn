@@ -1,0 +1,115 @@
+{
+  "format": "blockpar",
+  "seed": 1369621460,
+  "root": {
+    "entries": [
+      {
+        "kind": "block",
+        "name": "BV",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "OnLoad",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "block",
+                    "name": "91_FHDUU4",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "001",
+                          "value": "ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Boot'));"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "OnStart",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "block",
+                    "name": "0DayScripts",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "91_FHDUU4",
+                          "value": "ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDUU4.Boot'));"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              }
+            }
+          ],
+          "sorted": false
+        }
+      },
+      {
+        "kind": "block",
+        "name": "Data",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "Script",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "FHDUU_Dialog",
+                    "value": "1,Script.FHDUU_Dialog"
+                  }
+                ],
+                "sorted": false
+              }
+            },
+            {
+              "kind": "block",
+              "name": "ScriptLibs",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "block",
+                    "name": "FHDUUCore",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "Path",
+                          "value": "Mods\\FHD_MODS\\FHD_UpgradeUnknovn\\DATA\\Native\\FHDUUCore.dll"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "Init",
+                          "value": "int,FHDUU_Init"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              }
+            }
+          ],
+          "sorted": false
+        }
+      }
+    ],
+    "sorted": false
+  }
+}
